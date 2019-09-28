@@ -1,0 +1,4 @@
+- Get Sensor IDs for all sensors in the bay area
+- Get historical Bay Area Air Quality Index Data
+- Build a python script to query sensors in bay area every 5 minutes -- serially on single thread.
+

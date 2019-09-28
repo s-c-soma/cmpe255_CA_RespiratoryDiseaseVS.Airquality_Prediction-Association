@@ -1,0 +1,132 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "Healthcare Information Division, Office of Statewide Health Planning and Development [Distributor: California Breathing Asthma Program, California Department of Public Health]. 2016. AsthmaEDvisitRates-by-County-CA-CDPH.csv",
+  "contact_email": "opendata@cdph.ca.gov",
+  "data_collection_tool": "Emergency Department data from the California Office of Statewide Health Planning and Development, 2012. http://www.oshpd.ca.gov/HID/Data_Request_Center/Data_Documentation.html",
+  "data_license": "Terms of Use",
+  "de_identification_method": "Counts and rates are not provided where the number of events was less 12.",
+  "description": "This is a source dataset for a Let's Get Healthy California indicator at https://letsgethealthy.ca.gov/.\r\nThis dataset contains counts and rates (per 10,000 residents) of asthma (ICD9-CM, 493.0-493.9) emergency department visits among California residents by County and age group (all ages, 0-17, 18+). The data are derived from the Office of Statewide Health Planning and Development emergency department databases. \r\nThese data include emergency department visits from all licensed hospitals in California. These data are based only on primary discharge diagnosis codes (ICD9-CM).\r\nNOTE: Rates are calculated from the total number of Asthma ED Visits (not the unique number of individuals).",
+  "geo_coverage": "California",
+  "geographic_granularity": "county",
+  "keywords": [
+    "asthma",
+    "asthma attack",
+    "chronic disease",
+    "disease of respiratory system",
+    "health effects",
+    "health outcome",
+    "lets get healthy california",
+    "lghc",
+    "respiratory disease"
+  ],
+  "limitations": "Limitations",
+  "name": "asthma-ed-visit-rates-lghc-indicator-07",
+  "program_web_page": "https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHIB/CPE/Pages/CaliforniaBreathing.aspx",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "This is a source dataset for a Let's Get Healthy California indicator at https://letsgethealthy.ca.gov/.\r\nThis dataset contains counts and rates (per 10,000 residents) of asthma (ICD9-CM, 493.0-493.9) emergency department visits among California residents by County and age group (all ages, 0-17, 18+). The data are derived from the Office of Statewide Health Planning and Development emergency department databases. \r\nThese data include emergency department visits from all licensed hospitals in California. These data are based only on primary discharge diagnosis codes (ICD9-CM).\r\nNOTE: Rates are calculated from the total number of Asthma ED Visits (not the unique number of individuals).",
+      "format": "CSV",
+      "name": "asthma-ed-visit-rates-lghc-indicator-07-csv",
+      "path": "asthma-ed-visit-rates-lghc-indicator-07-.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Geography",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Age Group",
+            "type": "string"
+          },
+          {
+            "name": "Strata",
+            "type": "string"
+          },
+          {
+            "name": "Strata Name",
+            "type": "string"
+          },
+          {
+            "name": "Numerator",
+            "type": "string"
+          },
+          {
+            "name": "Percent",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/28698f95-0637-44f0-9072-a405d90f3f83/resource/781708cb-7b25-4967-b760-54b2a4b8cfed/download/asthma-ed-visit-rates-lghc-indicator-07.csv",
+          "title": "Asthma ED Visit Rates (LGHC Indicator 07) (CSV)"
+        }
+      ],
+      "title": "Asthma ED Visit Rates (LGHC Indicator 07) (CSV)"
+    },
+    {
+      "description": "This is a source dataset for a Let's Get Healthy California indicator at https://letsgethealthy.ca.gov/.\r\nThis dataset contains counts and rates (per 10,000 residents) of asthma (ICD9-CM, 493.0-493.9) emergency department visits among California residents by County and age group (all ages, 0-17, 18+). The data are derived from the Office of Statewide Health Planning and Development emergency department databases. \r\nThese data include emergency department visits from all licensed hospitals in California. These data are based only on primary discharge diagnosis codes (ICD9-CM).\r\nNOTE: Rates are calculated from the total number of Asthma ED Visits (not the unique number of individuals).",
+      "format": "PDF",
+      "name": "asthma-emergency-department-visit-rates-by-county-in-2012-description",
+      "path": "asthma-emergency-department-visit-rates-by-county-in-2012-description.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/28698f95-0637-44f0-9072-a405d90f3f83/resource/7f062c50-bca8-4c6d-b107-90b2951019b4/download/asthmaemergencydepartmentvisitratesbycountyin2012-description.pdf",
+          "title": "asthma-emergency-department-visit-rates-by-county-in-2012-description"
+        }
+      ],
+      "title": "asthma-emergency-department-visit-rates-by-county-in-2012-description"
+    },
+    {
+      "description": "This is a source dataset for a Let's Get Healthy California indicator at https://letsgethealthy.ca.gov/.\r\nThis dataset contains counts and rates (per 10,000 residents) of asthma (ICD9-CM, 493.0-493.9) emergency department visits among California residents by County and age group (all ages, 0-17, 18+). The data are derived from the Office of Statewide Health Planning and Development emergency department databases. \r\nThese data include emergency department visits from all licensed hospitals in California. These data are based only on primary discharge diagnosis codes (ICD9-CM).\r\nNOTE: Rates are calculated from the total number of Asthma ED Visits (not the unique number of individuals).",
+      "format": "XLSX",
+      "name": "asthma-ed-visit-rates-lghc-indicator-07-dd",
+      "path": "asthma-ed-visit-rates-lghc-indicator-07-dd.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "COLUMN NAME",
+            "type": "string"
+          },
+          {
+            "name": "FORMAT",
+            "type": "string"
+          },
+          {
+            "name": "DEFINITION",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/28698f95-0637-44f0-9072-a405d90f3f83/resource/a1ae417f-b525-466b-8d8e-7a296f3ac3f8/download/asthma-ed-visit-rates-lghc-indicator-07-dd.xlsx",
+          "title": "asthma-ed-visit-rates-lghc-indicator-07-dd"
+        }
+      ],
+      "title": "asthma-ed-visit-rates-lghc-indicator-07-dd"
+    },
+    {
+      "description": "Nearly 1.5 million children in California have asthma and the condition makes it difficult for this group to exercise, play, and attend school.[1] There is evidence that children unable to manage their asthma tend to visit emergency departments (ED) at increased rates.[1] Better management of this chronic disease is critical to reducing ED visits and improving the quality of life for children with asthma. In 2010 (baseline year), there were 73.0 childhood asthma-related ED visits per 10,000 visits. The most recent rate available is 80.6 (2015). We hope to reach a target of 28.0 or lower by 2022.\r\n\r\nLearn more from [Let's Get Healthy California](https://letsgethealthy.ca.gov/goals/healthy-beginnings/reducing-childhood-asthma)\r\n\r\n[1] Backman, D., Lee, P., & Paciotti, B. (2013). Health Disparities in the Medi-Cal Population. Retrieved November 17, 2015, from www.dhcs.ca.gov: http://www.dhcs.ca.gov/dataandstats/Documents/HealthDisparities.pdf",
+      "format": "Chart",
+      "name": "ed-visits-due-to-asthma-per-10000-children-and-adolescents",
+      "path": "https://letsgethealthy.ca.gov/goals/healthy-beginnings/reducing-childhood-asthma",
+      "title": "ED Visits Due to Asthma per 10,000 Children and Adolescents"
+    }
+  ],
+  "secondary_sources": "www.oshpd.ca.gov   This information is provided as a courtesy. It does not imply endorsement of the organization represented by the website ",
+  "sources": [
+    {
+      "name": "California Breathing Asthma Program",
+      "web": "https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHIB/CPE/Pages/CaliforniaBreathingData.aspx "
+    }
+  ],
+  "temporal_coverage": "2011-2017",
+  "title": "Asthma ED Visit Rates (LGHC Indicator)"
+}

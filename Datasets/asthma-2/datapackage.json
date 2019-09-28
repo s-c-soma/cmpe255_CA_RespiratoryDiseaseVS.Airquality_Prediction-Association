@@ -1,0 +1,329 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "These data are based on self-report from telephone surveys and are subject to bias and low response rates. Warning is provided when prevalence estimate is statistically unstable (standard error is 30-50% of prevalence estimate). Data are suppressed when standard error exceeds 50% of prevalence estimate.",
+  "citation": "",
+  "contact_email": "California.Breathing@cdph.ca.gov",
+  "data_collection_tool": "California Health Interview Survey (prevalence by county and age group); California Behavioral Risk Factor Surveillance System (adult prevalence statewide)  \r\n\r\n",
+  "data_license": "Terms of Use",
+  "de_identification_method": "Data are suppressed when standard error exceeds 50% of prevalence estimate.",
+  "description": "This dataset contains the estimated percentage of Californians with asthma (asthma prevalence). Two types of asthma prevalence are included: 1) lifetime asthma prevalence describes the percentage of people who have ever been diagnosed with asthma by a health care provider, 2) current asthma prevalence describes the percentage of people who have ever been diagnosed with asthma by a health care provider AND report they still have asthma and/or had an asthma episode or attack within the past 12 months. The tables “Lifetime Asthma Prevalence by County” and “Current Asthma Prevalence by County” are derived from the California Health Interview Survey and include data stratified by county and age group (all ages, 0-17, 18+, 0-4, 5-17, 18-64, 65+) reported for 2-year periods. The table “Asthma Prevalence, Adults (18 and older)” is derived from the California Behavioral Risk Factor Surveillance System (BRFSS) and includes statewide data on adults reported by year.",
+  "geo_coverage": "California",
+  "geographic_granularity": "county",
+  "keywords": [
+    "BRFSS",
+    "CHIS",
+    "California Behavorial Risk Factor Surveillance System",
+    "California Breathing",
+    "California Health Interview Survey",
+    "Prevalence",
+    "asthma",
+    "chronic disease",
+    "disease of respiratory system",
+    "health effects",
+    "health outcome",
+    "respiratory disease"
+  ],
+  "limitations": "Limitations",
+  "name": "asthma-prevalence",
+  "program_web_page": "https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHIB/CPE/Pages/CaliforniaBreathing.aspx ",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "This dataset contains current asthma prevalence, the estimated percentage of Californians who have ever been diagnosed with asthma by a health care provider AND report they still have asthma and/or had an asthma episode or attack within the past 12 months, statewide and by county. The data are stratified by age group (all ages, 0-17, 18+, 0-4, 5-17, 18-64, 65+) and reported for 2-year periods. These data are derived from the California Health Interview Survey. ",
+      "format": "XLSX",
+      "name": "chis-data-current-asthma-prevalence-by-county",
+      "path": "chis-data-current-asthma-prevalence-by-county.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "COUNTY",
+            "type": "string"
+          },
+          {
+            "name": "YEARS",
+            "type": "string"
+          },
+          {
+            "name": "STRATA",
+            "type": "string"
+          },
+          {
+            "name": "AGE GROUP",
+            "type": "string"
+          },
+          {
+            "name": "CURRENT PREVALENCE",
+            "type": "number"
+          },
+          {
+            "name": "95% CONFIDENCE INTERVAL",
+            "type": "string"
+          },
+          {
+            "name": "COUNTIES GROUPED",
+            "type": "string"
+          },
+          {
+            "name": "COMMENT",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/01f456c3-db34-44f2-a52c-6811bef8ba6d/resource/a440b99b-ccc6-473c-bea1-2baf36b05dbe/download/current-asthma-prevalence-by-county.xlsx",
+          "title": "CHIS Data-Current Asthma Prevalence by County"
+        }
+      ],
+      "title": "CHIS Data-Current Asthma Prevalence by County"
+    },
+    {
+      "format": "XLSX",
+      "name": "data-dictionary-chis-data-current-asthma-prevalence-by-county",
+      "path": "data-dictionary-chis-data-current-asthma-prevalence-by-county.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Field Title",
+            "type": "string"
+          },
+          {
+            "name": "Field Name",
+            "type": "string"
+          },
+          {
+            "name": "Data Type",
+            "type": "string"
+          },
+          {
+            "name": "Description",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/01f456c3-db34-44f2-a52c-6811bef8ba6d/resource/13d6472c-1b35-4d4e-9c66-e643941de459/download/current-asthma-prevalence-by-county_data-dictionary.xlsx",
+          "title": "Data Dictionary-CHIS Data-Current Asthma Prevalence by County"
+        }
+      ],
+      "title": "Data Dictionary-CHIS Data-Current Asthma Prevalence by County"
+    },
+    {
+      "description": "This dataset contains lifetime asthma prevalence, the estimated percentage of Californians who have ever been diagnosed with asthma by a health care provider, statewide and by county. The data are stratified by age group (all ages, 0-17, 18+, 0-4, 5-17, 18-64, 65+) and reported for 2-year periods. These data are derived from the California Health Interview Survey. ",
+      "format": "XLSX",
+      "name": "chis-data-lifetime-asthma-prevalence-by-county",
+      "path": "chis-data-lifetime-asthma-prevalence-by-county.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "COUNTY",
+            "type": "string"
+          },
+          {
+            "name": "YEARS",
+            "type": "string"
+          },
+          {
+            "name": "STRATA",
+            "type": "string"
+          },
+          {
+            "name": "AGE GROUP",
+            "type": "string"
+          },
+          {
+            "name": "LIFETIME PREVALENCE",
+            "type": "number"
+          },
+          {
+            "name": "95% CONFIDENCE INTERVAL",
+            "type": "string"
+          },
+          {
+            "name": "COUNTIES GROUPED",
+            "type": "string"
+          },
+          {
+            "name": "COMMENT",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/01f456c3-db34-44f2-a52c-6811bef8ba6d/resource/0b88f23c-7781-474f-8687-15bd1f206265/download/lifetime-asthma-prevalence-by-county.xlsx",
+          "title": "CHIS Data-Lifetime Asthma Prevalence by County"
+        }
+      ],
+      "title": "CHIS Data-Lifetime Asthma Prevalence by County"
+    },
+    {
+      "format": "XLSX",
+      "name": "data-dictionary-chis-data-lifetime-asthma-prevalence",
+      "path": "data-dictionary-chis-data-lifetime-asthma-prevalence.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Field Title",
+            "type": "string"
+          },
+          {
+            "name": "Field Name",
+            "type": "string"
+          },
+          {
+            "name": "Data Type",
+            "type": "string"
+          },
+          {
+            "name": "Description",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/01f456c3-db34-44f2-a52c-6811bef8ba6d/resource/73463c52-052a-4d59-b7b5-58b9dae4cfd5/download/lifetime-asthma-prevalence-by-county_data-dictionary.xlsx",
+          "title": "Data Dictionary-CHIS Data-Lifetime Asthma Prevalence"
+        }
+      ],
+      "title": "Data Dictionary-CHIS Data-Lifetime Asthma Prevalence"
+    },
+    {
+      "description": "This dataset contains the estimated percent of California adults (18 and older) with lifetime and current asthma (asthma prevalence), by year for 2012 to currently available data. In 2012, the survey methodology of the BRFS changed significantly so that the survey would be more representative of the general population. Several changes were implemented: 1) the survey included both cell and landline random-digit dial components, 2) residents of college housing were eligible to complete the survey, and 3) new methods were used to calculate the survey weights. Due to these changes, estimates from 1984 – 2011 are not comparable to estimates from 2012 and beyond. CDPH and CDC recommend not conducting analyses where estimates from 1984 – 2011 are compared with analyses using the new methodology, beginning in 2012. This includes analyses examining trends and changes over time. Please refer to the attachment for AsthmaPrevalence-Adults-by-Year-CA-Description.pdf.",
+      "format": "CSV",
+      "name": "brfss-data-adult-asthma-prevalence-2012-to-present",
+      "path": "brfss-data-adult-asthma-prevalence-2012-to-present.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Year of survey\r\n",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "description": "Weighted estimate of asthma prevalence among adults, as a percentage.\r\n",
+            "name": "Percent",
+            "type": "number"
+          },
+          {
+            "description": "Lower bound of the 95% confidence interval calculated for the percent asthma prevalence.\r\n",
+            "name": "95% CI Lower Limit",
+            "type": "number"
+          },
+          {
+            "description": "Upper bound of the 95% confidence interval calculated for the percent asthma prevalence.\r\n",
+            "name": "95% CI Upper Limit",
+            "type": "number"
+          },
+          {
+            "description": "Lifetime asthma prevalence includes adults who report that they have ever been diagnosed with asthma. Current asthma prevalence includes adults who report that they have ever been diagnosed with asthma AND that they still have asthma at the time of the survey.\r\n",
+            "name": "Measure",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/01f456c3-db34-44f2-a52c-6811bef8ba6d/resource/4dc6e239-97b0-475b-94b6-bec1a7f87729/download/asthmaprevalence-adults-by-year-2012to2017-ca-cdph.csv",
+          "title": "BRFSS Data-Adult Asthma Prevalence 2012 to Present"
+        }
+      ],
+      "title": "BRFSS Data-Adult Asthma Prevalence 2012 to Present"
+    },
+    {
+      "description": "This table contains the estimated percent of California adults (18 and older) with lifetime and current asthma (asthma prevalence), by year. The data are derived from the California Behavioral Risk Factor Surveillance System (BRFSS). These data are based on self-report from telephone surveys and are subject to bias and low response rates. In 2012, the survey methodology of the BRFS changed significantly so that the survey would be more representative of the general population. Several changes were implemented: 1) the survey included both cell and landline random-digit dial components, 2) residents of college housing were eligible to complete the survey, and 3) new methods were used to calculate the survey weights. Due to these changes, estimates from 1984 – 2011 are not comparable to estimates from 2012 and beyond. CDPH and CDC recommend not conducting analyses where estimates from 1984 – 2011 are compared with analyses using the new methodology, beginning in 2012. This includes analyses examining trends and changes over time. Please refer to the attachment for AsthmaPrevalence-Adults-by-Year-CA-Description.pdf.",
+      "format": "CSV",
+      "name": "brfss-data-adult-asthma-prevalence-1995-to-2011",
+      "path": "brfss-data-adult-asthma-prevalence-1995-to-2011.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Year of survey",
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "description": "Weighted estimate of asthma prevalence among adults, as a percentage.",
+            "name": "Percent",
+            "type": "string"
+          },
+          {
+            "description": "Lower bound of the 95% confidence interval calculated for the percent asthma prevalence",
+            "name": "95% CI Lower Limit",
+            "type": "number"
+          },
+          {
+            "description": "Upper bound of the 95% confidence interval calculated for the percent asthma prevalence.",
+            "name": "95% CI Upper Limit",
+            "type": "number"
+          },
+          {
+            "description": "Lifetime asthma prevalence includes adults who report that they have ever been diagnosed with asthma. Current asthma prevalence includes adults who report that they have ever been diagnosed with asthma AND that they still have asthma at the time of the survey.",
+            "name": "Measure",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/01f456c3-db34-44f2-a52c-6811bef8ba6d/resource/d782d003-8041-4a8e-ad83-ff996ed4443f/download/asthma-prevalence-adults-18-and-older-by-year-1995-to-2011.csv",
+          "title": "BRFSS Data-Adult Asthma Prevalence 1995 to 2011"
+        }
+      ],
+      "title": "BRFSS Data-Adult Asthma Prevalence 1995 to 2011"
+    },
+    {
+      "description": "This dataset contains lifetime asthma prevalence, the estimated percentage of Californians who have ever been diagnosed with asthma by a health care provider, statewide and by county. The data are stratified by age group (all ages, 0-17, 18+, 0-4, 5-17, 18-64, 65+) and reported for 2-year periods. These data are derived from the California Health Interview Survey. ",
+      "format": "XLSX",
+      "name": "data-dictionary-brfss-data-adult-asthma-prevalence",
+      "path": "data-dictionary-brfss-data-adult-asthma-prevalence.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "COLUMN NAME",
+            "type": "string"
+          },
+          {
+            "name": "FORMAT",
+            "type": "string"
+          },
+          {
+            "name": "DEFINITION",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/01f456c3-db34-44f2-a52c-6811bef8ba6d/resource/4526b4cc-bc5e-45ea-95ae-276bd7706613/download/asthmaprevalence-adults-by-year-ca-cdph-datadictionary.xlsx",
+          "title": "Data Dictionary-BRFSS Data Adult Asthma Prevalence"
+        }
+      ],
+      "title": "Data Dictionary-BRFSS Data Adult Asthma Prevalence"
+    },
+    {
+      "description": "This dataset contains the estimated percent of California adults (18 and older) with lifetime and current asthma (asthma prevalence), by year. The data are derived from the California Behavioral Risk Factor Surveillance System (BRFSS). These data are based on self-report from telephone surveys and are subject to bias and low response rates. In 2012, the survey methodology of the BRFS changed significantly so that the survey would be more representative of the general population. Several changes were implemented: 1) the survey included both cell and landline random-digit dial components, 2) residents of college housing were eligible to complete the survey, and 3) new methods were used to calculate the survey weights. Due to these changes, estimates from 1984 – 2011 are not comparable to estimates from 2012 and beyond. CDPH and CDC recommend not conducting analyses where estimates from 1984 – 2011 are compared with analyses using the new methodology, beginning in 2012. This includes analyses examining trends and changes over time. Please refer to the attachment for AsthmaPrevalence-Adults-by-Year-CA-Description.pdf.",
+      "format": "PDF",
+      "name": "brfss-data-asthma-prevalence-description",
+      "path": "brfss-data-asthma-prevalence-description.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/01f456c3-db34-44f2-a52c-6811bef8ba6d/resource/17565f2a-eb2b-4abd-b19e-2b6ec471e7b0/download/asthmaprevalence-adults-by-year-ca-description.pdf",
+          "title": "BRFSS Data-Asthma Prevalence Description"
+        }
+      ],
+      "title": "BRFSS Data-Asthma Prevalence Description"
+    }
+  ],
+  "secondary_sources": "http://www.csus.edu/research/phsrp/brfss.html This information is provided as a courtesy. It does not imply endorsement of the organization represented by the website or the website content.",
+  "sources": [
+    {
+      "name": "California Department of Public Health, California Breathing Asthma Program",
+      "web": "https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/EHIB/CPE/Pages/CaliforniaBreathingData.aspx"
+    }
+  ],
+  "temporal_coverage": "2015-2016 (prevalence by county and age group); 1995-present (adult prevalence statewide)",
+  "title": "Asthma Prevalence"
+}
