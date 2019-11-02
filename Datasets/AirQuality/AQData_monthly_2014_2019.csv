@@ -1,0 +1,2179 @@
+AirQualityIndex,Year,MonthNo,MonthName,Zone,Station,Value
+aqi,2014,1,Jan,Northern Zone,Forest Knolls,0
+aqi,2014,2,Feb,Northern Zone,Forest Knolls,0
+aqi,2014,3,Mar,Northern Zone,Forest Knolls,0
+aqi,2014,4,Apr,Northern Zone,Forest Knolls,0
+aqi,2014,5,May,Northern Zone,Forest Knolls,0
+aqi,2014,6,Jun,Northern Zone,Forest Knolls,0
+aqi,2014,7,Jul,Northern Zone,Forest Knolls,0
+aqi,2014,8,Aug,Northern Zone,Forest Knolls,0
+aqi,2014,9,Sep,Northern Zone,Forest Knolls,0
+aqi,2014,10,Oct,Northern Zone,Forest Knolls,0
+aqi,2014,11,Nov,Northern Zone,Forest Knolls,0
+aqi,2014,1,Jan,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,2,Feb,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,3,Mar,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,4,Apr,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,5,May,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,6,Jun,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,7,Jul,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,8,Aug,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,9,Sep,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,10,Oct,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,11,Nov,Northern Zone,Napa - Napa Valley College,0
+aqi,2014,1,Jan,Northern Zone,Napa,88.0
+aqi,2014,2,Feb,Northern Zone,Napa,59.0
+aqi,2014,3,Mar,Northern Zone,Napa,61.0
+aqi,2014,4,Apr,Northern Zone,Napa,58.0
+aqi,2014,5,May,Northern Zone,Napa,69.0
+aqi,2014,6,Jun,Northern Zone,Napa,67.0
+aqi,2014,7,Jul,Northern Zone,Napa,56.0
+aqi,2014,8,Aug,Northern Zone,Napa,65.0
+aqi,2014,9,Sep,Northern Zone,Napa,75.0
+aqi,2014,10,Oct,Northern Zone,Napa,53.0
+aqi,2014,11,Nov,Northern Zone,Napa,70.0
+aqi,2014,1,Jan,Northern Zone,San Rafael,107.0
+aqi,2014,2,Feb,Northern Zone,San Rafael,61.0
+aqi,2014,3,Mar,Northern Zone,San Rafael,57.0
+aqi,2014,4,Apr,Northern Zone,San Rafael,63.0
+aqi,2014,5,May,Northern Zone,San Rafael,64.0
+aqi,2014,6,Jun,Northern Zone,San Rafael,58.0
+aqi,2014,7,Jul,Northern Zone,San Rafael,51.0
+aqi,2014,8,Aug,Northern Zone,San Rafael,64.0
+aqi,2014,9,Sep,Northern Zone,San Rafael,76.0
+aqi,2014,10,Oct,Northern Zone,San Rafael,46.0
+aqi,2014,11,Nov,Northern Zone,San Rafael,82.0
+aqi,2014,1,Jan,Northern Zone,Sebastopol,77.0
+aqi,2014,2,Feb,Northern Zone,Sebastopol,39.0
+aqi,2014,3,Mar,Northern Zone,Sebastopol,40.0
+aqi,2014,4,Apr,Northern Zone,Sebastopol,45.0
+aqi,2014,5,May,Northern Zone,Sebastopol,56.0
+aqi,2014,6,Jun,Northern Zone,Sebastopol,68.0
+aqi,2014,7,Jul,Northern Zone,Sebastopol,54.0
+aqi,2014,8,Aug,Northern Zone,Sebastopol,55.0
+aqi,2014,9,Sep,Northern Zone,Sebastopol,81.0
+aqi,2014,10,Oct,Northern Zone,Sebastopol,40.0
+aqi,2014,11,Nov,Northern Zone,Sebastopol,62.0
+aqi,2014,1,Jan,Northern Zone,Vallejo,111.0
+aqi,2014,2,Feb,Northern Zone,Vallejo,48.0
+aqi,2014,3,Mar,Northern Zone,Vallejo,56.0
+aqi,2014,4,Apr,Northern Zone,Vallejo,59.0
+aqi,2014,5,May,Northern Zone,Vallejo,60.0
+aqi,2014,6,Jun,Northern Zone,Vallejo,63.0
+aqi,2014,7,Jul,Northern Zone,Vallejo,59.0
+aqi,2014,8,Aug,Northern Zone,Vallejo,67.0
+aqi,2014,9,Sep,Northern Zone,Vallejo,74.0
+aqi,2014,10,Oct,Northern Zone,Vallejo,53.0
+aqi,2014,11,Nov,Northern Zone,Vallejo,91.0
+aqi,2014,1,Jan,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,2,Feb,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,3,Mar,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,4,Apr,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,5,May,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,6,Jun,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,7,Jul,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,8,Aug,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,9,Sep,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,10,Oct,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,11,Nov,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2014,1,Jan,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,2,Feb,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,3,Mar,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,4,Apr,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,5,May,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,6,Jun,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,7,Jul,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,8,Aug,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,9,Sep,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,10,Oct,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,11,Nov,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2014,1,Jan,Coast & Central Bay,Laney College,40.0
+aqi,2014,2,Feb,Coast & Central Bay,Laney College,57.0
+aqi,2014,3,Mar,Coast & Central Bay,Laney College,55.0
+aqi,2014,4,Apr,Coast & Central Bay,Laney College,60.0
+aqi,2014,5,May,Coast & Central Bay,Laney College,59.0
+aqi,2014,6,Jun,Coast & Central Bay,Laney College,60.0
+aqi,2014,7,Jul,Coast & Central Bay,Laney College,76.0
+aqi,2014,8,Aug,Coast & Central Bay,Laney College,59.0
+aqi,2014,9,Sep,Coast & Central Bay,Laney College,69.0
+aqi,2014,10,Oct,Coast & Central Bay,Laney College,52.0
+aqi,2014,11,Nov,Coast & Central Bay,Laney College,80.0
+aqi,2014,1,Jan,Coast & Central Bay,Oakland East,106.0
+aqi,2014,2,Feb,Coast & Central Bay,Oakland East,49.0
+aqi,2014,3,Mar,Coast & Central Bay,Oakland East,52.0
+aqi,2014,4,Apr,Coast & Central Bay,Oakland East,56.0
+aqi,2014,5,May,Coast & Central Bay,Oakland East,55.0
+aqi,2014,6,Jun,Coast & Central Bay,Oakland East,59.0
+aqi,2014,7,Jul,Coast & Central Bay,Oakland East,59.0
+aqi,2014,8,Aug,Coast & Central Bay,Oakland East,57.0
+aqi,2014,9,Sep,Coast & Central Bay,Oakland East,72.0
+aqi,2014,10,Oct,Coast & Central Bay,Oakland East,52.0
+aqi,2014,11,Nov,Coast & Central Bay,Oakland East,94.0
+aqi,2014,1,Jan,Coast & Central Bay,Oakland West,109.0
+aqi,2014,2,Feb,Coast & Central Bay,Oakland West,52.0
+aqi,2014,3,Mar,Coast & Central Bay,Oakland West,58.0
+aqi,2014,4,Apr,Coast & Central Bay,Oakland West,63.0
+aqi,2014,5,May,Coast & Central Bay,Oakland West,62.0
+aqi,2014,6,Jun,Coast & Central Bay,Oakland West,65.0
+aqi,2014,7,Jul,Coast & Central Bay,Oakland West,60.0
+aqi,2014,8,Aug,Coast & Central Bay,Oakland West,59.0
+aqi,2014,9,Sep,Coast & Central Bay,Oakland West,69.0
+aqi,2014,10,Oct,Coast & Central Bay,Oakland West,57.0
+aqi,2014,11,Nov,Coast & Central Bay,Oakland West,80.0
+aqi,2014,1,Jan,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,2,Feb,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,3,Mar,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,4,Apr,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,5,May,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,6,Jun,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,7,Jul,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,8,Aug,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,9,Sep,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,10,Oct,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,11,Nov,Coast & Central Bay,Pt. Richmond,0
+aqi,2014,1,Jan,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,2,Feb,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,3,Mar,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,4,Apr,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,5,May,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,6,Jun,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,7,Jul,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,8,Aug,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,9,Sep,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,10,Oct,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,11,Nov,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2014,1,Jan,Coast & Central Bay,Rodeo,0
+aqi,2014,2,Feb,Coast & Central Bay,Rodeo,0
+aqi,2014,3,Mar,Coast & Central Bay,Rodeo,0
+aqi,2014,4,Apr,Coast & Central Bay,Rodeo,0
+aqi,2014,5,May,Coast & Central Bay,Rodeo,0
+aqi,2014,6,Jun,Coast & Central Bay,Rodeo,0
+aqi,2014,7,Jul,Coast & Central Bay,Rodeo,0
+aqi,2014,8,Aug,Coast & Central Bay,Rodeo,0
+aqi,2014,9,Sep,Coast & Central Bay,Rodeo,0
+aqi,2014,10,Oct,Coast & Central Bay,Rodeo,0
+aqi,2014,11,Nov,Coast & Central Bay,Rodeo,0
+aqi,2014,1,Jan,Coast & Central Bay,San Francisco - Arkansas St.,95.0
+aqi,2014,2,Feb,Coast & Central Bay,San Francisco - Arkansas St.,45.0
+aqi,2014,3,Mar,Coast & Central Bay,San Francisco - Arkansas St.,54.0
+aqi,2014,4,Apr,Coast & Central Bay,San Francisco - Arkansas St.,55.0
+aqi,2014,5,May,Coast & Central Bay,San Francisco - Arkansas St.,53.0
+aqi,2014,6,Jun,Coast & Central Bay,San Francisco - Arkansas St.,60.0
+aqi,2014,7,Jul,Coast & Central Bay,San Francisco - Arkansas St.,56.0
+aqi,2014,8,Aug,Coast & Central Bay,San Francisco - Arkansas St.,56.0
+aqi,2014,9,Sep,Coast & Central Bay,San Francisco - Arkansas St.,67.0
+aqi,2014,10,Oct,Coast & Central Bay,San Francisco - Arkansas St.,52.0
+aqi,2014,11,Nov,Coast & Central Bay,San Francisco - Arkansas St.,83.0
+aqi,2014,1,Jan,Coast & Central Bay,San Pablo - Rumrill,108.0
+aqi,2014,2,Feb,Coast & Central Bay,San Pablo - Rumrill,59.0
+aqi,2014,3,Mar,Coast & Central Bay,San Pablo - Rumrill,59.0
+aqi,2014,4,Apr,Coast & Central Bay,San Pablo - Rumrill,66.0
+aqi,2014,5,May,Coast & Central Bay,San Pablo - Rumrill,65.0
+aqi,2014,6,Jun,Coast & Central Bay,San Pablo - Rumrill,66.0
+aqi,2014,7,Jul,Coast & Central Bay,San Pablo - Rumrill,62.0
+aqi,2014,8,Aug,Coast & Central Bay,San Pablo - Rumrill,62.0
+aqi,2014,9,Sep,Coast & Central Bay,San Pablo - Rumrill,74.0
+aqi,2014,10,Oct,Coast & Central Bay,San Pablo - Rumrill,37.0
+aqi,2014,11,Nov,Coast & Central Bay,San Pablo - Rumrill,85.0
+aqi,2014,1,Jan,Eastern Zone,Bethel Island,0
+aqi,2014,2,Feb,Eastern Zone,Bethel Island,0
+aqi,2014,3,Mar,Eastern Zone,Bethel Island,0
+aqi,2014,4,Apr,Eastern Zone,Bethel Island,0
+aqi,2014,5,May,Eastern Zone,Bethel Island,0
+aqi,2014,6,Jun,Eastern Zone,Bethel Island,0
+aqi,2014,7,Jul,Eastern Zone,Bethel Island,0
+aqi,2014,8,Aug,Eastern Zone,Bethel Island,0
+aqi,2014,9,Sep,Eastern Zone,Bethel Island,0
+aqi,2014,10,Oct,Eastern Zone,Bethel Island,0
+aqi,2014,11,Nov,Eastern Zone,Bethel Island,0
+aqi,2014,1,Jan,Eastern Zone,Concord,90.0
+aqi,2014,2,Feb,Eastern Zone,Concord,37.0
+aqi,2014,3,Mar,Eastern Zone,Concord,45.0
+aqi,2014,4,Apr,Eastern Zone,Concord,45.0
+aqi,2014,5,May,Eastern Zone,Concord,52.0
+aqi,2014,6,Jun,Eastern Zone,Concord,50.0
+aqi,2014,7,Jul,Eastern Zone,Concord,38.0
+aqi,2014,8,Aug,Eastern Zone,Concord,54.0
+aqi,2014,9,Sep,Eastern Zone,Concord,62.0
+aqi,2014,10,Oct,Eastern Zone,Concord,40.0
+aqi,2014,11,Nov,Eastern Zone,Concord,78.0
+aqi,2014,1,Jan,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,2,Feb,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,3,Mar,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,4,Apr,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,5,May,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,6,Jun,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,7,Jul,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,8,Aug,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,9,Sep,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,10,Oct,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,11,Nov,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2014,1,Jan,Eastern Zone,Livermore - Rincon Ave.,119.0
+aqi,2014,2,Feb,Eastern Zone,Livermore - Rincon Ave.,46.0
+aqi,2014,3,Mar,Eastern Zone,Livermore - Rincon Ave.,49.0
+aqi,2014,4,Apr,Eastern Zone,Livermore - Rincon Ave.,51.0
+aqi,2014,5,May,Eastern Zone,Livermore - Rincon Ave.,46.0
+aqi,2014,6,Jun,Eastern Zone,Livermore - Rincon Ave.,51.0
+aqi,2014,7,Jul,Eastern Zone,Livermore - Rincon Ave.,40.0
+aqi,2014,8,Aug,Eastern Zone,Livermore - Rincon Ave.,40.0
+aqi,2014,9,Sep,Eastern Zone,Livermore - Rincon Ave.,75.0
+aqi,2014,10,Oct,Eastern Zone,Livermore - Rincon Ave.,40.0
+aqi,2014,11,Nov,Eastern Zone,Livermore - Rincon Ave.,75.0
+aqi,2014,1,Jan,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,2,Feb,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,3,Mar,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,4,Apr,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,5,May,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,6,Jun,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,7,Jul,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,8,Aug,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,9,Sep,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,10,Oct,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,11,Nov,Eastern Zone,Martinez - Jones St.,0
+aqi,2014,1,Jan,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,2,Feb,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,3,Mar,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,4,Apr,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,5,May,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,6,Jun,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,7,Jul,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,8,Aug,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,9,Sep,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,10,Oct,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,11,Nov,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2014,1,Jan,Eastern Zone,Pleasanton,0
+aqi,2014,2,Feb,Eastern Zone,Pleasanton,0
+aqi,2014,3,Mar,Eastern Zone,Pleasanton,0
+aqi,2014,4,Apr,Eastern Zone,Pleasanton,0
+aqi,2014,5,May,Eastern Zone,Pleasanton,0
+aqi,2014,6,Jun,Eastern Zone,Pleasanton,0
+aqi,2014,7,Jul,Eastern Zone,Pleasanton,0
+aqi,2014,8,Aug,Eastern Zone,Pleasanton,0
+aqi,2014,9,Sep,Eastern Zone,Pleasanton,0
+aqi,2014,10,Oct,Eastern Zone,Pleasanton,0
+aqi,2014,11,Nov,Eastern Zone,Pleasanton,0
+aqi,2014,1,Jan,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,2,Feb,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,3,Mar,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,4,Apr,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,5,May,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,6,Jun,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,7,Jul,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,8,Aug,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,9,Sep,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,10,Oct,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,11,Nov,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2014,1,Jan,Eastern Zone,San Ramon,0
+aqi,2014,2,Feb,Eastern Zone,San Ramon,0
+aqi,2014,3,Mar,Eastern Zone,San Ramon,0
+aqi,2014,4,Apr,Eastern Zone,San Ramon,0
+aqi,2014,5,May,Eastern Zone,San Ramon,0
+aqi,2014,6,Jun,Eastern Zone,San Ramon,0
+aqi,2014,7,Jul,Eastern Zone,San Ramon,0
+aqi,2014,8,Aug,Eastern Zone,San Ramon,0
+aqi,2014,9,Sep,Eastern Zone,San Ramon,0
+aqi,2014,10,Oct,Eastern Zone,San Ramon,0
+aqi,2014,11,Nov,Eastern Zone,San Ramon,0
+aqi,2014,1,Jan,South Central Bay,Hayward,0
+aqi,2014,2,Feb,South Central Bay,Hayward,0
+aqi,2014,3,Mar,South Central Bay,Hayward,0
+aqi,2014,4,Apr,South Central Bay,Hayward,0
+aqi,2014,5,May,South Central Bay,Hayward,0
+aqi,2014,6,Jun,South Central Bay,Hayward,0
+aqi,2014,7,Jul,South Central Bay,Hayward,0
+aqi,2014,8,Aug,South Central Bay,Hayward,0
+aqi,2014,9,Sep,South Central Bay,Hayward,0
+aqi,2014,10,Oct,South Central Bay,Hayward,0
+aqi,2014,11,Nov,South Central Bay,Hayward,0
+aqi,2014,1,Jan,South Central Bay,Redwood City,99.0
+aqi,2014,2,Feb,South Central Bay,Redwood City,48.0
+aqi,2014,3,Mar,South Central Bay,Redwood City,46.0
+aqi,2014,4,Apr,South Central Bay,Redwood City,50.0
+aqi,2014,5,May,South Central Bay,Redwood City,52.0
+aqi,2014,6,Jun,South Central Bay,Redwood City,58.0
+aqi,2014,7,Jul,South Central Bay,Redwood City,56.0
+aqi,2014,8,Aug,South Central Bay,Redwood City,47.0
+aqi,2014,9,Sep,South Central Bay,Redwood City,79.0
+aqi,2014,10,Oct,South Central Bay,Redwood City,42.0
+aqi,2014,11,Nov,South Central Bay,Redwood City,64.0
+aqi,2014,1,Jan,South Central Bay,Redwood City,0
+aqi,2014,2,Feb,South Central Bay,Redwood City,0
+aqi,2014,3,Mar,South Central Bay,Redwood City,0
+aqi,2014,4,Apr,South Central Bay,Redwood City,0
+aqi,2014,5,May,South Central Bay,Redwood City,0
+aqi,2014,6,Jun,South Central Bay,Redwood City,0
+aqi,2014,7,Jul,South Central Bay,Redwood City,0
+aqi,2014,8,Aug,South Central Bay,Redwood City,0
+aqi,2014,9,Sep,South Central Bay,Redwood City,0
+aqi,2014,10,Oct,South Central Bay,Redwood City,0
+aqi,2014,11,Nov,South Central Bay,Redwood City,0
+aqi,2014,1,Jan,Santa Clara Valley,Gilroy,71.0
+aqi,2014,2,Feb,Santa Clara Valley,Gilroy,42.0
+aqi,2014,3,Mar,Santa Clara Valley,Gilroy,42.0
+aqi,2014,4,Apr,Santa Clara Valley,Gilroy,49.0
+aqi,2014,5,May,Santa Clara Valley,Gilroy,41.0
+aqi,2014,6,Jun,Santa Clara Valley,Gilroy,54.0
+aqi,2014,7,Jul,Santa Clara Valley,Gilroy,71.0
+aqi,2014,8,Aug,Santa Clara Valley,Gilroy,80.0
+aqi,2014,9,Sep,Santa Clara Valley,Gilroy,66.0
+aqi,2014,10,Oct,Santa Clara Valley,Gilroy,42.0
+aqi,2014,11,Nov,Santa Clara Valley,Gilroy,49.0
+aqi,2014,1,Jan,Santa Clara Valley,Los Gatos,0
+aqi,2014,2,Feb,Santa Clara Valley,Los Gatos,0
+aqi,2014,3,Mar,Santa Clara Valley,Los Gatos,0
+aqi,2014,4,Apr,Santa Clara Valley,Los Gatos,0
+aqi,2014,5,May,Santa Clara Valley,Los Gatos,0
+aqi,2014,6,Jun,Santa Clara Valley,Los Gatos,0
+aqi,2014,7,Jul,Santa Clara Valley,Los Gatos,0
+aqi,2014,8,Aug,Santa Clara Valley,Los Gatos,0
+aqi,2014,9,Sep,Santa Clara Valley,Los Gatos,0
+aqi,2014,10,Oct,Santa Clara Valley,Los Gatos,0
+aqi,2014,11,Nov,Santa Clara Valley,Los Gatos,0
+aqi,2014,1,Jan,Santa Clara Valley,San Jose - Jackson St.,154.0
+aqi,2014,2,Feb,Santa Clara Valley,San Jose - Jackson St.,45.0
+aqi,2014,3,Mar,Santa Clara Valley,San Jose - Jackson St.,48.0
+aqi,2014,4,Apr,Santa Clara Valley,San Jose - Jackson St.,55.0
+aqi,2014,5,May,Santa Clara Valley,San Jose - Jackson St.,55.0
+aqi,2014,6,Jun,Santa Clara Valley,San Jose - Jackson St.,58.0
+aqi,2014,7,Jul,Santa Clara Valley,San Jose - Jackson St.,64.0
+aqi,2014,8,Aug,Santa Clara Valley,San Jose - Jackson St.,51.0
+aqi,2014,9,Sep,Santa Clara Valley,San Jose - Jackson St.,79.0
+aqi,2014,10,Oct,Santa Clara Valley,San Jose - Jackson St.,54.0
+aqi,2014,11,Nov,Santa Clara Valley,San Jose - Jackson St.,78.0
+aqi,2014,1,Jan,Santa Clara Valley,San Jose - Knox Ave.,-1.0
+aqi,2014,2,Feb,Santa Clara Valley,San Jose - Knox Ave.,-1.0
+aqi,2014,3,Mar,Santa Clara Valley,San Jose - Knox Ave.,-1.0
+aqi,2014,4,Apr,Santa Clara Valley,San Jose - Knox Ave.,-1.0
+aqi,2014,5,May,Santa Clara Valley,San Jose - Knox Ave.,-1.0
+aqi,2014,6,Jun,Santa Clara Valley,San Jose - Knox Ave.,-1.0
+aqi,2014,7,Jul,Santa Clara Valley,San Jose - Knox Ave.,-1.0
+aqi,2014,8,Aug,Santa Clara Valley,San Jose - Knox Ave.,77.0
+aqi,2014,9,Sep,Santa Clara Valley,San Jose - Knox Ave.,77.0
+aqi,2014,10,Oct,Santa Clara Valley,San Jose - Knox Ave.,47.0
+aqi,2014,11,Nov,Santa Clara Valley,San Jose - Knox Ave.,73.0
+aqi,2014,1,Jan,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,2,Feb,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,3,Mar,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,4,Apr,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,5,May,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,6,Jun,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,7,Jul,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,8,Aug,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,9,Sep,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,10,Oct,Santa Clara Valley,San Martin - Airport,0
+aqi,2014,11,Nov,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,1,Jan,Northern Zone,Forest Knolls,0
+aqi,2015,2,Feb,Northern Zone,Forest Knolls,0
+aqi,2015,3,Mar,Northern Zone,Forest Knolls,0
+aqi,2015,4,Apr,Northern Zone,Forest Knolls,0
+aqi,2015,5,May,Northern Zone,Forest Knolls,0
+aqi,2015,6,Jun,Northern Zone,Forest Knolls,0
+aqi,2015,7,Jul,Northern Zone,Forest Knolls,0
+aqi,2015,8,Aug,Northern Zone,Forest Knolls,0
+aqi,2015,9,Sep,Northern Zone,Forest Knolls,0
+aqi,2015,10,Oct,Northern Zone,Forest Knolls,0
+aqi,2015,11,Nov,Northern Zone,Forest Knolls,0
+aqi,2015,1,Jan,Northern Zone,Napa - Napa Valley College,-1.0
+aqi,2015,2,Feb,Northern Zone,Napa - Napa Valley College,-1.0
+aqi,2015,3,Mar,Northern Zone,Napa - Napa Valley College,-1.0
+aqi,2015,4,Apr,Northern Zone,Napa - Napa Valley College,-1.0
+aqi,2015,5,May,Northern Zone,Napa - Napa Valley College,-1.0
+aqi,2015,6,Jun,Northern Zone,Napa - Napa Valley College,-1.0
+aqi,2015,7,Jul,Northern Zone,Napa - Napa Valley College,-1.0
+aqi,2015,8,Aug,Northern Zone,Napa - Napa Valley College,-1.0
+aqi,2015,9,Sep,Northern Zone,Napa - Napa Valley College,34.0
+aqi,2015,10,Oct,Northern Zone,Napa - Napa Valley College,40.0
+aqi,2015,11,Nov,Northern Zone,Napa - Napa Valley College,444.0
+aqi,2015,1,Jan,Northern Zone,Napa,98.0
+aqi,2015,2,Feb,Northern Zone,Napa,77.0
+aqi,2015,3,Mar,Northern Zone,Napa,58.0
+aqi,2015,4,Apr,Northern Zone,Napa,64.0
+aqi,2015,5,May,Northern Zone,Napa,64.0
+aqi,2015,6,Jun,Northern Zone,Napa,74.0
+aqi,2015,7,Jul,Northern Zone,Napa,36.0
+aqi,2015,8,Aug,Northern Zone,Napa,108.0
+aqi,2015,9,Sep,Northern Zone,Napa,45.0
+aqi,2015,10,Oct,Northern Zone,Napa,42.0
+aqi,2015,11,Nov,Northern Zone,Napa,67.0
+aqi,2015,1,Jan,Northern Zone,San Rafael,103.0
+aqi,2015,2,Feb,Northern Zone,San Rafael,91.0
+aqi,2015,3,Mar,Northern Zone,San Rafael,63.0
+aqi,2015,4,Apr,Northern Zone,San Rafael,57.0
+aqi,2015,5,May,Northern Zone,San Rafael,50.0
+aqi,2015,6,Jun,Northern Zone,San Rafael,59.0
+aqi,2015,7,Jul,Northern Zone,San Rafael,27.0
+aqi,2015,8,Aug,Northern Zone,San Rafael,53.0
+aqi,2015,9,Sep,Northern Zone,San Rafael,35.0
+aqi,2015,10,Oct,Northern Zone,San Rafael,45.0
+aqi,2015,11,Nov,Northern Zone,San Rafael,64.0
+aqi,2015,1,Jan,Northern Zone,Sebastopol,79.0
+aqi,2015,2,Feb,Northern Zone,Sebastopol,57.0
+aqi,2015,3,Mar,Northern Zone,Sebastopol,40.0
+aqi,2015,4,Apr,Northern Zone,Sebastopol,43.0
+aqi,2015,5,May,Northern Zone,Sebastopol,53.0
+aqi,2015,6,Jun,Northern Zone,Sebastopol,58.0
+aqi,2015,7,Jul,Northern Zone,Sebastopol,34.0
+aqi,2015,8,Aug,Northern Zone,Sebastopol,88.0
+aqi,2015,9,Sep,Northern Zone,Sebastopol,33.0
+aqi,2015,10,Oct,Northern Zone,Sebastopol,41.0
+aqi,2015,11,Nov,Northern Zone,Sebastopol,55.0
+aqi,2015,1,Jan,Northern Zone,Vallejo,116.0
+aqi,2015,2,Feb,Northern Zone,Vallejo,65.0
+aqi,2015,3,Mar,Northern Zone,Vallejo,54.0
+aqi,2015,4,Apr,Northern Zone,Vallejo,54.0
+aqi,2015,5,May,Northern Zone,Vallejo,52.0
+aqi,2015,6,Jun,Northern Zone,Vallejo,61.0
+aqi,2015,7,Jul,Northern Zone,Vallejo,40.0
+aqi,2015,8,Aug,Northern Zone,Vallejo,84.0
+aqi,2015,9,Sep,Northern Zone,Vallejo,51.0
+aqi,2015,10,Oct,Northern Zone,Vallejo,53.0
+aqi,2015,11,Nov,Northern Zone,Vallejo,76.0
+aqi,2015,1,Jan,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,2,Feb,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,3,Mar,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,4,Apr,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,5,May,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,6,Jun,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,7,Jul,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,8,Aug,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,9,Sep,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,10,Oct,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,11,Nov,Coast & Central Bay,Berkeley Aquatic Park,0
+aqi,2015,1,Jan,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,2,Feb,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,3,Mar,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,4,Apr,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,5,May,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,6,Jun,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,7,Jul,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,8,Aug,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,9,Sep,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,10,Oct,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,11,Nov,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2015,1,Jan,Coast & Central Bay,Laney College,105.0
+aqi,2015,2,Feb,Coast & Central Bay,Laney College,79.0
+aqi,2015,3,Mar,Coast & Central Bay,Laney College,66.0
+aqi,2015,4,Apr,Coast & Central Bay,Laney College,58.0
+aqi,2015,5,May,Coast & Central Bay,Laney College,58.0
+aqi,2015,6,Jun,Coast & Central Bay,Laney College,62.0
+aqi,2015,7,Jul,Coast & Central Bay,Laney College,55.0
+aqi,2015,8,Aug,Coast & Central Bay,Laney College,91.0
+aqi,2015,9,Sep,Coast & Central Bay,Laney College,58.0
+aqi,2015,10,Oct,Coast & Central Bay,Laney College,57.0
+aqi,2015,11,Nov,Coast & Central Bay,Laney College,62.0
+aqi,2015,1,Jan,Coast & Central Bay,Oakland East,92.0
+aqi,2015,2,Feb,Coast & Central Bay,Oakland East,79.0
+aqi,2015,3,Mar,Coast & Central Bay,Oakland East,59.0
+aqi,2015,4,Apr,Coast & Central Bay,Oakland East,58.0
+aqi,2015,5,May,Coast & Central Bay,Oakland East,54.0
+aqi,2015,6,Jun,Coast & Central Bay,Oakland East,60.0
+aqi,2015,7,Jul,Coast & Central Bay,Oakland East,52.0
+aqi,2015,8,Aug,Coast & Central Bay,Oakland East,124.0
+aqi,2015,9,Sep,Coast & Central Bay,Oakland East,48.0
+aqi,2015,10,Oct,Coast & Central Bay,Oakland East,48.0
+aqi,2015,11,Nov,Coast & Central Bay,Oakland East,54.0
+aqi,2015,1,Jan,Coast & Central Bay,Oakland West,109.0
+aqi,2015,2,Feb,Coast & Central Bay,Oakland West,82.0
+aqi,2015,3,Mar,Coast & Central Bay,Oakland West,68.0
+aqi,2015,4,Apr,Coast & Central Bay,Oakland West,61.0
+aqi,2015,5,May,Coast & Central Bay,Oakland West,55.0
+aqi,2015,6,Jun,Coast & Central Bay,Oakland West,64.0
+aqi,2015,7,Jul,Coast & Central Bay,Oakland West,60.0
+aqi,2015,8,Aug,Coast & Central Bay,Oakland West,87.0
+aqi,2015,9,Sep,Coast & Central Bay,Oakland West,56.0
+aqi,2015,10,Oct,Coast & Central Bay,Oakland West,56.0
+aqi,2015,11,Nov,Coast & Central Bay,Oakland West,64.0
+aqi,2015,1,Jan,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,2,Feb,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,3,Mar,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,4,Apr,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,5,May,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,6,Jun,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,7,Jul,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,8,Aug,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,9,Sep,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,10,Oct,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,11,Nov,Coast & Central Bay,Pt. Richmond,0
+aqi,2015,1,Jan,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,2,Feb,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,3,Mar,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,4,Apr,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,5,May,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,6,Jun,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,7,Jul,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,8,Aug,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,9,Sep,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,10,Oct,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,11,Nov,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2015,1,Jan,Coast & Central Bay,Rodeo,0
+aqi,2015,2,Feb,Coast & Central Bay,Rodeo,0
+aqi,2015,3,Mar,Coast & Central Bay,Rodeo,0
+aqi,2015,4,Apr,Coast & Central Bay,Rodeo,0
+aqi,2015,5,May,Coast & Central Bay,Rodeo,0
+aqi,2015,6,Jun,Coast & Central Bay,Rodeo,0
+aqi,2015,7,Jul,Coast & Central Bay,Rodeo,0
+aqi,2015,8,Aug,Coast & Central Bay,Rodeo,0
+aqi,2015,9,Sep,Coast & Central Bay,Rodeo,0
+aqi,2015,10,Oct,Coast & Central Bay,Rodeo,0
+aqi,2015,11,Nov,Coast & Central Bay,Rodeo,0
+aqi,2015,1,Jan,Coast & Central Bay,San Francisco - Arkansas St.,100.0
+aqi,2015,2,Feb,Coast & Central Bay,San Francisco - Arkansas St.,81.0
+aqi,2015,3,Mar,Coast & Central Bay,San Francisco - Arkansas St.,60.0
+aqi,2015,4,Apr,Coast & Central Bay,San Francisco - Arkansas St.,55.0
+aqi,2015,5,May,Coast & Central Bay,San Francisco - Arkansas St.,57.0
+aqi,2015,6,Jun,Coast & Central Bay,San Francisco - Arkansas St.,54.0
+aqi,2015,7,Jul,Coast & Central Bay,San Francisco - Arkansas St.,41.0
+aqi,2015,8,Aug,Coast & Central Bay,San Francisco - Arkansas St.,80.0
+aqi,2015,9,Sep,Coast & Central Bay,San Francisco - Arkansas St.,45.0
+aqi,2015,10,Oct,Coast & Central Bay,San Francisco - Arkansas St.,46.0
+aqi,2015,11,Nov,Coast & Central Bay,San Francisco - Arkansas St.,66.0
+aqi,2015,1,Jan,Coast & Central Bay,San Pablo - Rumrill,95.0
+aqi,2015,2,Feb,Coast & Central Bay,San Pablo - Rumrill,81.0
+aqi,2015,3,Mar,Coast & Central Bay,San Pablo - Rumrill,52.0
+aqi,2015,4,Apr,Coast & Central Bay,San Pablo - Rumrill,56.0
+aqi,2015,5,May,Coast & Central Bay,San Pablo - Rumrill,51.0
+aqi,2015,6,Jun,Coast & Central Bay,San Pablo - Rumrill,63.0
+aqi,2015,7,Jul,Coast & Central Bay,San Pablo - Rumrill,52.0
+aqi,2015,8,Aug,Coast & Central Bay,San Pablo - Rumrill,90.0
+aqi,2015,9,Sep,Coast & Central Bay,San Pablo - Rumrill,52.0
+aqi,2015,10,Oct,Coast & Central Bay,San Pablo - Rumrill,56.0
+aqi,2015,11,Nov,Coast & Central Bay,San Pablo - Rumrill,62.0
+aqi,2015,1,Jan,Eastern Zone,Bethel Island,0
+aqi,2015,2,Feb,Eastern Zone,Bethel Island,0
+aqi,2015,3,Mar,Eastern Zone,Bethel Island,0
+aqi,2015,4,Apr,Eastern Zone,Bethel Island,0
+aqi,2015,5,May,Eastern Zone,Bethel Island,0
+aqi,2015,6,Jun,Eastern Zone,Bethel Island,0
+aqi,2015,7,Jul,Eastern Zone,Bethel Island,0
+aqi,2015,8,Aug,Eastern Zone,Bethel Island,0
+aqi,2015,9,Sep,Eastern Zone,Bethel Island,0
+aqi,2015,10,Oct,Eastern Zone,Bethel Island,0
+aqi,2015,11,Nov,Eastern Zone,Bethel Island,0
+aqi,2015,1,Jan,Eastern Zone,Concord,91.0
+aqi,2015,2,Feb,Eastern Zone,Concord,79.0
+aqi,2015,3,Mar,Eastern Zone,Concord,42.0
+aqi,2015,4,Apr,Eastern Zone,Concord,56.0
+aqi,2015,5,May,Eastern Zone,Concord,46.0
+aqi,2015,6,Jun,Eastern Zone,Concord,62.0
+aqi,2015,7,Jul,Eastern Zone,Concord,38.0
+aqi,2015,8,Aug,Eastern Zone,Concord,89.0
+aqi,2015,9,Sep,Eastern Zone,Concord,45.0
+aqi,2015,10,Oct,Eastern Zone,Concord,47.0
+aqi,2015,11,Nov,Eastern Zone,Concord,61.0
+aqi,2015,1,Jan,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,2,Feb,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,3,Mar,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,4,Apr,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,5,May,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,6,Jun,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,7,Jul,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,8,Aug,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,9,Sep,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,10,Oct,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,11,Nov,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2015,1,Jan,Eastern Zone,Livermore - Rincon Ave.,91.0
+aqi,2015,2,Feb,Eastern Zone,Livermore - Rincon Ave.,74.0
+aqi,2015,3,Mar,Eastern Zone,Livermore - Rincon Ave.,54.0
+aqi,2015,4,Apr,Eastern Zone,Livermore - Rincon Ave.,50.0
+aqi,2015,5,May,Eastern Zone,Livermore - Rincon Ave.,48.0
+aqi,2015,6,Jun,Eastern Zone,Livermore - Rincon Ave.,60.0
+aqi,2015,7,Jul,Eastern Zone,Livermore - Rincon Ave.,40.0
+aqi,2015,8,Aug,Eastern Zone,Livermore - Rincon Ave.,91.0
+aqi,2015,9,Sep,Eastern Zone,Livermore - Rincon Ave.,52.0
+aqi,2015,10,Oct,Eastern Zone,Livermore - Rincon Ave.,52.0
+aqi,2015,11,Nov,Eastern Zone,Livermore - Rincon Ave.,76.0
+aqi,2015,1,Jan,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,2,Feb,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,3,Mar,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,4,Apr,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,5,May,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,6,Jun,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,7,Jul,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,8,Aug,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,9,Sep,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,10,Oct,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,11,Nov,Eastern Zone,Martinez - Jones St.,0
+aqi,2015,1,Jan,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,2,Feb,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,3,Mar,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,4,Apr,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,5,May,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,6,Jun,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,7,Jul,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,8,Aug,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,9,Sep,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,10,Oct,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,11,Nov,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2015,1,Jan,Eastern Zone,Pleasanton,0
+aqi,2015,2,Feb,Eastern Zone,Pleasanton,0
+aqi,2015,3,Mar,Eastern Zone,Pleasanton,0
+aqi,2015,4,Apr,Eastern Zone,Pleasanton,0
+aqi,2015,5,May,Eastern Zone,Pleasanton,0
+aqi,2015,6,Jun,Eastern Zone,Pleasanton,0
+aqi,2015,7,Jul,Eastern Zone,Pleasanton,0
+aqi,2015,8,Aug,Eastern Zone,Pleasanton,0
+aqi,2015,9,Sep,Eastern Zone,Pleasanton,0
+aqi,2015,10,Oct,Eastern Zone,Pleasanton,0
+aqi,2015,11,Nov,Eastern Zone,Pleasanton,0
+aqi,2015,1,Jan,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,2,Feb,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,3,Mar,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,4,Apr,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,5,May,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,6,Jun,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,7,Jul,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,8,Aug,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,9,Sep,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,10,Oct,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,11,Nov,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2015,1,Jan,Eastern Zone,San Ramon,0
+aqi,2015,2,Feb,Eastern Zone,San Ramon,0
+aqi,2015,3,Mar,Eastern Zone,San Ramon,0
+aqi,2015,4,Apr,Eastern Zone,San Ramon,0
+aqi,2015,5,May,Eastern Zone,San Ramon,0
+aqi,2015,6,Jun,Eastern Zone,San Ramon,0
+aqi,2015,7,Jul,Eastern Zone,San Ramon,0
+aqi,2015,8,Aug,Eastern Zone,San Ramon,0
+aqi,2015,9,Sep,Eastern Zone,San Ramon,0
+aqi,2015,10,Oct,Eastern Zone,San Ramon,0
+aqi,2015,11,Nov,Eastern Zone,San Ramon,0
+aqi,2015,1,Jan,South Central Bay,Hayward,0
+aqi,2015,2,Feb,South Central Bay,Hayward,0
+aqi,2015,3,Mar,South Central Bay,Hayward,0
+aqi,2015,4,Apr,South Central Bay,Hayward,0
+aqi,2015,5,May,South Central Bay,Hayward,0
+aqi,2015,6,Jun,South Central Bay,Hayward,0
+aqi,2015,7,Jul,South Central Bay,Hayward,0
+aqi,2015,8,Aug,South Central Bay,Hayward,0
+aqi,2015,9,Sep,South Central Bay,Hayward,0
+aqi,2015,10,Oct,South Central Bay,Hayward,0
+aqi,2015,11,Nov,South Central Bay,Hayward,0
+aqi,2015,1,Jan,South Central Bay,Redwood City,78.0
+aqi,2015,2,Feb,South Central Bay,Redwood City,63.0
+aqi,2015,3,Mar,South Central Bay,Redwood City,52.0
+aqi,2015,4,Apr,South Central Bay,Redwood City,46.0
+aqi,2015,5,May,South Central Bay,Redwood City,40.0
+aqi,2015,6,Jun,South Central Bay,Redwood City,52.0
+aqi,2015,7,Jul,South Central Bay,Redwood City,25.0
+aqi,2015,8,Aug,South Central Bay,Redwood City,98.0
+aqi,2015,9,Sep,South Central Bay,Redwood City,33.0
+aqi,2015,10,Oct,South Central Bay,Redwood City,54.0
+aqi,2015,11,Nov,South Central Bay,Redwood City,55.0
+aqi,2015,1,Jan,South Central Bay,Redwood City,0
+aqi,2015,2,Feb,South Central Bay,Redwood City,0
+aqi,2015,3,Mar,South Central Bay,Redwood City,0
+aqi,2015,4,Apr,South Central Bay,Redwood City,0
+aqi,2015,5,May,South Central Bay,Redwood City,0
+aqi,2015,6,Jun,South Central Bay,Redwood City,0
+aqi,2015,7,Jul,South Central Bay,Redwood City,0
+aqi,2015,8,Aug,South Central Bay,Redwood City,0
+aqi,2015,9,Sep,South Central Bay,Redwood City,0
+aqi,2015,10,Oct,South Central Bay,Redwood City,0
+aqi,2015,11,Nov,South Central Bay,Redwood City,0
+aqi,2015,1,Jan,Santa Clara Valley,Gilroy,71.0
+aqi,2015,2,Feb,Santa Clara Valley,Gilroy,70.0
+aqi,2015,3,Mar,Santa Clara Valley,Gilroy,52.0
+aqi,2015,4,Apr,Santa Clara Valley,Gilroy,43.0
+aqi,2015,5,May,Santa Clara Valley,Gilroy,48.0
+aqi,2015,6,Jun,Santa Clara Valley,Gilroy,117.0
+aqi,2015,7,Jul,Santa Clara Valley,Gilroy,56.0
+aqi,2015,8,Aug,Santa Clara Valley,Gilroy,103.0
+aqi,2015,9,Sep,Santa Clara Valley,Gilroy,39.0
+aqi,2015,10,Oct,Santa Clara Valley,Gilroy,40.0
+aqi,2015,11,Nov,Santa Clara Valley,Gilroy,57.0
+aqi,2015,1,Jan,Santa Clara Valley,Los Gatos,0
+aqi,2015,2,Feb,Santa Clara Valley,Los Gatos,0
+aqi,2015,3,Mar,Santa Clara Valley,Los Gatos,0
+aqi,2015,4,Apr,Santa Clara Valley,Los Gatos,0
+aqi,2015,5,May,Santa Clara Valley,Los Gatos,0
+aqi,2015,6,Jun,Santa Clara Valley,Los Gatos,0
+aqi,2015,7,Jul,Santa Clara Valley,Los Gatos,0
+aqi,2015,8,Aug,Santa Clara Valley,Los Gatos,0
+aqi,2015,9,Sep,Santa Clara Valley,Los Gatos,0
+aqi,2015,10,Oct,Santa Clara Valley,Los Gatos,0
+aqi,2015,11,Nov,Santa Clara Valley,Los Gatos,0
+aqi,2015,1,Jan,Santa Clara Valley,San Jose - Jackson St.,87.0
+aqi,2015,2,Feb,Santa Clara Valley,San Jose - Jackson St.,83.0
+aqi,2015,3,Mar,Santa Clara Valley,San Jose - Jackson St.,62.0
+aqi,2015,4,Apr,Santa Clara Valley,San Jose - Jackson St.,58.0
+aqi,2015,5,May,Santa Clara Valley,San Jose - Jackson St.,60.0
+aqi,2015,6,Jun,Santa Clara Valley,San Jose - Jackson St.,58.0
+aqi,2015,7,Jul,Santa Clara Valley,San Jose - Jackson St.,52.0
+aqi,2015,8,Aug,Santa Clara Valley,San Jose - Jackson St.,135.0
+aqi,2015,9,Sep,Santa Clara Valley,San Jose - Jackson St.,52.0
+aqi,2015,10,Oct,Santa Clara Valley,San Jose - Jackson St.,56.0
+aqi,2015,11,Nov,Santa Clara Valley,San Jose - Jackson St.,66.0
+aqi,2015,1,Jan,Santa Clara Valley,San Jose - Knox Ave.,88.0
+aqi,2015,2,Feb,Santa Clara Valley,San Jose - Knox Ave.,84.0
+aqi,2015,3,Mar,Santa Clara Valley,San Jose - Knox Ave.,54.0
+aqi,2015,4,Apr,Santa Clara Valley,San Jose - Knox Ave.,49.0
+aqi,2015,5,May,Santa Clara Valley,San Jose - Knox Ave.,47.0
+aqi,2015,6,Jun,Santa Clara Valley,San Jose - Knox Ave.,52.0
+aqi,2015,7,Jul,Santa Clara Valley,San Jose - Knox Ave.,38.0
+aqi,2015,8,Aug,Santa Clara Valley,San Jose - Knox Ave.,129.0
+aqi,2015,9,Sep,Santa Clara Valley,San Jose - Knox Ave.,50.0
+aqi,2015,10,Oct,Santa Clara Valley,San Jose - Knox Ave.,55.0
+aqi,2015,11,Nov,Santa Clara Valley,San Jose - Knox Ave.,70.0
+aqi,2015,1,Jan,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,2,Feb,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,3,Mar,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,4,Apr,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,5,May,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,6,Jun,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,7,Jul,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,8,Aug,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,9,Sep,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,10,Oct,Santa Clara Valley,San Martin - Airport,0
+aqi,2015,11,Nov,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,1,Jan,Northern Zone,Forest Knolls,0
+aqi,2016,2,Feb,Northern Zone,Forest Knolls,0
+aqi,2016,3,Mar,Northern Zone,Forest Knolls,0
+aqi,2016,4,Apr,Northern Zone,Forest Knolls,0
+aqi,2016,5,May,Northern Zone,Forest Knolls,0
+aqi,2016,6,Jun,Northern Zone,Forest Knolls,0
+aqi,2016,7,Jul,Northern Zone,Forest Knolls,0
+aqi,2016,8,Aug,Northern Zone,Forest Knolls,0
+aqi,2016,9,Sep,Northern Zone,Forest Knolls,0
+aqi,2016,10,Oct,Northern Zone,Forest Knolls,0
+aqi,2016,11,Nov,Northern Zone,Forest Knolls,0
+aqi,2016,1,Jan,Northern Zone,Napa - Napa Valley College,0.0
+aqi,2016,2,Feb,Northern Zone,Napa - Napa Valley College,0.0
+aqi,2016,3,Mar,Northern Zone,Napa - Napa Valley College,169.0
+aqi,2016,4,Apr,Northern Zone,Napa - Napa Valley College,145.0
+aqi,2016,5,May,Northern Zone,Napa - Napa Valley College,135.0
+aqi,2016,6,Jun,Northern Zone,Napa - Napa Valley College,0.0
+aqi,2016,7,Jul,Northern Zone,Napa - Napa Valley College,0.0
+aqi,2016,8,Aug,Northern Zone,Napa - Napa Valley College,0.0
+aqi,2016,9,Sep,Northern Zone,Napa - Napa Valley College,-1.0
+aqi,2016,10,Oct,Northern Zone,Napa - Napa Valley College,31.0
+aqi,2016,11,Nov,Northern Zone,Napa - Napa Valley College,59.0
+aqi,2016,1,Jan,Northern Zone,Napa,55.0
+aqi,2016,2,Feb,Northern Zone,Napa,50.0
+aqi,2016,3,Mar,Northern Zone,Napa,33.0
+aqi,2016,4,Apr,Northern Zone,Napa,38.0
+aqi,2016,5,May,Northern Zone,Napa,52.0
+aqi,2016,6,Jun,Northern Zone,Napa,66.0
+aqi,2016,7,Jul,Northern Zone,Napa,59.0
+aqi,2016,8,Aug,Northern Zone,Napa,55.0
+aqi,2016,9,Sep,Northern Zone,Napa,72.0
+aqi,2016,10,Oct,Northern Zone,Napa,42.0
+aqi,2016,11,Nov,Northern Zone,Napa,73.0
+aqi,2016,1,Jan,Northern Zone,San Rafael,57.0
+aqi,2016,2,Feb,Northern Zone,San Rafael,57.0
+aqi,2016,3,Mar,Northern Zone,San Rafael,35.0
+aqi,2016,4,Apr,Northern Zone,San Rafael,34.0
+aqi,2016,5,May,Northern Zone,San Rafael,55.0
+aqi,2016,6,Jun,Northern Zone,San Rafael,58.0
+aqi,2016,7,Jul,Northern Zone,San Rafael,51.0
+aqi,2016,8,Aug,Northern Zone,San Rafael,36.0
+aqi,2016,9,Sep,Northern Zone,San Rafael,55.0
+aqi,2016,10,Oct,Northern Zone,San Rafael,32.0
+aqi,2016,11,Nov,Northern Zone,San Rafael,56.0
+aqi,2016,1,Jan,Northern Zone,Sebastopol,58.0
+aqi,2016,2,Feb,Northern Zone,Sebastopol,41.0
+aqi,2016,3,Mar,Northern Zone,Sebastopol,25.0
+aqi,2016,4,Apr,Northern Zone,Sebastopol,36.0
+aqi,2016,5,May,Northern Zone,Sebastopol,42.0
+aqi,2016,6,Jun,Northern Zone,Sebastopol,44.0
+aqi,2016,7,Jul,Northern Zone,Sebastopol,53.0
+aqi,2016,8,Aug,Northern Zone,Sebastopol,21.0
+aqi,2016,9,Sep,Northern Zone,Sebastopol,37.0
+aqi,2016,10,Oct,Northern Zone,Sebastopol,30.0
+aqi,2016,11,Nov,Northern Zone,Sebastopol,52.0
+aqi,2016,1,Jan,Northern Zone,Vallejo,65.0
+aqi,2016,2,Feb,Northern Zone,Vallejo,68.0
+aqi,2016,3,Mar,Northern Zone,Vallejo,42.0
+aqi,2016,4,Apr,Northern Zone,Vallejo,54.0
+aqi,2016,5,May,Northern Zone,Vallejo,48.0
+aqi,2016,6,Jun,Northern Zone,Vallejo,55.0
+aqi,2016,7,Jul,Northern Zone,Vallejo,54.0
+aqi,2016,8,Aug,Northern Zone,Vallejo,44.0
+aqi,2016,9,Sep,Northern Zone,Vallejo,56.0
+aqi,2016,10,Oct,Northern Zone,Vallejo,52.0
+aqi,2016,11,Nov,Northern Zone,Vallejo,67.0
+aqi,2016,1,Jan,Coast & Central Bay,Berkeley Aquatic Park,-1.0
+aqi,2016,2,Feb,Coast & Central Bay,Berkeley Aquatic Park,-1.0
+aqi,2016,3,Mar,Coast & Central Bay,Berkeley Aquatic Park,-1.0
+aqi,2016,4,Apr,Coast & Central Bay,Berkeley Aquatic Park,-1.0
+aqi,2016,5,May,Coast & Central Bay,Berkeley Aquatic Park,-1.0
+aqi,2016,6,Jun,Coast & Central Bay,Berkeley Aquatic Park,-1.0
+aqi,2016,7,Jul,Coast & Central Bay,Berkeley Aquatic Park,55.0
+aqi,2016,8,Aug,Coast & Central Bay,Berkeley Aquatic Park,49.0
+aqi,2016,9,Sep,Coast & Central Bay,Berkeley Aquatic Park,58.0
+aqi,2016,10,Oct,Coast & Central Bay,Berkeley Aquatic Park,38.0
+aqi,2016,11,Nov,Coast & Central Bay,Berkeley Aquatic Park,55.0
+aqi,2016,1,Jan,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,2,Feb,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,3,Mar,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,4,Apr,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,5,May,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,6,Jun,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,7,Jul,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,8,Aug,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,9,Sep,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,10,Oct,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,11,Nov,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2016,1,Jan,Coast & Central Bay,Laney College,62.0
+aqi,2016,2,Feb,Coast & Central Bay,Laney College,68.0
+aqi,2016,3,Mar,Coast & Central Bay,Laney College,49.0
+aqi,2016,4,Apr,Coast & Central Bay,Laney College,53.0
+aqi,2016,5,May,Coast & Central Bay,Laney College,64.0
+aqi,2016,6,Jun,Coast & Central Bay,Laney College,63.0
+aqi,2016,7,Jul,Coast & Central Bay,Laney College,60.0
+aqi,2016,8,Aug,Coast & Central Bay,Laney College,54.0
+aqi,2016,9,Sep,Coast & Central Bay,Laney College,63.0
+aqi,2016,10,Oct,Coast & Central Bay,Laney College,41.0
+aqi,2016,11,Nov,Coast & Central Bay,Laney College,60.0
+aqi,2016,1,Jan,Coast & Central Bay,Oakland East,52.0
+aqi,2016,2,Feb,Coast & Central Bay,Oakland East,57.0
+aqi,2016,3,Mar,Coast & Central Bay,Oakland East,35.0
+aqi,2016,4,Apr,Coast & Central Bay,Oakland East,37.0
+aqi,2016,5,May,Coast & Central Bay,Oakland East,55.0
+aqi,2016,6,Jun,Coast & Central Bay,Oakland East,58.0
+aqi,2016,7,Jul,Coast & Central Bay,Oakland East,56.0
+aqi,2016,8,Aug,Coast & Central Bay,Oakland East,40.0
+aqi,2016,9,Sep,Coast & Central Bay,Oakland East,54.0
+aqi,2016,10,Oct,Coast & Central Bay,Oakland East,42.0
+aqi,2016,11,Nov,Coast & Central Bay,Oakland East,58.0
+aqi,2016,1,Jan,Coast & Central Bay,Oakland West,66.0
+aqi,2016,2,Feb,Coast & Central Bay,Oakland West,72.0
+aqi,2016,3,Mar,Coast & Central Bay,Oakland West,51.0
+aqi,2016,4,Apr,Coast & Central Bay,Oakland West,61.0
+aqi,2016,5,May,Coast & Central Bay,Oakland West,66.0
+aqi,2016,6,Jun,Coast & Central Bay,Oakland West,64.0
+aqi,2016,7,Jul,Coast & Central Bay,Oakland West,62.0
+aqi,2016,8,Aug,Coast & Central Bay,Oakland West,39.0
+aqi,2016,9,Sep,Coast & Central Bay,Oakland West,61.0
+aqi,2016,10,Oct,Coast & Central Bay,Oakland West,40.0
+aqi,2016,11,Nov,Coast & Central Bay,Oakland West,58.0
+aqi,2016,1,Jan,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,2,Feb,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,3,Mar,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,4,Apr,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,5,May,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,6,Jun,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,7,Jul,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,8,Aug,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,9,Sep,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,10,Oct,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,11,Nov,Coast & Central Bay,Pt. Richmond,0
+aqi,2016,1,Jan,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,2,Feb,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,3,Mar,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,4,Apr,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,5,May,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,6,Jun,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,7,Jul,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,8,Aug,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,9,Sep,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,10,Oct,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,11,Nov,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2016,1,Jan,Coast & Central Bay,Rodeo,0
+aqi,2016,2,Feb,Coast & Central Bay,Rodeo,0
+aqi,2016,3,Mar,Coast & Central Bay,Rodeo,0
+aqi,2016,4,Apr,Coast & Central Bay,Rodeo,0
+aqi,2016,5,May,Coast & Central Bay,Rodeo,0
+aqi,2016,6,Jun,Coast & Central Bay,Rodeo,0
+aqi,2016,7,Jul,Coast & Central Bay,Rodeo,0
+aqi,2016,8,Aug,Coast & Central Bay,Rodeo,0
+aqi,2016,9,Sep,Coast & Central Bay,Rodeo,0
+aqi,2016,10,Oct,Coast & Central Bay,Rodeo,0
+aqi,2016,11,Nov,Coast & Central Bay,Rodeo,0
+aqi,2016,1,Jan,Coast & Central Bay,San Francisco - Arkansas St.,67.0
+aqi,2016,2,Feb,Coast & Central Bay,San Francisco - Arkansas St.,66.0
+aqi,2016,3,Mar,Coast & Central Bay,San Francisco - Arkansas St.,47.0
+aqi,2016,4,Apr,Coast & Central Bay,San Francisco - Arkansas St.,54.0
+aqi,2016,5,May,Coast & Central Bay,San Francisco - Arkansas St.,57.0
+aqi,2016,6,Jun,Coast & Central Bay,San Francisco - Arkansas St.,57.0
+aqi,2016,7,Jul,Coast & Central Bay,San Francisco - Arkansas St.,52.0
+aqi,2016,8,Aug,Coast & Central Bay,San Francisco - Arkansas St.,46.0
+aqi,2016,9,Sep,Coast & Central Bay,San Francisco - Arkansas St.,60.0
+aqi,2016,10,Oct,Coast & Central Bay,San Francisco - Arkansas St.,35.0
+aqi,2016,11,Nov,Coast & Central Bay,San Francisco - Arkansas St.,60.0
+aqi,2016,1,Jan,Coast & Central Bay,San Pablo - Rumrill,61.0
+aqi,2016,2,Feb,Coast & Central Bay,San Pablo - Rumrill,60.0
+aqi,2016,3,Mar,Coast & Central Bay,San Pablo - Rumrill,44.0
+aqi,2016,4,Apr,Coast & Central Bay,San Pablo - Rumrill,53.0
+aqi,2016,5,May,Coast & Central Bay,San Pablo - Rumrill,67.0
+aqi,2016,6,Jun,Coast & Central Bay,San Pablo - Rumrill,63.0
+aqi,2016,7,Jul,Coast & Central Bay,San Pablo - Rumrill,60.0
+aqi,2016,8,Aug,Coast & Central Bay,San Pablo - Rumrill,44.0
+aqi,2016,9,Sep,Coast & Central Bay,San Pablo - Rumrill,58.0
+aqi,2016,10,Oct,Coast & Central Bay,San Pablo - Rumrill,42.0
+aqi,2016,11,Nov,Coast & Central Bay,San Pablo - Rumrill,63.0
+aqi,2016,1,Jan,Eastern Zone,Bethel Island,0
+aqi,2016,2,Feb,Eastern Zone,Bethel Island,0
+aqi,2016,3,Mar,Eastern Zone,Bethel Island,0
+aqi,2016,4,Apr,Eastern Zone,Bethel Island,0
+aqi,2016,5,May,Eastern Zone,Bethel Island,0
+aqi,2016,6,Jun,Eastern Zone,Bethel Island,0
+aqi,2016,7,Jul,Eastern Zone,Bethel Island,0
+aqi,2016,8,Aug,Eastern Zone,Bethel Island,0
+aqi,2016,9,Sep,Eastern Zone,Bethel Island,0
+aqi,2016,10,Oct,Eastern Zone,Bethel Island,0
+aqi,2016,11,Nov,Eastern Zone,Bethel Island,0
+aqi,2016,1,Jan,Eastern Zone,Concord,65.0
+aqi,2016,2,Feb,Eastern Zone,Concord,57.0
+aqi,2016,3,Mar,Eastern Zone,Concord,30.0
+aqi,2016,4,Apr,Eastern Zone,Concord,42.0
+aqi,2016,5,May,Eastern Zone,Concord,46.0
+aqi,2016,6,Jun,Eastern Zone,Concord,50.0
+aqi,2016,7,Jul,Eastern Zone,Concord,48.0
+aqi,2016,8,Aug,Eastern Zone,Concord,42.0
+aqi,2016,9,Sep,Eastern Zone,Concord,62.0
+aqi,2016,10,Oct,Eastern Zone,Concord,49.0
+aqi,2016,11,Nov,Eastern Zone,Concord,59.0
+aqi,2016,1,Jan,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,2,Feb,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,3,Mar,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,4,Apr,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,5,May,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,6,Jun,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,7,Jul,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,8,Aug,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,9,Sep,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,10,Oct,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,11,Nov,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2016,1,Jan,Eastern Zone,Livermore - Rincon Ave.,72.0
+aqi,2016,2,Feb,Eastern Zone,Livermore - Rincon Ave.,58.0
+aqi,2016,3,Mar,Eastern Zone,Livermore - Rincon Ave.,31.0
+aqi,2016,4,Apr,Eastern Zone,Livermore - Rincon Ave.,40.0
+aqi,2016,5,May,Eastern Zone,Livermore - Rincon Ave.,58.0
+aqi,2016,6,Jun,Eastern Zone,Livermore - Rincon Ave.,58.0
+aqi,2016,7,Jul,Eastern Zone,Livermore - Rincon Ave.,60.0
+aqi,2016,8,Aug,Eastern Zone,Livermore - Rincon Ave.,53.0
+aqi,2016,9,Sep,Eastern Zone,Livermore - Rincon Ave.,67.0
+aqi,2016,10,Oct,Eastern Zone,Livermore - Rincon Ave.,33.0
+aqi,2016,11,Nov,Eastern Zone,Livermore - Rincon Ave.,60.0
+aqi,2016,1,Jan,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,2,Feb,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,3,Mar,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,4,Apr,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,5,May,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,6,Jun,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,7,Jul,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,8,Aug,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,9,Sep,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,10,Oct,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,11,Nov,Eastern Zone,Martinez - Jones St.,0
+aqi,2016,1,Jan,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,2,Feb,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,3,Mar,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,4,Apr,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,5,May,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,6,Jun,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,7,Jul,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,8,Aug,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,9,Sep,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,10,Oct,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,11,Nov,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2016,1,Jan,Eastern Zone,Pleasanton,0
+aqi,2016,2,Feb,Eastern Zone,Pleasanton,0
+aqi,2016,3,Mar,Eastern Zone,Pleasanton,0
+aqi,2016,4,Apr,Eastern Zone,Pleasanton,0
+aqi,2016,5,May,Eastern Zone,Pleasanton,0
+aqi,2016,6,Jun,Eastern Zone,Pleasanton,0
+aqi,2016,7,Jul,Eastern Zone,Pleasanton,0
+aqi,2016,8,Aug,Eastern Zone,Pleasanton,0
+aqi,2016,9,Sep,Eastern Zone,Pleasanton,0
+aqi,2016,10,Oct,Eastern Zone,Pleasanton,0
+aqi,2016,11,Nov,Eastern Zone,Pleasanton,0
+aqi,2016,1,Jan,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,2,Feb,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,3,Mar,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,4,Apr,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,5,May,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,6,Jun,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,7,Jul,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,8,Aug,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,9,Sep,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,10,Oct,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,11,Nov,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2016,1,Jan,Eastern Zone,San Ramon,0
+aqi,2016,2,Feb,Eastern Zone,San Ramon,0
+aqi,2016,3,Mar,Eastern Zone,San Ramon,0
+aqi,2016,4,Apr,Eastern Zone,San Ramon,0
+aqi,2016,5,May,Eastern Zone,San Ramon,0
+aqi,2016,6,Jun,Eastern Zone,San Ramon,0
+aqi,2016,7,Jul,Eastern Zone,San Ramon,0
+aqi,2016,8,Aug,Eastern Zone,San Ramon,0
+aqi,2016,9,Sep,Eastern Zone,San Ramon,0
+aqi,2016,10,Oct,Eastern Zone,San Ramon,0
+aqi,2016,11,Nov,Eastern Zone,San Ramon,0
+aqi,2016,1,Jan,South Central Bay,Hayward,0
+aqi,2016,2,Feb,South Central Bay,Hayward,0
+aqi,2016,3,Mar,South Central Bay,Hayward,0
+aqi,2016,4,Apr,South Central Bay,Hayward,0
+aqi,2016,5,May,South Central Bay,Hayward,0
+aqi,2016,6,Jun,South Central Bay,Hayward,0
+aqi,2016,7,Jul,South Central Bay,Hayward,0
+aqi,2016,8,Aug,South Central Bay,Hayward,0
+aqi,2016,9,Sep,South Central Bay,Hayward,0
+aqi,2016,10,Oct,South Central Bay,Hayward,0
+aqi,2016,11,Nov,South Central Bay,Hayward,0
+aqi,2016,1,Jan,South Central Bay,Redwood City,58.0
+aqi,2016,2,Feb,South Central Bay,Redwood City,55.0
+aqi,2016,3,Mar,South Central Bay,Redwood City,44.0
+aqi,2016,4,Apr,South Central Bay,Redwood City,53.0
+aqi,2016,5,May,South Central Bay,Redwood City,64.0
+aqi,2016,6,Jun,South Central Bay,Redwood City,67.0
+aqi,2016,7,Jul,South Central Bay,Redwood City,62.0
+aqi,2016,8,Aug,South Central Bay,Redwood City,58.0
+aqi,2016,9,Sep,South Central Bay,Redwood City,64.0
+aqi,2016,10,Oct,South Central Bay,Redwood City,40.0
+aqi,2016,11,Nov,South Central Bay,Redwood City,63.0
+aqi,2016,1,Jan,South Central Bay,Redwood City,0
+aqi,2016,2,Feb,South Central Bay,Redwood City,0
+aqi,2016,3,Mar,South Central Bay,Redwood City,0
+aqi,2016,4,Apr,South Central Bay,Redwood City,0
+aqi,2016,5,May,South Central Bay,Redwood City,0
+aqi,2016,6,Jun,South Central Bay,Redwood City,0
+aqi,2016,7,Jul,South Central Bay,Redwood City,0
+aqi,2016,8,Aug,South Central Bay,Redwood City,0
+aqi,2016,9,Sep,South Central Bay,Redwood City,0
+aqi,2016,10,Oct,South Central Bay,Redwood City,0
+aqi,2016,11,Nov,South Central Bay,Redwood City,0
+aqi,2016,1,Jan,Santa Clara Valley,Gilroy,56.0
+aqi,2016,2,Feb,Santa Clara Valley,Gilroy,49.0
+aqi,2016,3,Mar,Santa Clara Valley,Gilroy,41.0
+aqi,2016,4,Apr,Santa Clara Valley,Gilroy,40.0
+aqi,2016,5,May,Santa Clara Valley,Gilroy,50.0
+aqi,2016,6,Jun,Santa Clara Valley,Gilroy,59.0
+aqi,2016,7,Jul,Santa Clara Valley,Gilroy,55.0
+aqi,2016,8,Aug,Santa Clara Valley,Gilroy,58.0
+aqi,2016,9,Sep,Santa Clara Valley,Gilroy,54.0
+aqi,2016,10,Oct,Santa Clara Valley,Gilroy,20.0
+aqi,2016,11,Nov,Santa Clara Valley,Gilroy,29.0
+aqi,2016,1,Jan,Santa Clara Valley,Los Gatos,0
+aqi,2016,2,Feb,Santa Clara Valley,Los Gatos,0
+aqi,2016,3,Mar,Santa Clara Valley,Los Gatos,0
+aqi,2016,4,Apr,Santa Clara Valley,Los Gatos,0
+aqi,2016,5,May,Santa Clara Valley,Los Gatos,0
+aqi,2016,6,Jun,Santa Clara Valley,Los Gatos,0
+aqi,2016,7,Jul,Santa Clara Valley,Los Gatos,0
+aqi,2016,8,Aug,Santa Clara Valley,Los Gatos,0
+aqi,2016,9,Sep,Santa Clara Valley,Los Gatos,0
+aqi,2016,10,Oct,Santa Clara Valley,Los Gatos,0
+aqi,2016,11,Nov,Santa Clara Valley,Los Gatos,0
+aqi,2016,1,Jan,Santa Clara Valley,San Jose - Jackson St.,73.0
+aqi,2016,2,Feb,Santa Clara Valley,San Jose - Jackson St.,71.0
+aqi,2016,3,Mar,Santa Clara Valley,San Jose - Jackson St.,37.0
+aqi,2016,4,Apr,Santa Clara Valley,San Jose - Jackson St.,48.0
+aqi,2016,5,May,Santa Clara Valley,San Jose - Jackson St.,60.0
+aqi,2016,6,Jun,Santa Clara Valley,San Jose - Jackson St.,57.0
+aqi,2016,7,Jul,Santa Clara Valley,San Jose - Jackson St.,66.0
+aqi,2016,8,Aug,Santa Clara Valley,San Jose - Jackson St.,51.0
+aqi,2016,9,Sep,Santa Clara Valley,San Jose - Jackson St.,62.0
+aqi,2016,10,Oct,Santa Clara Valley,San Jose - Jackson St.,47.0
+aqi,2016,11,Nov,Santa Clara Valley,San Jose - Jackson St.,66.0
+aqi,2016,1,Jan,Santa Clara Valley,San Jose - Knox Ave.,81.0
+aqi,2016,2,Feb,Santa Clara Valley,San Jose - Knox Ave.,77.0
+aqi,2016,3,Mar,Santa Clara Valley,San Jose - Knox Ave.,40.0
+aqi,2016,4,Apr,Santa Clara Valley,San Jose - Knox Ave.,48.0
+aqi,2016,5,May,Santa Clara Valley,San Jose - Knox Ave.,58.0
+aqi,2016,6,Jun,Santa Clara Valley,San Jose - Knox Ave.,59.0
+aqi,2016,7,Jul,Santa Clara Valley,San Jose - Knox Ave.,67.0
+aqi,2016,8,Aug,Santa Clara Valley,San Jose - Knox Ave.,53.0
+aqi,2016,9,Sep,Santa Clara Valley,San Jose - Knox Ave.,64.0
+aqi,2016,10,Oct,Santa Clara Valley,San Jose - Knox Ave.,46.0
+aqi,2016,11,Nov,Santa Clara Valley,San Jose - Knox Ave.,66.0
+aqi,2016,1,Jan,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,2,Feb,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,3,Mar,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,4,Apr,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,5,May,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,6,Jun,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,7,Jul,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,8,Aug,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,9,Sep,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,10,Oct,Santa Clara Valley,San Martin - Airport,0
+aqi,2016,11,Nov,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,1,Jan,Northern Zone,Forest Knolls,0
+aqi,2017,2,Feb,Northern Zone,Forest Knolls,0
+aqi,2017,3,Mar,Northern Zone,Forest Knolls,0
+aqi,2017,4,Apr,Northern Zone,Forest Knolls,0
+aqi,2017,5,May,Northern Zone,Forest Knolls,0
+aqi,2017,6,Jun,Northern Zone,Forest Knolls,0
+aqi,2017,7,Jul,Northern Zone,Forest Knolls,0
+aqi,2017,8,Aug,Northern Zone,Forest Knolls,0
+aqi,2017,9,Sep,Northern Zone,Forest Knolls,0
+aqi,2017,10,Oct,Northern Zone,Forest Knolls,0
+aqi,2017,11,Nov,Northern Zone,Forest Knolls,0
+aqi,2017,1,Jan,Northern Zone,Napa - Napa Valley College,76.0
+aqi,2017,2,Feb,Northern Zone,Napa - Napa Valley College,58.0
+aqi,2017,3,Mar,Northern Zone,Napa - Napa Valley College,49.0
+aqi,2017,4,Apr,Northern Zone,Napa - Napa Valley College,49.0
+aqi,2017,5,May,Northern Zone,Napa - Napa Valley College,66.0
+aqi,2017,6,Jun,Northern Zone,Napa - Napa Valley College,60.0
+aqi,2017,7,Jul,Northern Zone,Napa - Napa Valley College,67.0
+aqi,2017,8,Aug,Northern Zone,Napa - Napa Valley College,63.0
+aqi,2017,9,Sep,Northern Zone,Napa - Napa Valley College,64.0
+aqi,2017,10,Oct,Northern Zone,Napa - Napa Valley College,281.0
+aqi,2017,11,Nov,Northern Zone,Napa - Napa Valley College,57.0
+aqi,2017,1,Jan,Northern Zone,Napa,79.0
+aqi,2017,2,Feb,Northern Zone,Napa,59.0
+aqi,2017,3,Mar,Northern Zone,Napa,51.0
+aqi,2017,4,Apr,Northern Zone,Napa,52.0
+aqi,2017,5,May,Northern Zone,Napa,60.0
+aqi,2017,6,Jun,Northern Zone,Napa,58.0
+aqi,2017,7,Jul,Northern Zone,Napa,63.0
+aqi,2017,8,Aug,Northern Zone,Napa,91.0
+aqi,2017,9,Sep,Northern Zone,Napa,147.0
+aqi,2017,10,Oct,Northern Zone,Napa,249.0
+aqi,2017,11,Nov,Northern Zone,Napa,64.0
+aqi,2017,1,Jan,Northern Zone,San Rafael,81.0
+aqi,2017,2,Feb,Northern Zone,San Rafael,70.0
+aqi,2017,3,Mar,Northern Zone,San Rafael,55.0
+aqi,2017,4,Apr,Northern Zone,San Rafael,50.0
+aqi,2017,5,May,Northern Zone,San Rafael,58.0
+aqi,2017,6,Jun,Northern Zone,San Rafael,53.0
+aqi,2017,7,Jul,Northern Zone,San Rafael,60.0
+aqi,2017,8,Aug,Northern Zone,San Rafael,85.0
+aqi,2017,9,Sep,Northern Zone,San Rafael,119.0
+aqi,2017,10,Oct,Northern Zone,San Rafael,161.0
+aqi,2017,11,Nov,Northern Zone,San Rafael,64.0
+aqi,2017,1,Jan,Northern Zone,Sebastopol,67.0
+aqi,2017,2,Feb,Northern Zone,Sebastopol,68.0
+aqi,2017,3,Mar,Northern Zone,Sebastopol,36.0
+aqi,2017,4,Apr,Northern Zone,Sebastopol,36.0
+aqi,2017,5,May,Northern Zone,Sebastopol,48.0
+aqi,2017,6,Jun,Northern Zone,Sebastopol,62.0
+aqi,2017,7,Jul,Northern Zone,Sebastopol,52.0
+aqi,2017,8,Aug,Northern Zone,Sebastopol,67.0
+aqi,2017,9,Sep,Northern Zone,Sebastopol,154.0
+aqi,2017,10,Oct,Northern Zone,Sebastopol,165.0
+aqi,2017,11,Nov,Northern Zone,Sebastopol,55.0
+aqi,2017,1,Jan,Northern Zone,Vallejo,73.0
+aqi,2017,2,Feb,Northern Zone,Vallejo,67.0
+aqi,2017,3,Mar,Northern Zone,Vallejo,47.0
+aqi,2017,4,Apr,Northern Zone,Vallejo,51.0
+aqi,2017,5,May,Northern Zone,Vallejo,67.0
+aqi,2017,6,Jun,Northern Zone,Vallejo,62.0
+aqi,2017,7,Jul,Northern Zone,Vallejo,63.0
+aqi,2017,8,Aug,Northern Zone,Vallejo,85.0
+aqi,2017,9,Sep,Northern Zone,Vallejo,134.0
+aqi,2017,10,Oct,Northern Zone,Vallejo,175.0
+aqi,2017,11,Nov,Northern Zone,Vallejo,78.0
+aqi,2017,1,Jan,Coast & Central Bay,Berkeley Aquatic Park,75.0
+aqi,2017,2,Feb,Coast & Central Bay,Berkeley Aquatic Park,82.0
+aqi,2017,3,Mar,Coast & Central Bay,Berkeley Aquatic Park,48.0
+aqi,2017,4,Apr,Coast & Central Bay,Berkeley Aquatic Park,49.0
+aqi,2017,5,May,Coast & Central Bay,Berkeley Aquatic Park,62.0
+aqi,2017,6,Jun,Coast & Central Bay,Berkeley Aquatic Park,58.0
+aqi,2017,7,Jul,Coast & Central Bay,Berkeley Aquatic Park,57.0
+aqi,2017,8,Aug,Coast & Central Bay,Berkeley Aquatic Park,55.0
+aqi,2017,9,Sep,Coast & Central Bay,Berkeley Aquatic Park,142.0
+aqi,2017,10,Oct,Coast & Central Bay,Berkeley Aquatic Park,133.0
+aqi,2017,11,Nov,Coast & Central Bay,Berkeley Aquatic Park,69.0
+aqi,2017,1,Jan,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,2,Feb,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,3,Mar,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,4,Apr,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,5,May,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,6,Jun,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,7,Jul,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,8,Aug,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,9,Sep,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,10,Oct,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,11,Nov,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2017,1,Jan,Coast & Central Bay,Laney College,77.0
+aqi,2017,2,Feb,Coast & Central Bay,Laney College,77.0
+aqi,2017,3,Mar,Coast & Central Bay,Laney College,51.0
+aqi,2017,4,Apr,Coast & Central Bay,Laney College,55.0
+aqi,2017,5,May,Coast & Central Bay,Laney College,68.0
+aqi,2017,6,Jun,Coast & Central Bay,Laney College,58.0
+aqi,2017,7,Jul,Coast & Central Bay,Laney College,67.0
+aqi,2017,8,Aug,Coast & Central Bay,Laney College,72.0
+aqi,2017,9,Sep,Coast & Central Bay,Laney College,141.0
+aqi,2017,10,Oct,Coast & Central Bay,Laney College,159.0
+aqi,2017,11,Nov,Coast & Central Bay,Laney College,76.0
+aqi,2017,1,Jan,Coast & Central Bay,Oakland East,80.0
+aqi,2017,2,Feb,Coast & Central Bay,Oakland East,73.0
+aqi,2017,3,Mar,Coast & Central Bay,Oakland East,49.0
+aqi,2017,4,Apr,Coast & Central Bay,Oakland East,48.0
+aqi,2017,5,May,Coast & Central Bay,Oakland East,61.0
+aqi,2017,6,Jun,Coast & Central Bay,Oakland East,59.0
+aqi,2017,7,Jul,Coast & Central Bay,Oakland East,59.0
+aqi,2017,8,Aug,Coast & Central Bay,Oakland East,66.0
+aqi,2017,9,Sep,Coast & Central Bay,Oakland East,142.0
+aqi,2017,10,Oct,Coast & Central Bay,Oakland East,159.0
+aqi,2017,11,Nov,Coast & Central Bay,Oakland East,66.0
+aqi,2017,1,Jan,Coast & Central Bay,Oakland West,85.0
+aqi,2017,2,Feb,Coast & Central Bay,Oakland West,87.0
+aqi,2017,3,Mar,Coast & Central Bay,Oakland West,59.0
+aqi,2017,4,Apr,Coast & Central Bay,Oakland West,58.0
+aqi,2017,5,May,Coast & Central Bay,Oakland West,67.0
+aqi,2017,6,Jun,Coast & Central Bay,Oakland West,68.0
+aqi,2017,7,Jul,Coast & Central Bay,Oakland West,67.0
+aqi,2017,8,Aug,Coast & Central Bay,Oakland West,72.0
+aqi,2017,9,Sep,Coast & Central Bay,Oakland West,151.0
+aqi,2017,10,Oct,Coast & Central Bay,Oakland West,151.0
+aqi,2017,11,Nov,Coast & Central Bay,Oakland West,75.0
+aqi,2017,1,Jan,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,2,Feb,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,3,Mar,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,4,Apr,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,5,May,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,6,Jun,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,7,Jul,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,8,Aug,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,9,Sep,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,10,Oct,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,11,Nov,Coast & Central Bay,Pt. Richmond,0
+aqi,2017,1,Jan,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,2,Feb,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,3,Mar,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,4,Apr,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,5,May,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,6,Jun,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,7,Jul,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,8,Aug,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,9,Sep,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,10,Oct,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,11,Nov,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2017,1,Jan,Coast & Central Bay,Rodeo,0
+aqi,2017,2,Feb,Coast & Central Bay,Rodeo,0
+aqi,2017,3,Mar,Coast & Central Bay,Rodeo,0
+aqi,2017,4,Apr,Coast & Central Bay,Rodeo,0
+aqi,2017,5,May,Coast & Central Bay,Rodeo,0
+aqi,2017,6,Jun,Coast & Central Bay,Rodeo,0
+aqi,2017,7,Jul,Coast & Central Bay,Rodeo,0
+aqi,2017,8,Aug,Coast & Central Bay,Rodeo,0
+aqi,2017,9,Sep,Coast & Central Bay,Rodeo,0
+aqi,2017,10,Oct,Coast & Central Bay,Rodeo,0
+aqi,2017,11,Nov,Coast & Central Bay,Rodeo,0
+aqi,2017,1,Jan,Coast & Central Bay,San Francisco - Arkansas St.,82.0
+aqi,2017,2,Feb,Coast & Central Bay,San Francisco - Arkansas St.,78.0
+aqi,2017,3,Mar,Coast & Central Bay,San Francisco - Arkansas St.,55.0
+aqi,2017,4,Apr,Coast & Central Bay,San Francisco - Arkansas St.,56.0
+aqi,2017,5,May,Coast & Central Bay,San Francisco - Arkansas St.,62.0
+aqi,2017,6,Jun,Coast & Central Bay,San Francisco - Arkansas St.,58.0
+aqi,2017,7,Jul,Coast & Central Bay,San Francisco - Arkansas St.,56.0
+aqi,2017,8,Aug,Coast & Central Bay,San Francisco - Arkansas St.,69.0
+aqi,2017,9,Sep,Coast & Central Bay,San Francisco - Arkansas St.,136.0
+aqi,2017,10,Oct,Coast & Central Bay,San Francisco - Arkansas St.,136.0
+aqi,2017,11,Nov,Coast & Central Bay,San Francisco - Arkansas St.,75.0
+aqi,2017,1,Jan,Coast & Central Bay,San Pablo - Rumrill,83.0
+aqi,2017,2,Feb,Coast & Central Bay,San Pablo - Rumrill,79.0
+aqi,2017,3,Mar,Coast & Central Bay,San Pablo - Rumrill,42.0
+aqi,2017,4,Apr,Coast & Central Bay,San Pablo - Rumrill,57.0
+aqi,2017,5,May,Coast & Central Bay,San Pablo - Rumrill,66.0
+aqi,2017,6,Jun,Coast & Central Bay,San Pablo - Rumrill,63.0
+aqi,2017,7,Jul,Coast & Central Bay,San Pablo - Rumrill,61.0
+aqi,2017,8,Aug,Coast & Central Bay,San Pablo - Rumrill,76.0
+aqi,2017,9,Sep,Coast & Central Bay,San Pablo - Rumrill,135.0
+aqi,2017,10,Oct,Coast & Central Bay,San Pablo - Rumrill,159.0
+aqi,2017,11,Nov,Coast & Central Bay,San Pablo - Rumrill,69.0
+aqi,2017,1,Jan,Eastern Zone,Bethel Island,0
+aqi,2017,2,Feb,Eastern Zone,Bethel Island,0
+aqi,2017,3,Mar,Eastern Zone,Bethel Island,0
+aqi,2017,4,Apr,Eastern Zone,Bethel Island,0
+aqi,2017,5,May,Eastern Zone,Bethel Island,0
+aqi,2017,6,Jun,Eastern Zone,Bethel Island,0
+aqi,2017,7,Jul,Eastern Zone,Bethel Island,0
+aqi,2017,8,Aug,Eastern Zone,Bethel Island,0
+aqi,2017,9,Sep,Eastern Zone,Bethel Island,0
+aqi,2017,10,Oct,Eastern Zone,Bethel Island,0
+aqi,2017,11,Nov,Eastern Zone,Bethel Island,0
+aqi,2017,1,Jan,Eastern Zone,Concord,82.0
+aqi,2017,2,Feb,Eastern Zone,Concord,90.0
+aqi,2017,3,Mar,Eastern Zone,Concord,50.0
+aqi,2017,4,Apr,Eastern Zone,Concord,54.0
+aqi,2017,5,May,Eastern Zone,Concord,56.0
+aqi,2017,6,Jun,Eastern Zone,Concord,62.0
+aqi,2017,7,Jul,Eastern Zone,Concord,57.0
+aqi,2017,8,Aug,Eastern Zone,Concord,80.0
+aqi,2017,9,Sep,Eastern Zone,Concord,107.0
+aqi,2017,10,Oct,Eastern Zone,Concord,169.0
+aqi,2017,11,Nov,Eastern Zone,Concord,78.0
+aqi,2017,1,Jan,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,2,Feb,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,3,Mar,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,4,Apr,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,5,May,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,6,Jun,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,7,Jul,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,8,Aug,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,9,Sep,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,10,Oct,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,11,Nov,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2017,1,Jan,Eastern Zone,Livermore - Rincon Ave.,73.0
+aqi,2017,2,Feb,Eastern Zone,Livermore - Rincon Ave.,82.0
+aqi,2017,3,Mar,Eastern Zone,Livermore - Rincon Ave.,35.0
+aqi,2017,4,Apr,Eastern Zone,Livermore - Rincon Ave.,41.0
+aqi,2017,5,May,Eastern Zone,Livermore - Rincon Ave.,48.0
+aqi,2017,6,Jun,Eastern Zone,Livermore - Rincon Ave.,52.0
+aqi,2017,7,Jul,Eastern Zone,Livermore - Rincon Ave.,54.0
+aqi,2017,8,Aug,Eastern Zone,Livermore - Rincon Ave.,80.0
+aqi,2017,9,Sep,Eastern Zone,Livermore - Rincon Ave.,96.0
+aqi,2017,10,Oct,Eastern Zone,Livermore - Rincon Ave.,106.0
+aqi,2017,11,Nov,Eastern Zone,Livermore - Rincon Ave.,67.0
+aqi,2017,1,Jan,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,2,Feb,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,3,Mar,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,4,Apr,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,5,May,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,6,Jun,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,7,Jul,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,8,Aug,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,9,Sep,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,10,Oct,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,11,Nov,Eastern Zone,Martinez - Jones St.,0
+aqi,2017,1,Jan,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,2,Feb,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,3,Mar,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,4,Apr,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,5,May,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,6,Jun,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,7,Jul,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,8,Aug,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,9,Sep,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,10,Oct,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,11,Nov,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2017,1,Jan,Eastern Zone,Pleasanton,0
+aqi,2017,2,Feb,Eastern Zone,Pleasanton,0
+aqi,2017,3,Mar,Eastern Zone,Pleasanton,0
+aqi,2017,4,Apr,Eastern Zone,Pleasanton,0
+aqi,2017,5,May,Eastern Zone,Pleasanton,0
+aqi,2017,6,Jun,Eastern Zone,Pleasanton,0
+aqi,2017,7,Jul,Eastern Zone,Pleasanton,0
+aqi,2017,8,Aug,Eastern Zone,Pleasanton,0
+aqi,2017,9,Sep,Eastern Zone,Pleasanton,0
+aqi,2017,10,Oct,Eastern Zone,Pleasanton,0
+aqi,2017,11,Nov,Eastern Zone,Pleasanton,0
+aqi,2017,1,Jan,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,2,Feb,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,3,Mar,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,4,Apr,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,5,May,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,6,Jun,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,7,Jul,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,8,Aug,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,9,Sep,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,10,Oct,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,11,Nov,Eastern Zone,Pleasanton - Owens Ct.,0
+aqi,2017,1,Jan,Eastern Zone,San Ramon,0
+aqi,2017,2,Feb,Eastern Zone,San Ramon,0
+aqi,2017,3,Mar,Eastern Zone,San Ramon,0
+aqi,2017,4,Apr,Eastern Zone,San Ramon,0
+aqi,2017,5,May,Eastern Zone,San Ramon,0
+aqi,2017,6,Jun,Eastern Zone,San Ramon,0
+aqi,2017,7,Jul,Eastern Zone,San Ramon,0
+aqi,2017,8,Aug,Eastern Zone,San Ramon,0
+aqi,2017,9,Sep,Eastern Zone,San Ramon,0
+aqi,2017,10,Oct,Eastern Zone,San Ramon,0
+aqi,2017,11,Nov,Eastern Zone,San Ramon,0
+aqi,2017,1,Jan,South Central Bay,Hayward,0
+aqi,2017,2,Feb,South Central Bay,Hayward,0
+aqi,2017,3,Mar,South Central Bay,Hayward,0
+aqi,2017,4,Apr,South Central Bay,Hayward,0
+aqi,2017,5,May,South Central Bay,Hayward,0
+aqi,2017,6,Jun,South Central Bay,Hayward,0
+aqi,2017,7,Jul,South Central Bay,Hayward,0
+aqi,2017,8,Aug,South Central Bay,Hayward,0
+aqi,2017,9,Sep,South Central Bay,Hayward,0
+aqi,2017,10,Oct,South Central Bay,Hayward,0
+aqi,2017,11,Nov,South Central Bay,Hayward,0
+aqi,2017,1,Jan,South Central Bay,Redwood City,70.0
+aqi,2017,2,Feb,South Central Bay,Redwood City,69.0
+aqi,2017,3,Mar,South Central Bay,Redwood City,53.0
+aqi,2017,4,Apr,South Central Bay,Redwood City,45.0
+aqi,2017,5,May,South Central Bay,Redwood City,55.0
+aqi,2017,6,Jun,South Central Bay,Redwood City,57.0
+aqi,2017,7,Jul,South Central Bay,Redwood City,56.0
+aqi,2017,8,Aug,South Central Bay,Redwood City,78.0
+aqi,2017,9,Sep,South Central Bay,Redwood City,132.0
+aqi,2017,10,Oct,South Central Bay,Redwood City,154.0
+aqi,2017,11,Nov,South Central Bay,Redwood City,60.0
+aqi,2017,1,Jan,South Central Bay,Redwood City,0
+aqi,2017,2,Feb,South Central Bay,Redwood City,0
+aqi,2017,3,Mar,South Central Bay,Redwood City,0
+aqi,2017,4,Apr,South Central Bay,Redwood City,0
+aqi,2017,5,May,South Central Bay,Redwood City,0
+aqi,2017,6,Jun,South Central Bay,Redwood City,0
+aqi,2017,7,Jul,South Central Bay,Redwood City,0
+aqi,2017,8,Aug,South Central Bay,Redwood City,0
+aqi,2017,9,Sep,South Central Bay,Redwood City,0
+aqi,2017,10,Oct,South Central Bay,Redwood City,0
+aqi,2017,11,Nov,South Central Bay,Redwood City,0
+aqi,2017,1,Jan,Santa Clara Valley,Gilroy,51.0
+aqi,2017,2,Feb,Santa Clara Valley,Gilroy,25.0
+aqi,2017,3,Mar,Santa Clara Valley,Gilroy,24.0
+aqi,2017,4,Apr,Santa Clara Valley,Gilroy,23.0
+aqi,2017,5,May,Santa Clara Valley,Gilroy,43.0
+aqi,2017,6,Jun,Santa Clara Valley,Gilroy,40.0
+aqi,2017,7,Jul,Santa Clara Valley,Gilroy,45.0
+aqi,2017,8,Aug,Santa Clara Valley,Gilroy,55.0
+aqi,2017,9,Sep,Santa Clara Valley,Gilroy,66.0
+aqi,2017,10,Oct,Santa Clara Valley,Gilroy,133.0
+aqi,2017,11,Nov,Santa Clara Valley,Gilroy,40.0
+aqi,2017,1,Jan,Santa Clara Valley,Los Gatos,0
+aqi,2017,2,Feb,Santa Clara Valley,Los Gatos,0
+aqi,2017,3,Mar,Santa Clara Valley,Los Gatos,0
+aqi,2017,4,Apr,Santa Clara Valley,Los Gatos,0
+aqi,2017,5,May,Santa Clara Valley,Los Gatos,0
+aqi,2017,6,Jun,Santa Clara Valley,Los Gatos,0
+aqi,2017,7,Jul,Santa Clara Valley,Los Gatos,0
+aqi,2017,8,Aug,Santa Clara Valley,Los Gatos,0
+aqi,2017,9,Sep,Santa Clara Valley,Los Gatos,0
+aqi,2017,10,Oct,Santa Clara Valley,Los Gatos,0
+aqi,2017,11,Nov,Santa Clara Valley,Los Gatos,0
+aqi,2017,1,Jan,Santa Clara Valley,San Jose - Jackson St.,68.0
+aqi,2017,2,Feb,Santa Clara Valley,San Jose - Jackson St.,53.0
+aqi,2017,3,Mar,Santa Clara Valley,San Jose - Jackson St.,52.0
+aqi,2017,4,Apr,Santa Clara Valley,San Jose - Jackson St.,56.0
+aqi,2017,5,May,Santa Clara Valley,San Jose - Jackson St.,44.0
+aqi,2017,6,Jun,Santa Clara Valley,San Jose - Jackson St.,57.0
+aqi,2017,7,Jul,Santa Clara Valley,San Jose - Jackson St.,60.0
+aqi,2017,8,Aug,Santa Clara Valley,San Jose - Jackson St.,81.0
+aqi,2017,9,Sep,Santa Clara Valley,San Jose - Jackson St.,128.0
+aqi,2017,10,Oct,Santa Clara Valley,San Jose - Jackson St.,136.0
+aqi,2017,11,Nov,Santa Clara Valley,San Jose - Jackson St.,64.0
+aqi,2017,1,Jan,Santa Clara Valley,San Jose - Knox Ave.,99.0
+aqi,2017,2,Feb,Santa Clara Valley,San Jose - Knox Ave.,54.0
+aqi,2017,3,Mar,Santa Clara Valley,San Jose - Knox Ave.,48.0
+aqi,2017,4,Apr,Santa Clara Valley,San Jose - Knox Ave.,53.0
+aqi,2017,5,May,Santa Clara Valley,San Jose - Knox Ave.,54.0
+aqi,2017,6,Jun,Santa Clara Valley,San Jose - Knox Ave.,58.0
+aqi,2017,7,Jul,Santa Clara Valley,San Jose - Knox Ave.,57.0
+aqi,2017,8,Aug,Santa Clara Valley,San Jose - Knox Ave.,77.0
+aqi,2017,9,Sep,Santa Clara Valley,San Jose - Knox Ave.,117.0
+aqi,2017,10,Oct,Santa Clara Valley,San Jose - Knox Ave.,133.0
+aqi,2017,11,Nov,Santa Clara Valley,San Jose - Knox Ave.,70.0
+aqi,2017,1,Jan,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,2,Feb,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,3,Mar,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,4,Apr,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,5,May,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,6,Jun,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,7,Jul,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,8,Aug,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,9,Sep,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,10,Oct,Santa Clara Valley,San Martin - Airport,0
+aqi,2017,11,Nov,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,1,Jan,Northern Zone,Forest Knolls,0
+aqi,2018,2,Feb,Northern Zone,Forest Knolls,0
+aqi,2018,3,Mar,Northern Zone,Forest Knolls,0
+aqi,2018,4,Apr,Northern Zone,Forest Knolls,0
+aqi,2018,5,May,Northern Zone,Forest Knolls,0
+aqi,2018,6,Jun,Northern Zone,Forest Knolls,0
+aqi,2018,7,Jul,Northern Zone,Forest Knolls,0
+aqi,2018,8,Aug,Northern Zone,Forest Knolls,0
+aqi,2018,9,Sep,Northern Zone,Forest Knolls,0
+aqi,2018,10,Oct,Northern Zone,Forest Knolls,0
+aqi,2018,11,Nov,Northern Zone,Forest Knolls,0
+aqi,2018,1,Jan,Northern Zone,Napa - Napa Valley College,82.0
+aqi,2018,2,Feb,Northern Zone,Napa - Napa Valley College,54.0
+aqi,2018,3,Mar,Northern Zone,Napa - Napa Valley College,38.0
+aqi,2018,4,Apr,Northern Zone,Napa - Napa Valley College,57.0
+aqi,2018,5,May,Northern Zone,Napa - Napa Valley College,60.0
+aqi,2018,6,Jun,Northern Zone,Napa - Napa Valley College,52.0
+aqi,2018,7,Jul,Northern Zone,Napa - Napa Valley College,55.0
+aqi,2018,8,Aug,Northern Zone,Napa - Napa Valley College,79.0
+aqi,2018,9,Sep,Northern Zone,Napa - Napa Valley College,55.0
+aqi,2018,10,Oct,Northern Zone,Napa - Napa Valley College,54.0
+aqi,2018,11,Nov,Northern Zone,Napa - Napa Valley College,183.0
+aqi,2018,1,Jan,Northern Zone,Napa,89.0
+aqi,2018,2,Feb,Northern Zone,Napa,64.0
+aqi,2018,3,Mar,Northern Zone,Napa,52.0
+aqi,2018,4,Apr,Northern Zone,Napa,62.0
+aqi,2018,5,May,Northern Zone,Napa,49.0
+aqi,2018,6,Jun,Northern Zone,Napa,-1.0
+aqi,2018,7,Jul,Northern Zone,Napa,-1.0
+aqi,2018,8,Aug,Northern Zone,Napa,-1.0
+aqi,2018,9,Sep,Northern Zone,Napa,-1.0
+aqi,2018,10,Oct,Northern Zone,Napa,-1.0
+aqi,2018,11,Nov,Northern Zone,Napa,-1.0
+aqi,2018,1,Jan,Northern Zone,San Rafael,123.0
+aqi,2018,2,Feb,Northern Zone,San Rafael,62.0
+aqi,2018,3,Mar,Northern Zone,San Rafael,38.0
+aqi,2018,4,Apr,Northern Zone,San Rafael,57.0
+aqi,2018,5,May,Northern Zone,San Rafael,61.0
+aqi,2018,6,Jun,Northern Zone,San Rafael,52.0
+aqi,2018,7,Jul,Northern Zone,San Rafael,59.0
+aqi,2018,8,Aug,Northern Zone,San Rafael,98.0
+aqi,2018,9,Sep,Northern Zone,San Rafael,58.0
+aqi,2018,10,Oct,Northern Zone,San Rafael,57.0
+aqi,2018,11,Nov,Northern Zone,San Rafael,218.0
+aqi,2018,1,Jan,Northern Zone,Sebastopol,84.0
+aqi,2018,2,Feb,Northern Zone,Sebastopol,56.0
+aqi,2018,3,Mar,Northern Zone,Sebastopol,32.0
+aqi,2018,4,Apr,Northern Zone,Sebastopol,46.0
+aqi,2018,5,May,Northern Zone,Sebastopol,57.0
+aqi,2018,6,Jun,Northern Zone,Sebastopol,45.0
+aqi,2018,7,Jul,Northern Zone,Sebastopol,51.0
+aqi,2018,8,Aug,Northern Zone,Sebastopol,65.0
+aqi,2018,9,Sep,Northern Zone,Sebastopol,48.0
+aqi,2018,10,Oct,Northern Zone,Sebastopol,30.0
+aqi,2018,11,Nov,Northern Zone,Sebastopol,226.0
+aqi,2018,1,Jan,Northern Zone,Vallejo,132.0
+aqi,2018,2,Feb,Northern Zone,Vallejo,74.0
+aqi,2018,3,Mar,Northern Zone,Vallejo,51.0
+aqi,2018,4,Apr,Northern Zone,Vallejo,63.0
+aqi,2018,5,May,Northern Zone,Vallejo,64.0
+aqi,2018,6,Jun,Northern Zone,Vallejo,53.0
+aqi,2018,7,Jul,Northern Zone,Vallejo,59.0
+aqi,2018,8,Aug,Northern Zone,Vallejo,92.0
+aqi,2018,9,Sep,Northern Zone,Vallejo,60.0
+aqi,2018,10,Oct,Northern Zone,Vallejo,57.0
+aqi,2018,11,Nov,Northern Zone,Vallejo,247.0
+aqi,2018,1,Jan,Coast & Central Bay,Berkeley Aquatic Park,93.0
+aqi,2018,2,Feb,Coast & Central Bay,Berkeley Aquatic Park,83.0
+aqi,2018,3,Mar,Coast & Central Bay,Berkeley Aquatic Park,53.0
+aqi,2018,4,Apr,Coast & Central Bay,Berkeley Aquatic Park,64.0
+aqi,2018,5,May,Coast & Central Bay,Berkeley Aquatic Park,68.0
+aqi,2018,6,Jun,Coast & Central Bay,Berkeley Aquatic Park,85.0
+aqi,2018,7,Jul,Coast & Central Bay,Berkeley Aquatic Park,54.0
+aqi,2018,8,Aug,Coast & Central Bay,Berkeley Aquatic Park,118.0
+aqi,2018,9,Sep,Coast & Central Bay,Berkeley Aquatic Park,59.0
+aqi,2018,10,Oct,Coast & Central Bay,Berkeley Aquatic Park,58.0
+aqi,2018,11,Nov,Coast & Central Bay,Berkeley Aquatic Park,216.0
+aqi,2018,1,Jan,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,2,Feb,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,3,Mar,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,4,Apr,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,5,May,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,6,Jun,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,7,Jul,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,8,Aug,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,9,Sep,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,10,Oct,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,11,Nov,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2018,1,Jan,Coast & Central Bay,Laney College,108.0
+aqi,2018,2,Feb,Coast & Central Bay,Laney College,84.0
+aqi,2018,3,Mar,Coast & Central Bay,Laney College,64.0
+aqi,2018,4,Apr,Coast & Central Bay,Laney College,66.0
+aqi,2018,5,May,Coast & Central Bay,Laney College,70.0
+aqi,2018,6,Jun,Coast & Central Bay,Laney College,61.0
+aqi,2018,7,Jul,Coast & Central Bay,Laney College,58.0
+aqi,2018,8,Aug,Coast & Central Bay,Laney College,133.0
+aqi,2018,9,Sep,Coast & Central Bay,Laney College,69.0
+aqi,2018,10,Oct,Coast & Central Bay,Laney College,60.0
+aqi,2018,11,Nov,Coast & Central Bay,Laney College,219.0
+aqi,2018,1,Jan,Coast & Central Bay,Oakland East,89.0
+aqi,2018,2,Feb,Coast & Central Bay,Oakland East,66.0
+aqi,2018,3,Mar,Coast & Central Bay,Oakland East,56.0
+aqi,2018,4,Apr,Coast & Central Bay,Oakland East,63.0
+aqi,2018,5,May,Coast & Central Bay,Oakland East,65.0
+aqi,2018,6,Jun,Coast & Central Bay,Oakland East,56.0
+aqi,2018,7,Jul,Coast & Central Bay,Oakland East,56.0
+aqi,2018,8,Aug,Coast & Central Bay,Oakland East,117.0
+aqi,2018,9,Sep,Coast & Central Bay,Oakland East,70.0
+aqi,2018,10,Oct,Coast & Central Bay,Oakland East,62.0
+aqi,2018,11,Nov,Coast & Central Bay,Oakland East,222.0
+aqi,2018,1,Jan,Coast & Central Bay,Oakland West,101.0
+aqi,2018,2,Feb,Coast & Central Bay,Oakland West,95.0
+aqi,2018,3,Mar,Coast & Central Bay,Oakland West,64.0
+aqi,2018,4,Apr,Coast & Central Bay,Oakland West,67.0
+aqi,2018,5,May,Coast & Central Bay,Oakland West,73.0
+aqi,2018,6,Jun,Coast & Central Bay,Oakland West,72.0
+aqi,2018,7,Jul,Coast & Central Bay,Oakland West,54.0
+aqi,2018,8,Aug,Coast & Central Bay,Oakland West,125.0
+aqi,2018,9,Sep,Coast & Central Bay,Oakland West,76.0
+aqi,2018,10,Oct,Coast & Central Bay,Oakland West,70.0
+aqi,2018,11,Nov,Coast & Central Bay,Oakland West,220.0
+aqi,2018,1,Jan,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,2,Feb,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,3,Mar,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,4,Apr,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,5,May,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,6,Jun,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,7,Jul,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,8,Aug,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,9,Sep,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,10,Oct,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,11,Nov,Coast & Central Bay,Pt. Richmond,0
+aqi,2018,1,Jan,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,2,Feb,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,3,Mar,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,4,Apr,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,5,May,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,6,Jun,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,7,Jul,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,8,Aug,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,9,Sep,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,10,Oct,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,11,Nov,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2018,1,Jan,Coast & Central Bay,Rodeo,0
+aqi,2018,2,Feb,Coast & Central Bay,Rodeo,0
+aqi,2018,3,Mar,Coast & Central Bay,Rodeo,0
+aqi,2018,4,Apr,Coast & Central Bay,Rodeo,0
+aqi,2018,5,May,Coast & Central Bay,Rodeo,0
+aqi,2018,6,Jun,Coast & Central Bay,Rodeo,0
+aqi,2018,7,Jul,Coast & Central Bay,Rodeo,0
+aqi,2018,8,Aug,Coast & Central Bay,Rodeo,0
+aqi,2018,9,Sep,Coast & Central Bay,Rodeo,0
+aqi,2018,10,Oct,Coast & Central Bay,Rodeo,0
+aqi,2018,11,Nov,Coast & Central Bay,Rodeo,0
+aqi,2018,1,Jan,Coast & Central Bay,San Francisco - Arkansas St.,111.0
+aqi,2018,2,Feb,Coast & Central Bay,San Francisco - Arkansas St.,82.0
+aqi,2018,3,Mar,Coast & Central Bay,San Francisco - Arkansas St.,55.0
+aqi,2018,4,Apr,Coast & Central Bay,San Francisco - Arkansas St.,54.0
+aqi,2018,5,May,Coast & Central Bay,San Francisco - Arkansas St.,58.0
+aqi,2018,6,Jun,Coast & Central Bay,San Francisco - Arkansas St.,56.0
+aqi,2018,7,Jul,Coast & Central Bay,San Francisco - Arkansas St.,58.0
+aqi,2018,8,Aug,Coast & Central Bay,San Francisco - Arkansas St.,128.0
+aqi,2018,9,Sep,Coast & Central Bay,San Francisco - Arkansas St.,70.0
+aqi,2018,10,Oct,Coast & Central Bay,San Francisco - Arkansas St.,63.0
+aqi,2018,11,Nov,Coast & Central Bay,San Francisco - Arkansas St.,228.0
+aqi,2018,1,Jan,Coast & Central Bay,San Pablo - Rumrill,104.0
+aqi,2018,2,Feb,Coast & Central Bay,San Pablo - Rumrill,65.0
+aqi,2018,3,Mar,Coast & Central Bay,San Pablo - Rumrill,47.0
+aqi,2018,4,Apr,Coast & Central Bay,San Pablo - Rumrill,66.0
+aqi,2018,5,May,Coast & Central Bay,San Pablo - Rumrill,70.0
+aqi,2018,6,Jun,Coast & Central Bay,San Pablo - Rumrill,63.0
+aqi,2018,7,Jul,Coast & Central Bay,San Pablo - Rumrill,63.0
+aqi,2018,8,Aug,Coast & Central Bay,San Pablo - Rumrill,116.0
+aqi,2018,9,Sep,Coast & Central Bay,San Pablo - Rumrill,64.0
+aqi,2018,10,Oct,Coast & Central Bay,San Pablo - Rumrill,60.0
+aqi,2018,11,Nov,Coast & Central Bay,San Pablo - Rumrill,245.0
+aqi,2018,1,Jan,Eastern Zone,Bethel Island,0
+aqi,2018,2,Feb,Eastern Zone,Bethel Island,0
+aqi,2018,3,Mar,Eastern Zone,Bethel Island,0
+aqi,2018,4,Apr,Eastern Zone,Bethel Island,0
+aqi,2018,5,May,Eastern Zone,Bethel Island,0
+aqi,2018,6,Jun,Eastern Zone,Bethel Island,0
+aqi,2018,7,Jul,Eastern Zone,Bethel Island,0
+aqi,2018,8,Aug,Eastern Zone,Bethel Island,0
+aqi,2018,9,Sep,Eastern Zone,Bethel Island,0
+aqi,2018,10,Oct,Eastern Zone,Bethel Island,0
+aqi,2018,11,Nov,Eastern Zone,Bethel Island,0
+aqi,2018,1,Jan,Eastern Zone,Concord,145.0
+aqi,2018,2,Feb,Eastern Zone,Concord,81.0
+aqi,2018,3,Mar,Eastern Zone,Concord,54.0
+aqi,2018,4,Apr,Eastern Zone,Concord,60.0
+aqi,2018,5,May,Eastern Zone,Concord,59.0
+aqi,2018,6,Jun,Eastern Zone,Concord,62.0
+aqi,2018,7,Jul,Eastern Zone,Concord,62.0
+aqi,2018,8,Aug,Eastern Zone,Concord,110.0
+aqi,2018,9,Sep,Eastern Zone,Concord,58.0
+aqi,2018,10,Oct,Eastern Zone,Concord,75.0
+aqi,2018,11,Nov,Eastern Zone,Concord,210.0
+aqi,2018,1,Jan,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,2,Feb,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,3,Mar,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,4,Apr,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,5,May,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,6,Jun,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,7,Jul,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,8,Aug,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,9,Sep,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,10,Oct,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,11,Nov,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2018,1,Jan,Eastern Zone,Livermore - Rincon Ave.,110.0
+aqi,2018,2,Feb,Eastern Zone,Livermore - Rincon Ave.,58.0
+aqi,2018,3,Mar,Eastern Zone,Livermore - Rincon Ave.,47.0
+aqi,2018,4,Apr,Eastern Zone,Livermore - Rincon Ave.,56.0
+aqi,2018,5,May,Eastern Zone,Livermore - Rincon Ave.,53.0
+aqi,2018,6,Jun,Eastern Zone,Livermore - Rincon Ave.,46.0
+aqi,2018,7,Jul,Eastern Zone,Livermore - Rincon Ave.,52.0
+aqi,2018,8,Aug,Eastern Zone,Livermore - Rincon Ave.,114.0
+aqi,2018,9,Sep,Eastern Zone,Livermore - Rincon Ave.,64.0
+aqi,2018,10,Oct,Eastern Zone,Livermore - Rincon Ave.,58.0
+aqi,2018,11,Nov,Eastern Zone,Livermore - Rincon Ave.,223.0
+aqi,2018,1,Jan,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,2,Feb,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,3,Mar,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,4,Apr,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,5,May,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,6,Jun,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,7,Jul,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,8,Aug,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,9,Sep,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,10,Oct,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,11,Nov,Eastern Zone,Martinez - Jones St.,0
+aqi,2018,1,Jan,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,2,Feb,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,3,Mar,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,4,Apr,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,5,May,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,6,Jun,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,7,Jul,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,8,Aug,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,9,Sep,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,10,Oct,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,11,Nov,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2018,1,Jan,Eastern Zone,Pleasanton,0
+aqi,2018,2,Feb,Eastern Zone,Pleasanton,0
+aqi,2018,3,Mar,Eastern Zone,Pleasanton,0
+aqi,2018,4,Apr,Eastern Zone,Pleasanton,0
+aqi,2018,5,May,Eastern Zone,Pleasanton,0
+aqi,2018,6,Jun,Eastern Zone,Pleasanton,0
+aqi,2018,7,Jul,Eastern Zone,Pleasanton,0
+aqi,2018,8,Aug,Eastern Zone,Pleasanton,0
+aqi,2018,9,Sep,Eastern Zone,Pleasanton,0
+aqi,2018,10,Oct,Eastern Zone,Pleasanton,0
+aqi,2018,11,Nov,Eastern Zone,Pleasanton,0
+aqi,2018,1,Jan,Eastern Zone,Pleasanton - Owens Ct.,-1.0
+aqi,2018,2,Feb,Eastern Zone,Pleasanton - Owens Ct.,-1.0
+aqi,2018,3,Mar,Eastern Zone,Pleasanton - Owens Ct.,0.0
+aqi,2018,4,Apr,Eastern Zone,Pleasanton - Owens Ct.,56.0
+aqi,2018,5,May,Eastern Zone,Pleasanton - Owens Ct.,62.0
+aqi,2018,6,Jun,Eastern Zone,Pleasanton - Owens Ct.,59.0
+aqi,2018,7,Jul,Eastern Zone,Pleasanton - Owens Ct.,57.0
+aqi,2018,8,Aug,Eastern Zone,Pleasanton - Owens Ct.,123.0
+aqi,2018,9,Sep,Eastern Zone,Pleasanton - Owens Ct.,67.0
+aqi,2018,10,Oct,Eastern Zone,Pleasanton - Owens Ct.,67.0
+aqi,2018,11,Nov,Eastern Zone,Pleasanton - Owens Ct.,215.0
+aqi,2018,1,Jan,Eastern Zone,San Ramon,0
+aqi,2018,2,Feb,Eastern Zone,San Ramon,0
+aqi,2018,3,Mar,Eastern Zone,San Ramon,0
+aqi,2018,4,Apr,Eastern Zone,San Ramon,0
+aqi,2018,5,May,Eastern Zone,San Ramon,0
+aqi,2018,6,Jun,Eastern Zone,San Ramon,0
+aqi,2018,7,Jul,Eastern Zone,San Ramon,0
+aqi,2018,8,Aug,Eastern Zone,San Ramon,0
+aqi,2018,9,Sep,Eastern Zone,San Ramon,0
+aqi,2018,10,Oct,Eastern Zone,San Ramon,0
+aqi,2018,11,Nov,Eastern Zone,San Ramon,0
+aqi,2018,1,Jan,South Central Bay,Hayward,0
+aqi,2018,2,Feb,South Central Bay,Hayward,0
+aqi,2018,3,Mar,South Central Bay,Hayward,0
+aqi,2018,4,Apr,South Central Bay,Hayward,0
+aqi,2018,5,May,South Central Bay,Hayward,0
+aqi,2018,6,Jun,South Central Bay,Hayward,0
+aqi,2018,7,Jul,South Central Bay,Hayward,0
+aqi,2018,8,Aug,South Central Bay,Hayward,0
+aqi,2018,9,Sep,South Central Bay,Hayward,0
+aqi,2018,10,Oct,South Central Bay,Hayward,0
+aqi,2018,11,Nov,South Central Bay,Hayward,0
+aqi,2018,1,Jan,South Central Bay,Redwood City,83.0
+aqi,2018,2,Feb,South Central Bay,Redwood City,58.0
+aqi,2018,3,Mar,South Central Bay,Redwood City,38.0
+aqi,2018,4,Apr,South Central Bay,Redwood City,59.0
+aqi,2018,5,May,South Central Bay,Redwood City,62.0
+aqi,2018,6,Jun,South Central Bay,Redwood City,56.0
+aqi,2018,7,Jul,South Central Bay,Redwood City,57.0
+aqi,2018,8,Aug,South Central Bay,Redwood City,122.0
+aqi,2018,9,Sep,South Central Bay,Redwood City,56.0
+aqi,2018,10,Oct,South Central Bay,Redwood City,55.0
+aqi,2018,11,Nov,South Central Bay,Redwood City,185.0
+aqi,2018,1,Jan,South Central Bay,Redwood City,0
+aqi,2018,2,Feb,South Central Bay,Redwood City,0
+aqi,2018,3,Mar,South Central Bay,Redwood City,0
+aqi,2018,4,Apr,South Central Bay,Redwood City,0
+aqi,2018,5,May,South Central Bay,Redwood City,0
+aqi,2018,6,Jun,South Central Bay,Redwood City,0
+aqi,2018,7,Jul,South Central Bay,Redwood City,0
+aqi,2018,8,Aug,South Central Bay,Redwood City,0
+aqi,2018,9,Sep,South Central Bay,Redwood City,0
+aqi,2018,10,Oct,South Central Bay,Redwood City,0
+aqi,2018,11,Nov,South Central Bay,Redwood City,0
+aqi,2018,1,Jan,Santa Clara Valley,Gilroy,61.0
+aqi,2018,2,Feb,Santa Clara Valley,Gilroy,33.0
+aqi,2018,3,Mar,Santa Clara Valley,Gilroy,28.0
+aqi,2018,4,Apr,Santa Clara Valley,Gilroy,42.0
+aqi,2018,5,May,Santa Clara Valley,Gilroy,48.0
+aqi,2018,6,Jun,Santa Clara Valley,Gilroy,45.0
+aqi,2018,7,Jul,Santa Clara Valley,Gilroy,48.0
+aqi,2018,8,Aug,Santa Clara Valley,Gilroy,113.0
+aqi,2018,9,Sep,Santa Clara Valley,Gilroy,53.0
+aqi,2018,10,Oct,Santa Clara Valley,Gilroy,56.0
+aqi,2018,11,Nov,Santa Clara Valley,Gilroy,173.0
+aqi,2018,1,Jan,Santa Clara Valley,Los Gatos,0
+aqi,2018,2,Feb,Santa Clara Valley,Los Gatos,0
+aqi,2018,3,Mar,Santa Clara Valley,Los Gatos,0
+aqi,2018,4,Apr,Santa Clara Valley,Los Gatos,0
+aqi,2018,5,May,Santa Clara Valley,Los Gatos,0
+aqi,2018,6,Jun,Santa Clara Valley,Los Gatos,0
+aqi,2018,7,Jul,Santa Clara Valley,Los Gatos,0
+aqi,2018,8,Aug,Santa Clara Valley,Los Gatos,0
+aqi,2018,9,Sep,Santa Clara Valley,Los Gatos,0
+aqi,2018,10,Oct,Santa Clara Valley,Los Gatos,0
+aqi,2018,11,Nov,Santa Clara Valley,Los Gatos,0
+aqi,2018,1,Jan,Santa Clara Valley,San Jose - Jackson St.,107.0
+aqi,2018,2,Feb,Santa Clara Valley,San Jose - Jackson St.,64.0
+aqi,2018,3,Mar,Santa Clara Valley,San Jose - Jackson St.,56.0
+aqi,2018,4,Apr,Santa Clara Valley,San Jose - Jackson St.,64.0
+aqi,2018,5,May,Santa Clara Valley,San Jose - Jackson St.,64.0
+aqi,2018,6,Jun,Santa Clara Valley,San Jose - Jackson St.,56.0
+aqi,2018,7,Jul,Santa Clara Valley,San Jose - Jackson St.,56.0
+aqi,2018,8,Aug,Santa Clara Valley,San Jose - Jackson St.,125.0
+aqi,2018,9,Sep,Santa Clara Valley,San Jose - Jackson St.,71.0
+aqi,2018,10,Oct,Santa Clara Valley,San Jose - Jackson St.,68.0
+aqi,2018,11,Nov,Santa Clara Valley,San Jose - Jackson St.,191.0
+aqi,2018,1,Jan,Santa Clara Valley,San Jose - Knox Ave.,124.0
+aqi,2018,2,Feb,Santa Clara Valley,San Jose - Knox Ave.,75.0
+aqi,2018,3,Mar,Santa Clara Valley,San Jose - Knox Ave.,54.0
+aqi,2018,4,Apr,Santa Clara Valley,San Jose - Knox Ave.,63.0
+aqi,2018,5,May,Santa Clara Valley,San Jose - Knox Ave.,63.0
+aqi,2018,6,Jun,Santa Clara Valley,San Jose - Knox Ave.,76.0
+aqi,2018,7,Jul,Santa Clara Valley,San Jose - Knox Ave.,53.0
+aqi,2018,8,Aug,Santa Clara Valley,San Jose - Knox Ave.,108.0
+aqi,2018,9,Sep,Santa Clara Valley,San Jose - Knox Ave.,60.0
+aqi,2018,10,Oct,Santa Clara Valley,San Jose - Knox Ave.,67.0
+aqi,2018,11,Nov,Santa Clara Valley,San Jose - Knox Ave.,194.0
+aqi,2018,1,Jan,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,2,Feb,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,3,Mar,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,4,Apr,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,5,May,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,6,Jun,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,7,Jul,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,8,Aug,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,9,Sep,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,10,Oct,Santa Clara Valley,San Martin - Airport,0
+aqi,2018,11,Nov,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,1,Jan,Northern Zone,Forest Knolls,0
+aqi,2019,2,Feb,Northern Zone,Forest Knolls,0
+aqi,2019,3,Mar,Northern Zone,Forest Knolls,0
+aqi,2019,4,Apr,Northern Zone,Forest Knolls,0
+aqi,2019,5,May,Northern Zone,Forest Knolls,0
+aqi,2019,6,Jun,Northern Zone,Forest Knolls,0
+aqi,2019,7,Jul,Northern Zone,Forest Knolls,0
+aqi,2019,8,Aug,Northern Zone,Forest Knolls,0
+aqi,2019,9,Sep,Northern Zone,Forest Knolls,0
+aqi,2019,10,Oct,Northern Zone,Forest Knolls,0
+aqi,2019,11,Nov,Northern Zone,Forest Knolls,0
+aqi,2019,1,Jan,Northern Zone,Napa - Napa Valley College,71.0
+aqi,2019,2,Feb,Northern Zone,Napa - Napa Valley College,27.0
+aqi,2019,3,Mar,Northern Zone,Napa - Napa Valley College,38.0
+aqi,2019,4,Apr,Northern Zone,Napa - Napa Valley College,54.0
+aqi,2019,5,May,Northern Zone,Napa - Napa Valley College,51.0
+aqi,2019,6,Jun,Northern Zone,Napa - Napa Valley College,55.0
+aqi,2019,7,Jul,Northern Zone,Napa - Napa Valley College,52.0
+aqi,2019,8,Aug,Northern Zone,Napa - Napa Valley College,53.0
+aqi,2019,9,Sep,Northern Zone,Napa - Napa Valley College,32.0
+aqi,2019,10,Oct,Northern Zone,Napa - Napa Valley College,64.0
+aqi,2019,11,Nov,Northern Zone,Napa - Napa Valley College,33.0
+aqi,2019,1,Jan,Northern Zone,Napa,0
+aqi,2019,2,Feb,Northern Zone,Napa,0
+aqi,2019,3,Mar,Northern Zone,Napa,0
+aqi,2019,4,Apr,Northern Zone,Napa,0
+aqi,2019,5,May,Northern Zone,Napa,0
+aqi,2019,6,Jun,Northern Zone,Napa,0
+aqi,2019,7,Jul,Northern Zone,Napa,0
+aqi,2019,8,Aug,Northern Zone,Napa,0
+aqi,2019,9,Sep,Northern Zone,Napa,0
+aqi,2019,10,Oct,Northern Zone,Napa,0
+aqi,2019,11,Nov,Northern Zone,Napa,0
+aqi,2019,1,Jan,Northern Zone,San Rafael,67.0
+aqi,2019,2,Feb,Northern Zone,San Rafael,32.0
+aqi,2019,3,Mar,Northern Zone,San Rafael,35.0
+aqi,2019,4,Apr,Northern Zone,San Rafael,56.0
+aqi,2019,5,May,Northern Zone,San Rafael,49.0
+aqi,2019,6,Jun,Northern Zone,San Rafael,55.0
+aqi,2019,7,Jul,Northern Zone,San Rafael,45.0
+aqi,2019,8,Aug,Northern Zone,San Rafael,50.0
+aqi,2019,9,Sep,Northern Zone,San Rafael,40.0
+aqi,2019,10,Oct,Northern Zone,San Rafael,64.0
+aqi,2019,11,Nov,Northern Zone,San Rafael,41.0
+aqi,2019,1,Jan,Northern Zone,Sebastopol,80.0
+aqi,2019,2,Feb,Northern Zone,Sebastopol,35.0
+aqi,2019,3,Mar,Northern Zone,Sebastopol,37.0
+aqi,2019,4,Apr,Northern Zone,Sebastopol,55.0
+aqi,2019,5,May,Northern Zone,Sebastopol,42.0
+aqi,2019,6,Jun,Northern Zone,Sebastopol,46.0
+aqi,2019,7,Jul,Northern Zone,Sebastopol,51.0
+aqi,2019,8,Aug,Northern Zone,Sebastopol,52.0
+aqi,2019,9,Sep,Northern Zone,Sebastopol,40.0
+aqi,2019,10,Oct,Northern Zone,Sebastopol,84.0
+aqi,2019,11,Nov,Northern Zone,Sebastopol,55.0
+aqi,2019,1,Jan,Northern Zone,Vallejo,90.0
+aqi,2019,2,Feb,Northern Zone,Vallejo,46.0
+aqi,2019,3,Mar,Northern Zone,Vallejo,46.0
+aqi,2019,4,Apr,Northern Zone,Vallejo,61.0
+aqi,2019,5,May,Northern Zone,Vallejo,57.0
+aqi,2019,6,Jun,Northern Zone,Vallejo,59.0
+aqi,2019,7,Jul,Northern Zone,Vallejo,57.0
+aqi,2019,8,Aug,Northern Zone,Vallejo,62.0
+aqi,2019,9,Sep,Northern Zone,Vallejo,47.0
+aqi,2019,10,Oct,Northern Zone,Vallejo,64.0
+aqi,2019,11,Nov,Northern Zone,Vallejo,58.0
+aqi,2019,1,Jan,Coast & Central Bay,Berkeley Aquatic Park,86.0
+aqi,2019,2,Feb,Coast & Central Bay,Berkeley Aquatic Park,39.0
+aqi,2019,3,Mar,Coast & Central Bay,Berkeley Aquatic Park,57.0
+aqi,2019,4,Apr,Coast & Central Bay,Berkeley Aquatic Park,64.0
+aqi,2019,5,May,Coast & Central Bay,Berkeley Aquatic Park,58.0
+aqi,2019,6,Jun,Coast & Central Bay,Berkeley Aquatic Park,64.0
+aqi,2019,7,Jul,Coast & Central Bay,Berkeley Aquatic Park,57.0
+aqi,2019,8,Aug,Coast & Central Bay,Berkeley Aquatic Park,58.0
+aqi,2019,9,Sep,Coast & Central Bay,Berkeley Aquatic Park,55.0
+aqi,2019,10,Oct,Coast & Central Bay,Berkeley Aquatic Park,86.0
+aqi,2019,11,Nov,Coast & Central Bay,Berkeley Aquatic Park,55.0
+aqi,2019,1,Jan,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,2,Feb,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,3,Mar,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,4,Apr,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,5,May,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,6,Jun,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,7,Jul,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,8,Aug,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,9,Sep,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,10,Oct,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,11,Nov,Coast & Central Bay,Crockett - Kendall Ave.,0
+aqi,2019,1,Jan,Coast & Central Bay,Laney College,85.0
+aqi,2019,2,Feb,Coast & Central Bay,Laney College,34.0
+aqi,2019,3,Mar,Coast & Central Bay,Laney College,52.0
+aqi,2019,4,Apr,Coast & Central Bay,Laney College,59.0
+aqi,2019,5,May,Coast & Central Bay,Laney College,55.0
+aqi,2019,6,Jun,Coast & Central Bay,Laney College,60.0
+aqi,2019,7,Jul,Coast & Central Bay,Laney College,52.0
+aqi,2019,8,Aug,Coast & Central Bay,Laney College,59.0
+aqi,2019,9,Sep,Coast & Central Bay,Laney College,52.0
+aqi,2019,10,Oct,Coast & Central Bay,Laney College,73.0
+aqi,2019,11,Nov,Coast & Central Bay,Laney College,47.0
+aqi,2019,1,Jan,Coast & Central Bay,Oakland East,77.0
+aqi,2019,2,Feb,Coast & Central Bay,Oakland East,23.0
+aqi,2019,3,Mar,Coast & Central Bay,Oakland East,48.0
+aqi,2019,4,Apr,Coast & Central Bay,Oakland East,55.0
+aqi,2019,5,May,Coast & Central Bay,Oakland East,48.0
+aqi,2019,6,Jun,Coast & Central Bay,Oakland East,59.0
+aqi,2019,7,Jul,Coast & Central Bay,Oakland East,66.0
+aqi,2019,8,Aug,Coast & Central Bay,Oakland East,59.0
+aqi,2019,9,Sep,Coast & Central Bay,Oakland East,43.0
+aqi,2019,10,Oct,Coast & Central Bay,Oakland East,64.0
+aqi,2019,11,Nov,Coast & Central Bay,Oakland East,41.0
+aqi,2019,1,Jan,Coast & Central Bay,Oakland West,87.0
+aqi,2019,2,Feb,Coast & Central Bay,Oakland West,41.0
+aqi,2019,3,Mar,Coast & Central Bay,Oakland West,51.0
+aqi,2019,4,Apr,Coast & Central Bay,Oakland West,62.0
+aqi,2019,5,May,Coast & Central Bay,Oakland West,56.0
+aqi,2019,6,Jun,Coast & Central Bay,Oakland West,65.0
+aqi,2019,7,Jul,Coast & Central Bay,Oakland West,56.0
+aqi,2019,8,Aug,Coast & Central Bay,Oakland West,66.0
+aqi,2019,9,Sep,Coast & Central Bay,Oakland West,52.0
+aqi,2019,10,Oct,Coast & Central Bay,Oakland West,65.0
+aqi,2019,11,Nov,Coast & Central Bay,Oakland West,54.0
+aqi,2019,1,Jan,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,2,Feb,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,3,Mar,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,4,Apr,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,5,May,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,6,Jun,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,7,Jul,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,8,Aug,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,9,Sep,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,10,Oct,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,11,Nov,Coast & Central Bay,Pt. Richmond,0
+aqi,2019,1,Jan,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,2,Feb,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,3,Mar,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,4,Apr,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,5,May,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,6,Jun,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,7,Jul,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,8,Aug,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,9,Sep,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,10,Oct,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,11,Nov,Coast & Central Bay,Richmond - 7th. St.,0
+aqi,2019,1,Jan,Coast & Central Bay,Rodeo,0
+aqi,2019,2,Feb,Coast & Central Bay,Rodeo,0
+aqi,2019,3,Mar,Coast & Central Bay,Rodeo,0
+aqi,2019,4,Apr,Coast & Central Bay,Rodeo,0
+aqi,2019,5,May,Coast & Central Bay,Rodeo,0
+aqi,2019,6,Jun,Coast & Central Bay,Rodeo,0
+aqi,2019,7,Jul,Coast & Central Bay,Rodeo,0
+aqi,2019,8,Aug,Coast & Central Bay,Rodeo,0
+aqi,2019,9,Sep,Coast & Central Bay,Rodeo,0
+aqi,2019,10,Oct,Coast & Central Bay,Rodeo,0
+aqi,2019,11,Nov,Coast & Central Bay,Rodeo,0
+aqi,2019,1,Jan,Coast & Central Bay,San Francisco - Arkansas St.,79.0
+aqi,2019,2,Feb,Coast & Central Bay,San Francisco - Arkansas St.,29.0
+aqi,2019,3,Mar,Coast & Central Bay,San Francisco - Arkansas St.,51.0
+aqi,2019,4,Apr,Coast & Central Bay,San Francisco - Arkansas St.,63.0
+aqi,2019,5,May,Coast & Central Bay,San Francisco - Arkansas St.,52.0
+aqi,2019,6,Jun,Coast & Central Bay,San Francisco - Arkansas St.,61.0
+aqi,2019,7,Jul,Coast & Central Bay,San Francisco - Arkansas St.,53.0
+aqi,2019,8,Aug,Coast & Central Bay,San Francisco - Arkansas St.,59.0
+aqi,2019,9,Sep,Coast & Central Bay,San Francisco - Arkansas St.,52.0
+aqi,2019,10,Oct,Coast & Central Bay,San Francisco - Arkansas St.,65.0
+aqi,2019,11,Nov,Coast & Central Bay,San Francisco - Arkansas St.,55.0
+aqi,2019,1,Jan,Coast & Central Bay,San Pablo - Rumrill,81.0
+aqi,2019,2,Feb,Coast & Central Bay,San Pablo - Rumrill,46.0
+aqi,2019,3,Mar,Coast & Central Bay,San Pablo - Rumrill,43.0
+aqi,2019,4,Apr,Coast & Central Bay,San Pablo - Rumrill,57.0
+aqi,2019,5,May,Coast & Central Bay,San Pablo - Rumrill,53.0
+aqi,2019,6,Jun,Coast & Central Bay,San Pablo - Rumrill,62.0
+aqi,2019,7,Jul,Coast & Central Bay,San Pablo - Rumrill,54.0
+aqi,2019,8,Aug,Coast & Central Bay,San Pablo - Rumrill,58.0
+aqi,2019,9,Sep,Coast & Central Bay,San Pablo - Rumrill,45.0
+aqi,2019,10,Oct,Coast & Central Bay,San Pablo - Rumrill,102.0
+aqi,2019,11,Nov,Coast & Central Bay,San Pablo - Rumrill,40.0
+aqi,2019,1,Jan,Eastern Zone,Bethel Island,0
+aqi,2019,2,Feb,Eastern Zone,Bethel Island,0
+aqi,2019,3,Mar,Eastern Zone,Bethel Island,0
+aqi,2019,4,Apr,Eastern Zone,Bethel Island,0
+aqi,2019,5,May,Eastern Zone,Bethel Island,0
+aqi,2019,6,Jun,Eastern Zone,Bethel Island,0
+aqi,2019,7,Jul,Eastern Zone,Bethel Island,0
+aqi,2019,8,Aug,Eastern Zone,Bethel Island,0
+aqi,2019,9,Sep,Eastern Zone,Bethel Island,0
+aqi,2019,10,Oct,Eastern Zone,Bethel Island,0
+aqi,2019,11,Nov,Eastern Zone,Bethel Island,0
+aqi,2019,1,Jan,Eastern Zone,Concord,85.0
+aqi,2019,2,Feb,Eastern Zone,Concord,43.0
+aqi,2019,3,Mar,Eastern Zone,Concord,30.0
+aqi,2019,4,Apr,Eastern Zone,Concord,56.0
+aqi,2019,5,May,Eastern Zone,Concord,45.0
+aqi,2019,6,Jun,Eastern Zone,Concord,55.0
+aqi,2019,7,Jul,Eastern Zone,Concord,52.0
+aqi,2019,8,Aug,Eastern Zone,Concord,52.0
+aqi,2019,9,Sep,Eastern Zone,Concord,38.0
+aqi,2019,10,Oct,Eastern Zone,Concord,91.0
+aqi,2019,11,Nov,Eastern Zone,Concord,38.0
+aqi,2019,1,Jan,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,2,Feb,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,3,Mar,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,4,Apr,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,5,May,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,6,Jun,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,7,Jul,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,8,Aug,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,9,Sep,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,10,Oct,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,11,Nov,Eastern Zone,Fairfield - Chadbourne Rd.,0
+aqi,2019,1,Jan,Eastern Zone,Livermore - Rincon Ave.,86.0
+aqi,2019,2,Feb,Eastern Zone,Livermore - Rincon Ave.,39.0
+aqi,2019,3,Mar,Eastern Zone,Livermore - Rincon Ave.,43.0
+aqi,2019,4,Apr,Eastern Zone,Livermore - Rincon Ave.,54.0
+aqi,2019,5,May,Eastern Zone,Livermore - Rincon Ave.,46.0
+aqi,2019,6,Jun,Eastern Zone,Livermore - Rincon Ave.,49.0
+aqi,2019,7,Jul,Eastern Zone,Livermore - Rincon Ave.,57.0
+aqi,2019,8,Aug,Eastern Zone,Livermore - Rincon Ave.,39.0
+aqi,2019,9,Sep,Eastern Zone,Livermore - Rincon Ave.,39.0
+aqi,2019,10,Oct,Eastern Zone,Livermore - Rincon Ave.,57.0
+aqi,2019,11,Nov,Eastern Zone,Livermore - Rincon Ave.,54.0
+aqi,2019,1,Jan,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,2,Feb,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,3,Mar,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,4,Apr,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,5,May,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,6,Jun,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,7,Jul,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,8,Aug,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,9,Sep,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,10,Oct,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,11,Nov,Eastern Zone,Martinez - Jones St.,0
+aqi,2019,1,Jan,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,2,Feb,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,3,Mar,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,4,Apr,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,5,May,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,6,Jun,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,7,Jul,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,8,Aug,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,9,Sep,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,10,Oct,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,11,Nov,Eastern Zone,Pittsburg - Loveridge,0
+aqi,2019,1,Jan,Eastern Zone,Pleasanton,0
+aqi,2019,2,Feb,Eastern Zone,Pleasanton,0
+aqi,2019,3,Mar,Eastern Zone,Pleasanton,0
+aqi,2019,4,Apr,Eastern Zone,Pleasanton,0
+aqi,2019,5,May,Eastern Zone,Pleasanton,0
+aqi,2019,6,Jun,Eastern Zone,Pleasanton,0
+aqi,2019,7,Jul,Eastern Zone,Pleasanton,0
+aqi,2019,8,Aug,Eastern Zone,Pleasanton,0
+aqi,2019,9,Sep,Eastern Zone,Pleasanton,0
+aqi,2019,10,Oct,Eastern Zone,Pleasanton,0
+aqi,2019,11,Nov,Eastern Zone,Pleasanton,0
+aqi,2019,1,Jan,Eastern Zone,Pleasanton - Owens Ct.,87.0
+aqi,2019,2,Feb,Eastern Zone,Pleasanton - Owens Ct.,38.0
+aqi,2019,3,Mar,Eastern Zone,Pleasanton - Owens Ct.,43.0
+aqi,2019,4,Apr,Eastern Zone,Pleasanton - Owens Ct.,31.0
+aqi,2019,5,May,Eastern Zone,Pleasanton - Owens Ct.,42.0
+aqi,2019,6,Jun,Eastern Zone,Pleasanton - Owens Ct.,50.0
+aqi,2019,7,Jul,Eastern Zone,Pleasanton - Owens Ct.,49.0
+aqi,2019,8,Aug,Eastern Zone,Pleasanton - Owens Ct.,48.0
+aqi,2019,9,Sep,Eastern Zone,Pleasanton - Owens Ct.,36.0
+aqi,2019,10,Oct,Eastern Zone,Pleasanton - Owens Ct.,57.0
+aqi,2019,11,Nov,Eastern Zone,Pleasanton - Owens Ct.,42.0
+aqi,2019,1,Jan,Eastern Zone,San Ramon,0
+aqi,2019,2,Feb,Eastern Zone,San Ramon,0
+aqi,2019,3,Mar,Eastern Zone,San Ramon,0
+aqi,2019,4,Apr,Eastern Zone,San Ramon,0
+aqi,2019,5,May,Eastern Zone,San Ramon,0
+aqi,2019,6,Jun,Eastern Zone,San Ramon,0
+aqi,2019,7,Jul,Eastern Zone,San Ramon,0
+aqi,2019,8,Aug,Eastern Zone,San Ramon,0
+aqi,2019,9,Sep,Eastern Zone,San Ramon,0
+aqi,2019,10,Oct,Eastern Zone,San Ramon,0
+aqi,2019,11,Nov,Eastern Zone,San Ramon,0
+aqi,2019,1,Jan,South Central Bay,Hayward,0
+aqi,2019,2,Feb,South Central Bay,Hayward,0
+aqi,2019,3,Mar,South Central Bay,Hayward,0
+aqi,2019,4,Apr,South Central Bay,Hayward,0
+aqi,2019,5,May,South Central Bay,Hayward,0
+aqi,2019,6,Jun,South Central Bay,Hayward,0
+aqi,2019,7,Jul,South Central Bay,Hayward,0
+aqi,2019,8,Aug,South Central Bay,Hayward,0
+aqi,2019,9,Sep,South Central Bay,Hayward,0
+aqi,2019,10,Oct,South Central Bay,Hayward,0
+aqi,2019,11,Nov,South Central Bay,Hayward,0
+aqi,2019,1,Jan,South Central Bay,Redwood City,65.0
+aqi,2019,2,Feb,South Central Bay,Redwood City,35.0
+aqi,2019,3,Mar,South Central Bay,Redwood City,45.0
+aqi,2019,4,Apr,South Central Bay,Redwood City,57.0
+aqi,2019,5,May,South Central Bay,Redwood City,43.0
+aqi,2019,6,Jun,South Central Bay,Redwood City,54.0
+aqi,2019,7,Jul,South Central Bay,Redwood City,52.0
+aqi,2019,8,Aug,South Central Bay,Redwood City,55.0
+aqi,2019,9,Sep,South Central Bay,Redwood City,44.0
+aqi,2019,10,Oct,South Central Bay,Redwood City,68.0
+aqi,2019,11,Nov,South Central Bay,Redwood City,39.0
+aqi,2019,1,Jan,South Central Bay,Redwood City,0
+aqi,2019,2,Feb,South Central Bay,Redwood City,0
+aqi,2019,3,Mar,South Central Bay,Redwood City,0
+aqi,2019,4,Apr,South Central Bay,Redwood City,0
+aqi,2019,5,May,South Central Bay,Redwood City,0
+aqi,2019,6,Jun,South Central Bay,Redwood City,0
+aqi,2019,7,Jul,South Central Bay,Redwood City,0
+aqi,2019,8,Aug,South Central Bay,Redwood City,0
+aqi,2019,9,Sep,South Central Bay,Redwood City,0
+aqi,2019,10,Oct,South Central Bay,Redwood City,0
+aqi,2019,11,Nov,South Central Bay,Redwood City,0
+aqi,2019,1,Jan,Santa Clara Valley,Gilroy,50.0
+aqi,2019,2,Feb,Santa Clara Valley,Gilroy,31.0
+aqi,2019,3,Mar,Santa Clara Valley,Gilroy,38.0
+aqi,2019,4,Apr,Santa Clara Valley,Gilroy,50.0
+aqi,2019,5,May,Santa Clara Valley,Gilroy,52.0
+aqi,2019,6,Jun,Santa Clara Valley,Gilroy,54.0
+aqi,2019,7,Jul,Santa Clara Valley,Gilroy,70.0
+aqi,2019,8,Aug,Santa Clara Valley,Gilroy,42.0
+aqi,2019,9,Sep,Santa Clara Valley,Gilroy,40.0
+aqi,2019,10,Oct,Santa Clara Valley,Gilroy,55.0
+aqi,2019,11,Nov,Santa Clara Valley,Gilroy,48.0
+aqi,2019,1,Jan,Santa Clara Valley,Los Gatos,0
+aqi,2019,2,Feb,Santa Clara Valley,Los Gatos,0
+aqi,2019,3,Mar,Santa Clara Valley,Los Gatos,0
+aqi,2019,4,Apr,Santa Clara Valley,Los Gatos,0
+aqi,2019,5,May,Santa Clara Valley,Los Gatos,0
+aqi,2019,6,Jun,Santa Clara Valley,Los Gatos,0
+aqi,2019,7,Jul,Santa Clara Valley,Los Gatos,0
+aqi,2019,8,Aug,Santa Clara Valley,Los Gatos,0
+aqi,2019,9,Sep,Santa Clara Valley,Los Gatos,0
+aqi,2019,10,Oct,Santa Clara Valley,Los Gatos,0
+aqi,2019,11,Nov,Santa Clara Valley,Los Gatos,0
+aqi,2019,1,Jan,Santa Clara Valley,San Jose - Jackson St.,68.0
+aqi,2019,2,Feb,Santa Clara Valley,San Jose - Jackson St.,41.0
+aqi,2019,3,Mar,Santa Clara Valley,San Jose - Jackson St.,56.0
+aqi,2019,4,Apr,Santa Clara Valley,San Jose - Jackson St.,61.0
+aqi,2019,5,May,Santa Clara Valley,San Jose - Jackson St.,53.0
+aqi,2019,6,Jun,Santa Clara Valley,San Jose - Jackson St.,64.0
+aqi,2019,7,Jul,Santa Clara Valley,San Jose - Jackson St.,58.0
+aqi,2019,8,Aug,Santa Clara Valley,San Jose - Jackson St.,57.0
+aqi,2019,9,Sep,Santa Clara Valley,San Jose - Jackson St.,54.0
+aqi,2019,10,Oct,Santa Clara Valley,San Jose - Jackson St.,61.0
+aqi,2019,11,Nov,Santa Clara Valley,San Jose - Jackson St.,59.0
+aqi,2019,1,Jan,Santa Clara Valley,San Jose - Knox Ave.,67.0
+aqi,2019,2,Feb,Santa Clara Valley,San Jose - Knox Ave.,30.0
+aqi,2019,3,Mar,Santa Clara Valley,San Jose - Knox Ave.,52.0
+aqi,2019,4,Apr,Santa Clara Valley,San Jose - Knox Ave.,53.0
+aqi,2019,5,May,Santa Clara Valley,San Jose - Knox Ave.,46.0
+aqi,2019,6,Jun,Santa Clara Valley,San Jose - Knox Ave.,57.0
+aqi,2019,7,Jul,Santa Clara Valley,San Jose - Knox Ave.,44.0
+aqi,2019,8,Aug,Santa Clara Valley,San Jose - Knox Ave.,52.0
+aqi,2019,9,Sep,Santa Clara Valley,San Jose - Knox Ave.,43.0
+aqi,2019,10,Oct,Santa Clara Valley,San Jose - Knox Ave.,61.0
+aqi,2019,11,Nov,Santa Clara Valley,San Jose - Knox Ave.,58.0
+aqi,2019,1,Jan,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,2,Feb,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,3,Mar,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,4,Apr,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,5,May,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,6,Jun,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,7,Jul,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,8,Aug,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,9,Sep,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,10,Oct,Santa Clara Valley,San Martin - Airport,0
+aqi,2019,11,Nov,Santa Clara Valley,San Martin - Airport,0
