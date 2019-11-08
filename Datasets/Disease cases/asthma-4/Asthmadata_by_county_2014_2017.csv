@@ -1,4 +1,4 @@
-CountyName,CountyCode,Year,Age-adjusted_Rates_Per_10k,Lower_95%_Limit,Upper_95%_Limit,Total
+CountyName,CountyCode,Year,AgeAdjRate,Lower95%,Upper95%,Total
 Marin ,06041,2014,25.2,23.3,27.3,643.0
 Placer ,06061,2014,29.4,27.7,31.2,0.0
 Santa Clara ,06085,2014,30.3,29.6,31.1,0.0
