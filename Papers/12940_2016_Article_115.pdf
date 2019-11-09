@@ -7324,3 +7324,308 @@ trailer
 startxref
 1881615
 %%EOF
+1 0 obj
+<< /CreationDate (D:20160210083900+08'00') /Creator (Arbortext Advanced Print Publisher 9.1.440/W Unicode)
+/Title (Impact of ambient fine particulate matter \(PM2.5\) exposure on the risk of influenza-like-illness: a time-series analysis in Beijing, China)
+/CrossmarkMajorVersionDate (2016-02-10) /doi (10.1186/s12940-016-0115-2) /CrossmarkDomainExclusive
+(true) /Subject (Environmental Health, 2016, doi:10.1186/s12940-016-0115-2)
+/Keywords (PM2.5,Influenza,Meteorological factor,Spline,Generalized additive model)
+/CrossMarkDomains#5b1#5d (springer.com) /ModDate (D:20191109170126Z00'00')
+/Author (Cindy Feng) /Producer (macOS Version 10.15.1 \(Build 19B88\) Quartz PDFContext, AppendMode 1.1)
+/CrossMarkDomains#5b2#5d (springerlink.com) >>
+endobj
+3 0 obj
+<< /Annots [ 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R
+27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R
+38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R
+49 0 R 50 0 R 51 0 R 52 0 R 53 0 R ] /Type /Page /Thumb 17 0 R /MediaBox [
+0 0 595.276 790.866 ] /CropBox [ 0 0 595.276 790.866 ] /Parent 4 0 R /Resources
+<< /Font << /F1 8 0 R /F2 9 0 R /F3 10 0 R /F10 11 0 R /F4 12 0 R /F11 13 0 R
+/F12 15 0 R /F7 16 0 R /F9 14 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC
+/ImageI ] /ColorSpace << /DefaultCMYK 7 0 R >> /ExtGState << /GS4 6 0 R >>
+>> /Rotate 0 /Contents 5 0 R >>
+endobj
+73 0 obj
+<< /Annots [ 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R
+91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R ] /Type /Page /Thumb 81 0 R /MediaBox
+[ 0 0 595.276 790.866 ] /CropBox [ 0 0 595.276 790.866 ] /Parent 4 0 R /Resources
+<< /Font << /F1 10 0 R /F2 9 0 R /F10 11 0 R /F4 12 0 R /F11 13 0 R /F14 77 0 R
+/F15 78 0 R /F12 15 0 R /F9 14 0 R /F7 16 0 R /F13 79 0 R /F16 80 0 R >> /ProcSet
+[ /PDF /Text /ImageB /ImageC /ImageI ] /ColorSpace << /DefaultCMYK 7 0 R >>
+/ExtGState << /GS6 76 0 R /GS4 6 0 R /GS8 75 0 R >> >> /Rotate 0 /Contents
+74 0 R >>
+endobj
+103 0 obj
+<< /Annots [ 494 0 R 495 0 R 496 0 R 497 0 R 498 0 R 499 0 R 500 0 R 501 0 R
+502 0 R 503 0 R ] /Type /Page /Thumb 108 0 R /MediaBox [ 0 0 595.276 790.866
+] /CropBox [ 0 0 595.276 790.866 ] /Parent 4 0 R /Resources << /Font << /F1
+8 0 R /F2 9 0 R /F3 107 0 R /F10 11 0 R /F11 13 0 R /F12 15 0 R /F15 78 0 R
+/F7 16 0 R /F9 14 0 R /F13 10 0 R >> /ProcSet [ /PDF /Text /ImageC /ImageB
+/ImageI ] /ColorSpace << /DefaultCMYK 7 0 R >> /ExtGState << /GS6 105 0 R
+/GS4 6 0 R >> /XObject << /Im3 106 0 R >> >> /Rotate 0 /Contents 104 0 R >>
+endobj
+109 0 obj
+null
+endobj
+110 0 obj
+null
+endobj
+111 0 obj
+null
+endobj
+112 0 obj
+null
+endobj
+113 0 obj
+null
+endobj
+114 0 obj
+null
+endobj
+115 0 obj
+null
+endobj
+116 0 obj
+null
+endobj
+117 0 obj
+null
+endobj
+124 0 obj
+<< /Annots [ 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R
+139 0 R 140 0 R 141 0 R ] /Type /Page /Thumb 130 0 R /MediaBox [ 0 0 595.276
+790.866 ] /CropBox [ 0 0 595.276 790.866 ] /Parent 4 0 R /Resources << /Font
+<< /F17 129 0 R /F1 8 0 R /F2 9 0 R /F10 11 0 R /F3 107 0 R /F11 13 0 R /F4
+12 0 R /F7 16 0 R /F5 126 0 R /F9 14 0 R /F6 127 0 R /F15 10 0 R /F12 15 0 R
+/F18 128 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /ColorSpace
+<< /DefaultCMYK 7 0 R >> /ExtGState << /GS6 76 0 R /GS4 6 0 R /GS8 75 0 R
+>> >> /Rotate 0 /Contents 125 0 R >>
+endobj
+151 0 obj
+<< /Type /Page /Thumb 156 0 R /MediaBox [ 0 0 595.276 790.866 ] /CropBox [
+0 0 595.276 790.866 ] /Parent 4 0 R /Resources << /Font << /F1 8 0 R /F2 9 0 R
+/F3 107 0 R /F11 13 0 R /F5 126 0 R /F14 77 0 R /F7 16 0 R /F15 10 0 R /F9
+14 0 R /F12 15 0 R /F13 79 0 R /F16 80 0 R /F17 129 0 R >> /ProcSet [ /PDF
+/Text /ImageC /ImageB /ImageI ] /ColorSpace << /DefaultCMYK 7 0 R >> /ExtGState
+<< /GS6 105 0 R /GS4 6 0 R /GS8 153 0 R >> /XObject << /Im4 154 0 R /Im5 155 0 R
+>> >> /Rotate 0 /Contents 152 0 R >>
+endobj
+157 0 obj
+<< /Annots [ 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 167 0 R ] /Type
+/Page /Thumb 160 0 R /MediaBox [ 0 0 595.276 790.866 ] /CropBox [ 0 0 595.276
+790.866 ] /Parent 4 0 R /Resources << /Font << /F17 129 0 R /F1 8 0 R /F2
+9 0 R /F10 11 0 R /F3 107 0 R /F11 13 0 R /F5 126 0 R /F7 16 0 R /F14 77 0 R
+/F9 14 0 R /F15 10 0 R /F12 15 0 R /F13 79 0 R /F16 80 0 R >> /ProcSet [ /PDF
+/Text /ImageC /ImageB /ImageI ] /ColorSpace << /DefaultCMYK 7 0 R >> /ExtGState
+<< /GS6 105 0 R /GS4 6 0 R /GS8 153 0 R >> /XObject << /Im6 159 0 R >> >>
+/Rotate 0 /Contents 158 0 R >>
+endobj
+171 0 obj
+<< /Type /Page /Thumb 175 0 R /MediaBox [ 0 0 595.276 790.866 ] /CropBox [
+0 0 595.276 790.866 ] /Parent 4 0 R /Resources << /Font << /F1 8 0 R /F2 9 0 R
+/F3 107 0 R /F11 13 0 R /F5 126 0 R /F14 77 0 R /F7 16 0 R /F15 10 0 R /F9
+14 0 R /F12 15 0 R /F13 79 0 R /F16 80 0 R /F17 129 0 R >> /ProcSet [ /PDF
+/Text /ImageC /ImageB /ImageI ] /ColorSpace << /DefaultCMYK 7 0 R >> /ExtGState
+<< /GS6 105 0 R /GS4 6 0 R /GS8 153 0 R >> /XObject << /Im7 174 0 R /Im8 173 0 R
+>> >> /Rotate 0 /Contents 172 0 R >>
+endobj
+176 0 obj
+<< /Annots [ 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 187 0 R
+188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R ]
+/Type /Page /Thumb 179 0 R /MediaBox [ 0 0 595.276 790.866 ] /CropBox [ 0
+0 595.276 790.866 ] /Parent 4 0 R /Resources << /Font << /F19 178 0 R /F1
+10 0 R /F2 9 0 R /F10 11 0 R /F12 15 0 R /F7 16 0 R /F9 14 0 R >> /ProcSet
+[ /PDF /Text /ImageB /ImageC /ImageI ] /ColorSpace << /DefaultCMYK 7 0 R >>
+/ExtGState << /GS4 6 0 R >> >> /Rotate 0 /Contents 177 0 R >>
+endobj
+207 0 obj
+<< /Annots [ 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R
+221 0 R ] /Type /Page /Thumb 212 0 R /MediaBox [ 0 0 595.276 790.866 ] /CropBox
+[ 0 0 595.276 790.866 ] /Parent 4 0 R /Resources << /Properties << /MC5 211 0 R
+>> /Font << /F19 178 0 R /F1 8 0 R /F2 9 0 R /F3 107 0 R /F10 11 0 R /F4 12 0 R
+/F6 127 0 R /F12 10 0 R /F7 16 0 R /F20 210 0 R /F9 14 0 R >> /ProcSet [ /PDF
+/Text /ImageB /ImageC /ImageI ] /ColorSpace << /DefaultCMYK 7 0 R >> /ExtGState
+<< /GS6 76 0 R /GS4 6 0 R /GS8 75 0 R >> /XObject << /Im9 209 0 R >> >> /Rotate
+0 /Contents 208 0 R >>
+endobj
+230 0 obj
+<< /Type /Page /Thumb 233 0 R /MediaBox [ 0 0 595.276 790.866 ] /CropBox [
+0 0 595.276 790.866 ] /Parent 231 0 R /Resources << /Font << /F7 16 0 R /F1
+10 0 R /F2 9 0 R /F3 107 0 R /F6 127 0 R >> /ProcSet [ /PDF /Text /ImageB
+/ImageC /ImageI ] /ColorSpace << /DefaultCMYK 7 0 R >> /ExtGState << /GS4
+6 0 R >> >> /Rotate 0 /Contents 232 0 R >>
+endobj
+234 0 obj
+<< /Type /Page /Thumb 249 0 R /MediaBox [ 0 0 595.276 790.866 ] /CropBox [
+0 0 595.276 790.866 ] /Parent 231 0 R /Resources << /Font << /F22 245 0 R
+/F23 246 0 R /F1 10 0 R /F2 9 0 R /F3 107 0 R /F6 127 0 R /F7 16 0 R /F21
+244 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /ColorSpace <<
+/Cs9 243 0 R /DefaultCMYK 7 0 R /Cs10 242 0 R /Cs11 241 0 R >> /ExtGState
+<< /GS12 239 0 R /GS14 238 0 R /GS6 6 0 R /GS16 236 0 R /GS8 237 0 R /GS10
+240 0 R >> /Properties << /MC6 247 0 R /MC7 248 0 R >> >> /Rotate 0 /Contents
+235 0 R >>
+endobj
+407 0 obj
+<< /Annots [ 438 0 R 439 0 R 440 0 R 441 0 R 442 0 R ] /Type /Page /Thumb
+296 0 R /MediaBox [ 0 0 595.276 790.866 ] /CropBox [ 0 0 595.276 790.866 ]
+/Parent 4 0 R /Resources << /Properties << /MC4 437 0 R /MC1 434 0 R /MC2
+435 0 R /MC3 436 0 R >> /Font << /F1 8 0 R /F2 9 0 R /F3 107 0 R /F4 12 0 R
+/F5 126 0 R /F6 127 0 R /F7 16 0 R /F9 10 0 R >> /ProcSet [ /PDF /Text /ImageC
+/ImageI /ImageB ] /ColorSpace << /DefaultCMYK 7 0 R >> /ExtGState << /GS11
+76 0 R /GS9 75 0 R /GS13 431 0 R /GS15 429 0 R /GS17 237 0 R /GS19 428 0 R
+/GS7 430 0 R >> /XObject << /X1 432 0 R /Im1 433 0 R >> >> /Rotate 0 /Contents
+[ 420 0 R 421 0 R 422 0 R 423 0 R 424 0 R 425 0 R 426 0 R 427 0 R ] >>
+endobj
+492 0 obj
+[ 494 0 R 495 0 R 496 0 R 497 0 R 498 0 R 499 0 R 500 0 R 501 0 R 502 0 R
+503 0 R ]
+endobj
+493 0 obj
+null
+endobj
+494 0 obj
+<< /AP << /N 118 0 R >> /Type /Annot /Rect [ 86.287 681.109 95.924 690.86
+] /Dest (link_CR28) /Border [ 0 0 0 ] /Subtype /Link /F 4 >>
+endobj
+495 0 obj
+<< /AP << /N 61 0 R >> /Type /Annot /Rect [ 221.216 597.09 230.854 606.898
+] /Dest (link_CR36) /Border [ 0 0 0 ] /Subtype /Link /F 4 >>
+endobj
+496 0 obj
+<< /AP << /N 119 0 R >> /Type /Annot /Rect [ 181.928 513.071 186.69 522.879
+] /Dest (link_Fig1) /Border [ 0 0 0 ] /Subtype /Link /F 4 >>
+endobj
+497 0 obj
+<< /AP << /N 54 0 R >> /Type /Annot /Rect [ 85.153 477.071 89.972 486.879
+] /Dest (link_Tab1) /Border [ 0 0 0 ] /Subtype /Link /F 4 >>
+endobj
+498 0 obj
+<< /AP << /N 120 0 R >> /Type /Annot /Rect [ 262.035 429.109 271.672 438.86
+] /Dest (link_CR22) /Border [ 0 0 0 ] /Subtype /Link /F 4 >>
+endobj
+499 0 obj
+<< /AP << /N 57 0 R >> /Type /Annot /Rect [ 409.323 681.109 414.142 690.86
+] /Dest (link_Tab1) /Border [ 0 0 0 ] /Subtype /Link /F 4 >>
+endobj
+500 0 obj
+<< /AP << /N 121 0 R >> /Type /Annot /Rect [ 384.945 609.109 389.707 618.86
+] /Dest (link_Tab2) /Border [ 0 0 0 ] /Subtype /Link /F 4 >>
+endobj
+501 0 obj
+<< /AP << /N 122 0 R >> /Type /Annot /Rect [ 378.709 597.09 388.176 606.898
+] /Dest (link_CR28) /Border [ 0 0 0 ] /Subtype /Link /F 4 >>
+endobj
+502 0 obj
+<< /AP << /N 123 0 R >> /Type /Annot /Rect [ 509.159 345.09 514.034 354.898
+] /Dest (link_Fig2) /Border [ 0 0 0 ] /Subtype /Link /F 4 >>
+endobj
+503 0 obj
+<< /T (Jeyasri Subramanian) /AP << /N 504 0 R >> /Rect [ 304.724 644.2184
+538.5496 678.4857 ] /M (D:20191109170122Z00'00') /C [ 0.980392 0.803922 0.352941
+] /DA (/Helvetica 12 Tf 0 g) /F 4 /Type /Annot /Border [ 0 0 0 ] /QuadPoints
+[ 420.3217 678.4857 538.5496 678.4857 420.3217 669.1464 538.5496 669.1464
+304.724 666.467 538.5457 666.467 304.724 657.1277 538.5457 657.1277 304.724
+654.5053 474.7444 654.5053 304.724 644.2184 474.7444 644.2184 ] /Subtype /Highlight
+>>
+endobj
+504 0 obj
+<< /Length 353 /Type /XObject /FormType 1 /Resources 506 0 R /Subtype /Form
+/Filter /FlateDecode /BBox [ 0 0 233.8256 34.26722 ] >> stream
+xM’1’Û0E{'€	€$€:ÅÖ[í4I'3î?Ğ6Àµi¤'=àĞâÏ"h<&HGÊÿ~Âü…Û‹à¼ ¡[ç8y×‰öNppû¸èø}ÑÀáªÀ¾CáÏfBØçèdâŠa‚"ÂD×µQä8£¡µbpÆhNºÙ.éE²Ã3ë½+*»ÒNâ6ÉÆWäÜ½’÷İ>YÜ:Ó7I'ü
+Í±fläKK;È±÷i²ÜŠ¸´è@(Ôg‰R½6I!b›½…˜ÚQO¾ÖE¿IN_YKÈºk Rü^BVÅ•.œBb^‘’½Šİ¿Õ/›¾soK¿¤.]h9 EnÍZàÆ6m‚#£õ	a**Eâ=ÒTôÏÖ]ñ>¦¡;Ùf¤-ÒBçNO’ÃWV2Áf³IU¦æ	uÙ+Ùú&²}4¨Ø9–Ïÿ°ç¯y
+endstream
+endobj
+505 0 obj
+353
+endobj
+506 0 obj
+<< /ColorSpace << /Cs1 507 0 R >> /ExtGState << /Gs1 510 0 R >> /ProcSet [
+/PDF ] >>
+endobj
+507 0 obj
+[ /ICCBased 508 0 R ]
+endobj
+508 0 obj
+<< /Alternate /DeviceRGB /Length 2612 /N 3 /Filter /FlateDecode >> stream
+x–wTSÙ‡Ï½7½Ğ" %ôz	 Ò;HQ‰I€P†„&vDF)VdTÀG‡"cEƒ‚b×	òPÆÁQDEåİŒk	ï­5óŞšıÇYßÙç·×Ùgï}×º Pü‚ÂtX€4¡XîëÁ\ËÄ÷XÀáffGøDÔü½=™™¨HÆ³öî.€d»Û,¿P&sÖÿ‘"7C$ 
+EÕ6<~&å”S³Å2ÿÊô•)2†12¡	¢¬"ãÄ¯lö§æ+»É˜—&ä¡YÎ¼4Œ»PŞš%á£Œ¡\˜%àg£|e½TIš å÷(ÓÓøœL 0™_Ìç&¡l‰2Eî‰ò ”Ä9¼r‹ù9h x¦gäŠ‰Ib¦×˜iåèÈfúñ³Sùb1+”ÃMáˆxLÏô´0€¯o–E%Ym™h‘í­ííYÖæhù¿Ùß~Sı=ÈzûUñ&ìÏAŒYßlì¬/½ ö$Z›³¾•U ´m@åá¬Oï  ò ´Şœó†l^’Äâ'‹ììlsŸk.+è7ûŸ‚oÊ¿†9÷™ËîûV;¦?#I3eEå¦§¦KDÌÌ—Ïdı÷ÿãÀ9iÍÉÃ,œŸÀñ…èUQè”	„‰h»…<X.d
+„Õá6'~khu_ }…9P¸IÈo= C#$n?z}ë[1
+È¾¼h­‘¯s2zşçú\ŠnáLA"Sæödr%¢,£ß„lÁt 
+4.0,`€3pŞ  „€H–.Hi@²A>Ø 
+A1Øvƒjp ÔzĞN‚6p\WÀp€G@
+†ÁK0Şi‚ğ¢Aª¤™BÖZyCAP8ÅC‰’@ùĞ&¨*ƒª¡CP=ô#tº]ƒú Ğ 4ı}„˜ÓaØ ¶€Ù°;GÂËàDxœÀÛáJ¸>·Âáğ ,…_Â“@ÈÑFXñDBX$!k‘"¤©Eš¤¹H‘qä‡¡a˜Æã‡YŒábVaÖbJ0Õ˜c˜VLæ6f3ù‚¥bÕ±¦X'¬?v	6›-ÄV``[°—±Øaì;ÇÀâp~¸\2n5®·×Œ»€ëÃá&ñx¼*Şï‚Ásğb|!¾
+ßÆ¿'	Zk‚!– $l$Tçı„Â4Q¨Ot"†yÄ\b)±ØA¼I&N“I†$R$)™´TIj"]&=&½!“É:dGrY@^O®$Ÿ _%’?P”(&OJEBÙN9J¹@y@yC¥R¨nÔXª˜ºZO½D}J}/G“3—ó—ãÉ­“«‘k•ë—{%O”×—w—_.Ÿ'_!Jş¦ü¸QÁ@ÁS£°V¡Fá´Â=…IEš¢•bˆbšb‰bƒâ5ÅQ%¼’’·O©@é°Ò%¥!BÓ¥yÒ¸´M´:ÚeÚ0G7¤ûÓ“éÅôè½ô	e%e[å(ååå³ÊRÂ0`ø3R¥Œ“Œ»Œó4æ¹ÏãÏÛ6¯i^ÿ¼)•ù*n*|•"•f••ªLUoÕÕªmªOÔ0j&jajÙjûÕ.«Ï§ÏwÏ_4ÿäü‡ê°º‰z¸újõÃê=ê“š¾U—4Æ5šnšÉšåšç4Ç´hZµZåZçµ^0•™îÌTf%³‹9¡­®í§-Ñ>¤İ«=­c¨³Xg£N³Î]’.[7A·\·SwBOK/X/_¯Qï¡>QŸ­Ÿ¤¿G¿[ÊÀĞ Ú`‹A›Á¨¡Š¡¿aa£ác#ª‘«Ñ*£Z£;Æ8c¶qŠñ>ã[&°‰I’IÉMSØÔŞT`ºÏ´Ïkæh&4«5»Ç¢°ÜYY¬FÖ 9Ã<È|£y›ù+=‹X‹İ_,í,S-ë,Y)YXm´ê°úÃÚÄšk]c}Ç†jãc³Î¦İæµ­©-ßv¿í};š]°İ»N»Ïöö"û&û1=‡x‡½÷Øtv(»„}Õëèá¸ÎñŒã'{'±ÓI§ßYÎ)ÎÎ£ğÔ-rÑqá¸r‘.d.Œ_xp¡ÔUÛ•ãZëúÌM×çvÄmÄİØ=Ùı¸û+K‘G‹Ç”§“çÏ^ˆ—¯W‘W¯·’÷bïjï§>:>‰>>¾v¾«}/øaııvúİó×ğçú×ûO8¬	è
+¤FV>2	uÃÁÁ»‚/Ò_$\ÔBüCv…<	5]ús.,4¬&ìy¸Ux~xw-bEDCÄ»HÈÒÈG‹KwFÉGÅEÕGME{E—EK—X,Y³äFŒZŒ ¦={$vr©÷ÒİK‡ãìâ
+ãî.3\–³ìÚrµå©ËÏ®_ÁYq*ßÿ‰Â©åL®ô_¹wå×“»‡û’çÆ+çñ]øeü‘—„²„ÑD—Ä]‰cI®IIãOAµàu²_òä©””£)3©Ñ©Íi„´ø´ÓB%aŠ°+]3='½/Ã4£0CºÊiÕîU¢@Ñ‘L(sYf»˜şLõHŒ$›%ƒY³j²ŞgGeŸÊQÌæôäšänËÉóÉû~5f5wug¾vş†üÁ5îk­…Ö®\Û¹Nw]Áºáõ¾ëm mHÙğËFËeßnŠŞÔQ Q°¾`h³ïæÆB¹BQá½-Î[lÅllíİf³­jÛ—"^ÑõbËâŠâO%Ü’ëßY}WùİÌö„í½¥ö¥ûwàvwÜİéºóX™bY^ÙĞ®à]­åÌò¢ò·»Wì¾Va[q`id´2¨²½J¯jGÕ§ê¤êšæ½ê{·íÚÇÛ×¿ßmÓÅ>¼È÷Pk­AmÅaÜá¬ÃÏë¢êº¿g_DíHñ‘ÏG…G¥ÇÂuÕ;Ô×7¨7”6Â’Æ±ãqÇoıàõC{«éP3£¹ø8!9ñâÇøï<ÙyŠ}ªé'ıŸö¶ĞZŠZ¡ÖÜÖ‰¶¤6i{L{ßé€ÓÎ-?›ÿ|ôŒö™š³ÊgKÏ‘Îœ›9Ÿw~òBÆ…ñ‹‰‡:Wt>º´äÒ®°®ŞË—¯^ñ¹r©Û½ûüU—«g®9];}}½í†ıÖ»–_ì~iéµïm½ép³ı–ã­¾}çú]û/Şöº}åÿ‹úî.¾{ÿ^Ü=é}ŞıÑ©^?Ìz8ıhıcìã¢'
+O*ª?­ıÕø×f©½ôì ×`Ï³ˆg†¸C/ÿ•ù¯OÃÏ©Ï+F´FêG­GÏŒùŒİz±ôÅğËŒ—Óã…¿)ş¶÷•Ñ«Ÿ~wû½gbÉÄğkÑë™?JŞ¨¾9úÖömçdèäÓwiï¦§ŠŞ«¾?öı¡ûcôÇ‘éìOøO•Ÿ?w|	üòx&mfæß÷„óû
+endstream
+endobj
+509 0 obj
+2612
+endobj
+510 0 obj
+<< /BM /Multiply /Type /ExtGState >>
+endobj
+xref
+0 2
+0000000000 65535 f 
+0001891623 00000 n 
+3 1
+0001892381 00000 n 
+73 1
+0001893041 00000 n 
+103 1
+0001893618 00000 n 
+109 9
+0001894166 00001 f 
+0001894188 00001 f 
+0001894210 00001 f 
+0001894232 00001 f 
+0001894254 00001 f 
+0001894276 00001 f 
+0001894298 00001 f 
+0001894320 00001 f 
+0001894342 00001 f 
+124 1
+0001894364 00000 n 
+151 1
+0001894952 00000 n 
+157 1
+0001895471 00000 n 
+171 1
+0001896057 00000 n 
+176 1
+0001896576 00000 n 
+207 1
+0001897105 00000 n 
+230 1
+0001897700 00000 n 
+234 1
+0001898059 00000 n 
+407 1
+0001898611 00000 n 
+492 19
+0001899306 00000 n 
+0001899407 00001 f 
+0001899429 00000 n 
+0001899581 00000 n 
+0001899734 00000 n 
+0001899888 00000 n 
+0001900040 00000 n 
+0001900194 00000 n 
+0001900347 00000 n 
+0001900501 00000 n 
+0001900655 00000 n 
+0001900809 00000 n 
+0001901295 00000 n 
+0001901815 00000 n 
+0001901836 00000 n 
+0001901938 00000 n 
+0001901977 00000 n 
+0001904691 00000 n 
+0001904713 00000 n 
+trailer
+<< /ID [<9F5DCB882E79035203BBC396C3C4EE5F><0A89B2B2348DDC1C359B884F311A29BE> ] /Root 415 0 R /Size 511 /Prev 1881615 /Info 1 0 R >> 
+startxref
+1904767
+%%EOF
