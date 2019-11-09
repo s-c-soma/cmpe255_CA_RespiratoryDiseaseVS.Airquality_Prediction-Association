@@ -1,0 +1,7 @@
+Definitions:
+Age adjusted rate: a weighted average for a given population group where the weights are the proportions of persons in the corresponding age groups 
+
+Techniques to use:
+Chi square test
+Poisson distribution
+Covariance analysis
