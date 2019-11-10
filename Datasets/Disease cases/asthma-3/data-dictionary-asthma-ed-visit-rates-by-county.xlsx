@@ -1,0 +1,9 @@
+Field Title,Field Name,Data Type,Description
+County  ,COUNTY,Plain text,County of residence
+Year,YEAR,Plain text,Year of emergency department visit
+Strata,STRATA,Plain text,General demographic category under which responses have been stratified
+Strata Name,STRATA NAME,Plain text,Specific demographic type under which responses have been stratified
+Age group,AGE GROUP,Plain text,"All ages, 0-17 years, 18+ years, 0-4 years, 5-17 years, 18-64 years, and 65+ years"
+Number of ED Visits,NUMBER OF ED VISITS,Numeric,Number of emergency department visits for asthma. Events are counted per visit and not per person (source: OSHPD).
+Age-adjusted ED visit rate,AGE-ADJUSTED ED VISIT RATE,Numeric,"Calculated by dividing the number of asthma ED visits by the estimated population in that county and age group, age-adjusting to the 2000 U.S. Census, and multiplying by 10,000"
+Comment,COMMENT,Plain text,"Information on data suppression. For ""Total Population"" stratum, counts less than or equal to 5 and their rates are suppressed in accordance with CHHS Data De-identification Guidelines. For all other strata, counts less than 11 and their rates are suppressed in accordance with guidelines. For all data, rates based on counts less than 12 are suppressed due to statistical instability. "
