@@ -1,0 +1,411 @@
+COUNTY,YEARS,STRATA,AGE GROUP,CURRENT PREVALENCE,95% CONFIDENCE INTERVAL,COUNTIES GROUPED,COMMENT,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,POPULATION,Adjusted Frequency
+California,2015–2016,Total population,All ages,0.09,(8.1Ã¢Â€Â“9.3),,,,,,,,,,,39071323.00,3399205
+Alameda,2015–2016,Total population,All ages,0.09,(5.9Ã¢Â€Â“12.2),,,,,,,,,,,1619244.00,147351
+Alpine,2015–2016,Total population,All ages,0.09,(4.1Ã¢Â€Â“14.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,1165.00,108
+Amador,2015–2016,Total population,All ages,0.09,(4.1Ã¢Â€Â“14.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,37302.00,3469
+Butte,2015–2016,Total population,All ages,0.09,(3.8Ã¢Â€Â“15.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,224301.00,21084
+Calaveras,2015–2016,Total population,All ages,0.09,(4.1Ã¢Â€Â“14.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,44881.00,4174
+Colusa,2015–2016,Total population,All ages,0.07,(2.7Ã¢Â€Â“12.0),"Colusa, Glenn, and Tehama counties combined combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,22312.00,1629
+Contra Costa,2015–2016,Total population,All ages,0.12,(5.2Ã¢Â€Â“19.1),,,,,,,,,,,1116385.00,135083
+Del Norte,2015–2016,Total population,All ages,0.07,(1.2Ã¢Â€Â“13.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,27089.00,1950
+El Dorado,2015–2016,Total population,All ages,0.12,(2.9Ã¢Â€Â“21.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,182917.00,22133
+Fresno,2015–2016,Total population,All ages,0.11,(6.2Ã¢Â€Â“16.4),,,,,,,,,,,980980.00,110851
+Glenn,2015–2016,Total population,All ages,0.07,(2.7Ã¢Â€Â“12.0),"Colusa, Glenn, and Tehama counties combined combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,29000.00,2117
+Humboldt,2015–2016,Total population,All ages,0.13,(3.4Ã¢Â€Â“21.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,134825.00,16853
+Imperial,2015–2016,Total population,All ages,0.12,(6.9Ã¢Â€Â“17.4),,,,,,,,,,,184760.00,22356
+Inyo,2015–2016,Total population,All ages,0.09,(4.1Ã¢Â€Â“14.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,18697.00,1739
+Kern,2015–2016,Total population,All ages,0.17,(9.3Ã¢Â€Â“24.0),,,,,,,,,,,884436.00,147701
+Kings,2015–2016,Total population,All ages,0.16,(7.9Ã¢Â€Â“23.6),,,,,,,,,,,149813.00,23670
+Lake,2015–2016,Total population,All ages,0.17,(9.1Ã¢Â€Â“25.6),,,,,,,,,,,65023.00,11249
+Lassen,2015–2016,Total population,All ages,0.07,(1.2Ã¢Â€Â“13.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,30988.00,2231
+Los Angeles,2015–2016,Total population,All ages,0.08,(6.6Ã¢Â€Â“9.0),,,,,,,,,,,10192374.00,795005
+Madera,2015–2016,Total population,All ages,0.10,(3.3Ã¢Â€Â“17.4),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,154982.00,15963
+Marin,2015–2016,Total population,All ages,0.07,(4.5Ã¢Â€Â“9.1),,,,,,,,,,,261663.00,17793
+Mariposa,2015–2016,Total population,All ages,0.09,(4.1Ã¢Â€Â“14.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,18097.00,1683
+Mendocino,2015–2016,Total population,All ages,0.09,(3.8Ã¢Â€Â“14.8),,,,,,,,,,,88379.00,8219
+Merced,2015–2016,Total population,All ages,0.10,(3.8Ã¢Â€Â“16.7),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,270156.00,27826
+Modoc,2015–2016,Total population,All ages,0.07,(1.2Ã¢Â€Â“13.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,9566.00,689
+Mono,2015–2016,Total population,All ages,0.09,(4.1Ã¢Â€Â“14.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,13762.00,1280
+Monterey,2015–2016,Total population,All ages,0.09,(3.7Ã¢Â€Â“14.0),,,,,,,,,,,435658.00,38338
+Napa,2015–2016,Total population,All ages,,,,Prevalence not available due to unreliable estimate,,,,,,,,,141625.00,0
+Nevada,2015–2016,Total population,All ages,0.06,(2.0Ã¢Â€Â“10.4),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,97946.00,6073
+Orange,2015–2016,Total population,All ages,0.07,(3.9Ã¢Â€Â“9.5),,,,,,,,,,,3165203.00,212069
+Placer,2015–2016,Total population,All ages,0.08,(3.9Ã¢Â€Â“13.0),,,,,,,,,,,371558.00,31211
+Plumas,2015–2016,Total population,All ages,0.07,(1.2Ã¢Â€Â“13.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,19675.00,1417
+Riverside,2015–2016,Total population,All ages,0.10,(6.3Ã¢Â€Â“14.1),,,,,,,,,,,2331040.00,237766
+Sacramento,2015–2016,Total population,All ages,0.10,(6.3Ã¢Â€Â“12.8),,,,,,,,,,,1489308.00,142974
+San Benito,2015–2016,Total population,All ages,0.05,(1.0Ã¢Â€Â“9.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,57572.00,3051
+San Bernardino,2015–2016,Total population,All ages,0.11,(7.5Ã¢Â€Â“13.8),,,,,,,,,,,2127735.00,225540
+San Diego,2015–2016,Total population,All ages,0.07,(5.5Ã¢Â€Â“8.7),,,,,,,,,,,3275546.00,232564
+San Francisco,2015–2016,Total population,All ages,0.08,(3.8Ã¢Â€Â“11.5),,,,,,,,,,,862470.00,66410
+San Joaquin,2015–2016,Total population,All ages,0.08,(2.8Ã¢Â€Â“12.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,728509.00,54638
+San Luis Obispo,2015–2016,Total population,All ages,0.06,(1.5Ã¢Â€Â“10.4),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,276142.00,16292
+San Mateo,2015–2016,Total population,All ages,0.11,(6.5Ã¢Â€Â“16.4),,,,,,,,,,,762327.00,86905
+Santa Barbara,2015–2016,Total population,All ages,0.06,(1.1Ã¢Â€Â“11.3),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,445444.00,27618
+Santa Clara,2015–2016,Total population,All ages,0.06,(3.9Ã¢Â€Â“8.0),,,,,,,,,,,1915407.00,114924
+Santa Cruz,2015–2016,Total population,All ages,0.11,(6.0Ã¢Â€Â“16.6),,,,,,,,,,,274594.00,31029
+Shasta,2015–2016,Total population,All ages,0.07,(3.1Ã¢Â€Â“11.6),,,,,,,,,,,178795.00,13052
+Sierra,2015–2016,Total population,All ages,0.07,(1.2Ã¢Â€Â“13.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,3166.00,228
+Siskiyou,2015–2016,Total population,All ages,0.07,(1.2Ã¢Â€Â“13.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,44563.00,3209
+Solano,2015–2016,Total population,All ages,0.13,(5.9Ã¢Â€Â“20.6),,,,,,,,,,,429384.00,57108
+Sonoma,2015–2016,Total population,All ages,0.08,(4.5Ã¢Â€Â“11.6),,,,,,,,,,,500487.00,40539
+Stanislaus,2015–2016,Total population,All ages,0.13,(7.5Ã¢Â€Â“19.2),,,,,,,,,,,537957.00,72086
+Sutter,2015–2016,Total population,All ages,0.08,(2.9Ã¢Â€Â“13.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,97701.00,7914
+Tehama,2015–2016,Total population,All ages,0.07,(2.7Ã¢Â€Â“12.0),"Colusa, Glenn, and Tehama counties combined combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,63975.00,4670
+Trinity,2015–2016,Total population,All ages,0.07,(1.2Ã¢Â€Â“13.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,13583.00,978
+Tulare,2015–2016,Total population,All ages,0.09,(4.3Ã¢Â€Â“12.9),,,,,,,,,,,465013.00,39991
+Tuolumne,2015–2016,Total population,All ages,0.09,(4.1Ã¢Â€Â“14.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,54511.00,5070
+Ventura,2015–2016,Total population,All ages,0.07,(3.3Ã¢Â€Â“10.0),,,,,,,,,,,852964.00,57149
+Yolo,2015–2016,Total population,All ages,0.07,(1.3Ã¢Â€Â“11.9),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,212747.00,14041
+Yuba,2015–2016,Total population,All ages,0.15,(9.0Ã¢Â€Â“20.5),,,,,,,,,,,75621.00,11192
+Alameda,2015–2016,Child vs. adult,0–17 years,0.15,(3.9Ã¢Â€Â“26.4),,,,,,,,,,,1619244.00,244506
+Alpine,2015–2016,Child vs. adult,0–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,1165.00,0
+Amador,2015–2016,Child vs. adult,0–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,37302.00,0
+Butte,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,224301.00,0
+Calaveras,2015–2016,Child vs. adult,0–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,44881.00,0
+Colusa,2015–2016,Child vs. adult,0–17 years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,22312.00,0
+Contra Costa,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1116385.00,0
+Del Norte,2015–2016,Child vs. adult,0–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,27089.00,0
+El Dorado,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,182917.00,0
+Fresno,2015–2016,Child vs. adult,0–17 years,0.11,(0.5Ã¢Â€Â“20.8),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,980980.00,104965
+Glenn,2015–2016,Child vs. adult,0–17 years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,29000.00,0
+Humboldt,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,134825.00,0
+Imperial,2015–2016,Child vs. adult,0–17 years,0.19,(5.6Ã¢Â€Â“32.5),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,184760.00,35289
+Inyo,2015–2016,Child vs. adult,0–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,18697.00,0
+Kern,2015–2016,Child vs. adult,0–17 years,0.26,(10.8Ã¢Â€Â“41.1),,,,,,,,,,,884436.00,229953
+Kings,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,149813.00,0
+Lake,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,65023.00,0
+Lassen,2015–2016,Child vs. adult,0–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,30988.00,0
+Los Angeles,2015–2016,Child vs. adult,0–17 years,0.10,(6.0Ã¢Â€Â“14.2),,,,,,,,,,,10192374.00,1029430
+Madera,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,154982.00,0
+Marin,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,261663.00,0
+Mariposa,2015–2016,Child vs. adult,0–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,18097.00,0
+Mendocino,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,88379.00,0
+Merced,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,270156.00,0
+Modoc,2015–2016,Child vs. adult,0–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,9566.00,0
+Mono,2015–2016,Child vs. adult,0–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,13762.00,0
+Monterey,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,435658.00,0
+Napa,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,141625.00,0
+Nevada,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,97946.00,0
+Orange,2015–2016,Child vs. adult,0–17 years,0.08,(2.4Ã¢Â€Â“13.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,3165203.00,253216
+Placer,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,371558.00,0
+Plumas,2015–2016,Child vs. adult,0–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,19675.00,0
+Riverside,2015–2016,Child vs. adult,0–17 years,0.15,(3.1Ã¢Â€Â“26.4),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,2331040.00,344994
+Sacramento,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1489308.00,0
+San Benito,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,57572.00,0
+San Bernardino,2015–2016,Child vs. adult,0–17 years,0.12,(2.1Ã¢Â€Â“21.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,2127735.00,251073
+San Diego,2015–2016,Child vs. adult,0–17 years,0.07,(2.4Ã¢Â€Â“10.7),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,3275546.00,216186
+San Francisco,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,862470.00,0
+San Joaquin,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,728509.00,0
+San Luis Obispo,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,276142.00,0
+San Mateo,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,762327.00,0
+Santa Barbara,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,445444.00,0
+Santa Clara,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1915407.00,0
+Santa Cruz,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,274594.00,0
+Shasta,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,178795.00,0
+Sierra,2015–2016,Child vs. adult,0–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,3166.00,0
+Siskiyou,2015–2016,Child vs. adult,0–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,44563.00,0
+Solano,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,429384.00,0
+Sonoma,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,500487.00,0
+Stanislaus,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,537957.00,0
+Sutter,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,97701.00,0
+Tehama,2015–2016,Child vs. adult,0–17 years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,63975.00,0
+Trinity,2015–2016,Child vs. adult,0–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,13583.00,0
+Tulare,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,465013.00,0
+Tuolumne,2015–2016,Child vs. adult,0–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,54511.00,0
+Ventura,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,852964.00,0
+Yolo,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,212747.00,0
+Yuba,2015–2016,Child vs. adult,0–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,75621.00,0
+California,2015–2016,Child vs. adult,0–17 years,0.08,(7.6Ã¢Â€Â“9.0),,,,,,,,,,,39071323.00,3242920
+Alameda,2015–2016,Child vs. adult,18+ years,0.07,(4.0Ã¢Â€Â“10.7),,,,,,,,,,,1619244.00,118205
+Alpine,2015–2016,Child vs. adult,18+ years,0.10,(4.7Ã¢Â€Â“15.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,1165.00,118
+Amador,2015–2016,Child vs. adult,18+ years,0.10,(4.7Ã¢Â€Â“15.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,37302.00,3768
+Butte,2015–2016,Child vs. adult,18+ years,0.11,(0.9Ã¢Â€Â“17.3),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,224301.00,23776
+Calaveras,2015–2016,Child vs. adult,18+ years,0.10,(4.7Ã¢Â€Â“15.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,44881.00,4533
+Colusa,2015–2016,Child vs. adult,18+ years,0.08,(2.6Ã¢Â€Â“13.7),"Colusa, Glenn, and Tehama counties combined combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,22312.00,1807
+Contra Costa,2015–2016,Child vs. adult,18+ years,0.09,(4.2Ã¢Â€Â“15.8),,,,,,,,,,,1116385.00,102707
+Del Norte,2015–2016,Child vs. adult,18+ years,0.10,(2.4Ã¢Â€Â“17.6),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,27089.00,2709
+El Dorado,2015–2016,Child vs. adult,18+ years,0.13,(2.0Ã¢Â€Â“23.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,182917.00,22865
+Fresno,2015–2016,Child vs. adult,18+ years,0.12,(6.1Ã¢Â€Â“16.9),,,,,,,,,,,980980.00,112813
+Glenn,2015–2016,Child vs. adult,18+ years,0.08,(2.6Ã¢Â€Â“13.7),"Colusa, Glenn, and Tehama counties combined combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,29000.00,2349
+Humboldt,2015–2016,Child vs. adult,18+ years,0.12,(2.4Ã¢Â€Â“21.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,134825.00,16179
+Imperial,2015–2016,Child vs. adult,18+ years,0.09,(4.7Ã¢Â€Â“13.1),,,,,,,,,,,184760.00,16444
+Inyo,2015–2016,Child vs. adult,18+ years,0.10,(4.7Ã¢Â€Â“15.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,18697.00,1888
+Kern,2015–2016,Child vs. adult,18+ years,0.12,(6.4Ã¢Â€Â“18.1),,,,,,,,,,,884436.00,108786
+Kings,2015–2016,Child vs. adult,18+ years,0.16,(6.7Ã¢Â€Â“24.9),,,,,,,,,,,149813.00,23670
+Lake,2015–2016,Child vs. adult,18+ years,0.19,(9.6Ã¢Â€Â“28.7),,,,,,,,,,,65023.00,12419
+Lassen,2015–2016,Child vs. adult,18+ years,0.10,(2.4Ã¢Â€Â“17.6),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,30988.00,3099
+Los Angeles,2015–2016,Child vs. adult,18+ years,0.07,(6.0Ã¢Â€Â“8.2),,,,,,,,,,,10192374.00,723659
+Madera,2015–2016,Child vs. adult,18+ years,0.10,(4.0Ã¢Â€Â“15.7),,,,,,,,,,,154982.00,15343
+Marin,2015–2016,Child vs. adult,18+ years,0.07,(4.6Ã¢Â€Â“10.1),,,,,,,,,,,261663.00,19363
+Mariposa,2015–2016,Child vs. adult,18+ years,0.10,(4.7Ã¢Â€Â“15.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,18097.00,1828
+Mendocino,2015–2016,Child vs. adult,18+ years,0.09,(3.9Ã¢Â€Â“13.3),,,,,,,,,,,88379.00,7601
+Merced,2015–2016,Child vs. adult,18+ years,0.12,(3.8Ã¢Â€Â“19.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,270156.00,31608
+Modoc,2015–2016,Child vs. adult,18+ years,0.10,(2.4Ã¢Â€Â“17.6),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,9566.00,957
+Mono,2015–2016,Child vs. adult,18+ years,0.10,(4.7Ã¢Â€Â“15.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,13762.00,1390
+Monterey,2015–2016,Child vs. adult,18+ years,0.09,(3.0Ã¢Â€Â“14.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,435658.00,37031
+Napa,2015–2016,Child vs. adult,18+ years,0.10,(3.3Ã¢Â€Â“15.8),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,141625.00,13596
+Nevada,2015–2016,Child vs. adult,18+ years,0.07,(2.3Ã¢Â€Â“12.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,97946.00,7052
+Orange,2015–2016,Child vs. adult,18+ years,0.06,(3.6Ã¢Â€Â“9.1),,,,,,,,,,,3165203.00,202573
+Placer,2015–2016,Child vs. adult,18+ years,0.09,(4.1Ã¢Â€Â“12.9),,,,,,,,,,,371558.00,31582
+Plumas,2015–2016,Child vs. adult,18+ years,0.10,(2.4Ã¢Â€Â“17.6),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,19675.00,1968
+Riverside,2015–2016,Child vs. adult,18+ years,0.09,(5.7Ã¢Â€Â“11.2),,,,,,,,,,,2331040.00,198138
+Sacramento,2015–2016,Child vs. adult,18+ years,0.10,(7.1Ã¢Â€Â“13.7),,,,,,,,,,,1489308.00,154888
+San Benito,2015–2016,Child vs. adult,18+ years,0.07,(1.0Ã¢Â€Â“12.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,57572.00,3742
+San Bernardino,2015–2016,Child vs. adult,18+ years,0.10,(7.0Ã¢Â€Â“13.4),,,,,,,,,,,2127735.00,217029
+San Diego,2015–2016,Child vs. adult,18+ years,0.07,(5.5Ã¢Â€Â“9.1),,,,,,,,,,,3275546.00,239115
+San Francisco,2015–2016,Child vs. adult,18+ years,0.09,(4.5Ã¢Â€Â“13.7),,,,,,,,,,,862470.00,78485
+San Joaquin,2015–2016,Child vs. adult,18+ years,0.09,(3.3Ã¢Â€Â“13.8),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,728509.00,61923
+San Luis Obispo,2015–2016,Child vs. adult,18+ years,0.07,(2.5Ã¢Â€Â“11.4),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,276142.00,19054
+San Mateo,2015–2016,Child vs. adult,18+ years,0.11,(6.3Ã¢Â€Â“15.6),,,,,,,,,,,762327.00,83094
+Santa Barbara,2015–2016,Child vs. adult,18+ years,0.04,(1.4Ã¢Â€Â“6.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,445444.00,16481
+Santa Clara,2015–2016,Child vs. adult,18+ years,0.06,(3.9Ã¢Â€Â“8.6),,,,,,,,,,,1915407.00,118755
+Santa Cruz,2015–2016,Child vs. adult,18+ years,0.10,(6.1Ã¢Â€Â“14.6),,,,,,,,,,,274594.00,28558
+Shasta,2015–2016,Child vs. adult,18+ years,0.09,(3.8Ã¢Â€Â“14.2),,,,,,,,,,,178795.00,16092
+Sierra,2015–2016,Child vs. adult,18+ years,0.10,(2.4Ã¢Â€Â“17.6),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,3166.00,317
+Siskiyou,2015–2016,Child vs. adult,18+ years,0.10,(2.4Ã¢Â€Â“17.6),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,44563.00,4456
+Solano,2015–2016,Child vs. adult,18+ years,0.16,(7.4Ã¢Â€Â“25.4),,,,,,,,,,,429384.00,70419
+Sonoma,2015–2016,Child vs. adult,18+ years,0.09,(3.5Ã¢Â€Â“13.6),,,,,,,,,,,500487.00,43042
+Stanislaus,2015–2016,Child vs. adult,18+ years,0.13,(7.8Ã¢Â€Â“18.0),,,,,,,,,,,537957.00,69396
+Sutter,2015–2016,Child vs. adult,18+ years,0.08,(4.1Ã¢Â€Â“11.8),,,,,,,,,,,97701.00,7718
+Tehama,2015–2016,Child vs. adult,18+ years,0.08,(2.6Ã¢Â€Â“13.7),"Colusa, Glenn, and Tehama counties combined combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,63975.00,5182
+Trinity,2015–2016,Child vs. adult,18+ years,0.10,(2.4Ã¢Â€Â“17.6),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,13583.00,1358
+Tulare,2015–2016,Child vs. adult,18+ years,0.13,(6.2Ã¢Â€Â“18.8),,,,,,,,,,,465013.00,58127
+Tuolumne,2015–2016,Child vs. adult,18+ years,0.10,(4.7Ã¢Â€Â“15.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",,,,,,,,,,54511.00,5506
+Ventura,2015–2016,Child vs. adult,18+ years,0.08,(3.7Ã¢Â€Â“11.3),,,,,,,,,,,852964.00,63972
+Yolo,2015–2016,Child vs. adult,18+ years,0.08,(0.5Ã¢Â€Â“15.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,212747.00,16594
+Yuba,2015–2016,Child vs. adult,18+ years,0.15,(8.6Ã¢Â€Â“22.0),,,,,,,,,,,75621.00,11570
+Alameda,2015–2016,Age groups,18+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1619244.00,0
+Alpine,2015–2016,Age groups,0–4 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,1165.00,0
+Amador,2015–2016,Age groups,0–4 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,37302.00,0
+Butte,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,224301.00,0
+Calaveras,2015–2016,Age groups,0–4 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,44881.00,0
+Colusa,2015–2016,Age groups,0–4 years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,22312.00,0
+Contra Costa,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1116385.00,0
+Del Norte,2015–2016,Age groups,0–4 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,27089.00,0
+El Dorado,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,182917.00,0
+Fresno,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,980980.00,0
+Glenn,2015–2016,Age groups,0–4 years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,29000.00,0
+Humboldt,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,134825.00,0
+Imperial,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,184760.00,0
+Inyo,2015–2016,Age groups,0–4 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,18697.00,0
+Kern,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,884436.00,0
+Kings,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,149813.00,0
+Lake,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,65023.00,0
+Lassen,2015–2016,Age groups,0–4 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,30988.00,0
+Los Angeles,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,10192374.00,0
+Madera,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,154982.00,0
+Marin,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,261663.00,0
+Mariposa,2015–2016,Age groups,0–4 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,18097.00,0
+Mendocino,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,88379.00,0
+Merced,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,270156.00,0
+Modoc,2015–2016,Age groups,0–4 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,9566.00,0
+Mono,2015–2016,Age groups,0–4 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,13762.00,0
+Monterey,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,435658.00,0
+Napa,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,141625.00,0
+Nevada,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,97946.00,0
+Orange,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,3165203.00,0
+Placer,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,371558.00,0
+Plumas,2015–2016,Age groups,0–4 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,19675.00,0
+Riverside,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,2331040.00,0
+Sacramento,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1489308.00,0
+San Benito,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,57572.00,0
+San Bernardino,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,2127735.00,0
+San Diego,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,3275546.00,0
+San Francisco,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,862470.00,0
+San Joaquin,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,728509.00,0
+San Luis Obispo,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,276142.00,0
+San Mateo,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,762327.00,0
+Santa Barbara,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,445444.00,0
+Santa Clara,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1915407.00,0
+Santa Cruz,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,274594.00,0
+Shasta,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,178795.00,0
+Sierra,2015–2016,Age groups,0–4 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,3166.00,0
+Siskiyou,2015–2016,Age groups,0–4 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,44563.00,0
+Solano,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,429384.00,0
+Sonoma,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,500487.00,0
+Stanislaus,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,537957.00,0
+Sutter,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,97701.00,0
+Tehama,2015–2016,Age groups,0–4 years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,63975.00,0
+Trinity,2015–2016,Age groups,0–4 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,13583.00,0
+Tulare,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,465013.00,0
+Tuolumne,2015–2016,Age groups,0–4 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,54511.00,0
+Ventura,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,852964.00,0
+Yolo,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,212747.00,0
+Yuba,2015–2016,Age groups,0–4 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,75621.00,0
+California,2015–2016,Age groups,0–4 years,0.12,(9.8Ã¢Â€Â“14.8),,,,,,,,,,,39071323.00,4805773
+Alameda,2015–2016,Age groups,0–4 years,0.19,(2.9Ã¢Â€Â“35.9),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,1619244.00,314133
+Alpine,2015–2016,Age groups,5–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,1165.00,0
+Amador,2015–2016,Age groups,5–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,37302.00,0
+Butte,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,224301.00,0
+Calaveras,2015–2016,Age groups,5–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,44881.00,0
+Colusa,2015–2016,Age groups,5–17 years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,22312.00,0
+Contra Costa,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1116385.00,0
+Del Norte,2015–2016,Age groups,5–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,27089.00,0
+El Dorado,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,182917.00,0
+Fresno,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,980980.00,0
+Glenn,2015–2016,Age groups,5–17 years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,29000.00,0
+Humboldt,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,134825.00,0
+Imperial,2015–2016,Age groups,5–17 years,0.21,(6.4Ã¢Â€Â“34.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,184760.00,37876
+Inyo,2015–2016,Age groups,5–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,18697.00,0
+Kern,2015–2016,Age groups,5–17 years,0.24,(4.5Ã¢Â€Â“42.9),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,884436.00,209611
+Kings,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,149813.00,0
+Lake,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,65023.00,0
+Lassen,2015–2016,Age groups,5–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,30988.00,0
+Los Angeles,2015–2016,Age groups,5–17 years,0.13,(7.3Ã¢Â€Â“19.1),,,,,,,,,,,10192374.00,1345393
+Madera,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,154982.00,0
+Marin,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,261663.00,0
+Mariposa,2015–2016,Age groups,5–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,18097.00,0
+Mendocino,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,88379.00,0
+Merced,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,270156.00,0
+Modoc,2015–2016,Age groups,5–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,9566.00,0
+Mono,2015–2016,Age groups,5–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,13762.00,0
+Monterey,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,435658.00,0
+Napa,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,141625.00,0
+Nevada,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,97946.00,0
+Orange,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,3165203.00,0
+Placer,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,371558.00,0
+Plumas,2015–2016,Age groups,5–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,19675.00,0
+Riverside,2015–2016,Age groups,5–17 years,0.18,(3.6Ã¢Â€Â“33.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,2331040.00,428911
+Sacramento,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1489308.00,0
+San Benito,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,57572.00,0
+San Bernardino,2015–2016,Age groups,5–17 years,0.15,(1.8Ã¢Â€Â“27.3),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,2127735.00,310649
+San Diego,2015–2016,Age groups,5–17 years,0.09,(2.9Ã¢Â€Â“14.5),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,3275546.00,284973
+San Francisco,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,862470.00,0
+San Joaquin,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,728509.00,0
+San Luis Obispo,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,276142.00,0
+San Mateo,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,762327.00,0
+Santa Barbara,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,445444.00,0
+Santa Clara,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1915407.00,0
+Santa Cruz,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,274594.00,0
+Shasta,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,178795.00,0
+Sierra,2015–2016,Age groups,5–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,3166.00,0
+Siskiyou,2015–2016,Age groups,5–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,44563.00,0
+Solano,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,429384.00,0
+Sonoma,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,500487.00,0
+Stanislaus,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,537957.00,0
+Sutter,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,97701.00,0
+Tehama,2015–2016,Age groups,5–17 years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,63975.00,0
+Trinity,2015–2016,Age groups,5–17 years,,,"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,13583.00,0
+Tulare,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,465013.00,0
+Tuolumne,2015–2016,Age groups,5–17 years,,,"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,54511.00,0
+Ventura,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,852964.00,0
+Yolo,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,212747.00,0
+Yuba,2015–2016,Age groups,5–17 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,75621.00,0
+Alameda,2015–2016,Age groups,5–17 years,0.07,(3.7Ã¢Â€Â“10.5),,,,,,,,,,,1619244.00,114966
+Alpine,2015–2016,Age groups,5–17 years,0.09,(2.7Ã¢Â€Â“15.4),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,1165.00,105
+Amador,2015–2016,Age groups,18–64 years,0.09,(2.7Ã¢Â€Â“15.4),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,37302.00,3357
+Butte,2015–2016,Age groups,18–64 years,0.10,(2.6Ã¢Â€Â“18.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,224301.00,23327
+Calaveras,2015–2016,Age groups,18–64 years,0.09,(2.7Ã¢Â€Â“15.4),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,44881.00,4039
+Colusa,2015–2016,Age groups,18–64 years,0.07,(1.5Ã¢Â€Â“13.1),"Colusa, Glenn, and Tehama counties combined combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,22312.00,1629
+Contra Costa,2015–2016,Age groups,18–64 years,0.09,(4.5Ã¢Â€Â“14.1),,,,,,,,,,,1116385.00,103824
+Del Norte,2015–2016,Age groups,18–64 years,0.10,(0.2Ã¢Â€Â“20.7),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,27089.00,2817
+El Dorado,2015–2016,Age groups,18–64 years,0.14,(0.6Ã¢Â€Â“27.4),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,182917.00,25608
+Fresno,2015–2016,Age groups,18–64 years,0.11,(4.9Ã¢Â€Â“17.1),,,,,,,,,,,980980.00,107908
+Glenn,2015–2016,Age groups,18–64 years,0.07,(1.5Ã¢Â€Â“13.1),"Colusa, Glenn, and Tehama counties combined combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,29000.00,2117
+Humboldt,2015–2016,Age groups,18–64 years,0.13,(0.6Ã¢Â€Â“25.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,134825.00,17662
+Imperial,2015–2016,Age groups,18–64 years,0.09,(4.4Ã¢Â€Â“13.0),,,,,,,,,,,184760.00,16074
+Inyo,2015–2016,Age groups,18–64 years,0.09,(2.7Ã¢Â€Â“15.4),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,18697.00,1683
+Kern,2015–2016,Age groups,18–64 years,0.12,(5.5Ã¢Â€Â“18.4),,,,,,,,,,,884436.00,105248
+Kings,2015–2016,Age groups,18–64 years,0.17,(5.9Ã¢Â€Â“27.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,149813.00,24719
+Lake,2015–2016,Age groups,18–64 years,0.23,(10.4Ã¢Â€Â“35.3),,,,,,,,,,,65023.00,14890
+Lassen,2015–2016,Age groups,18–64 years,0.10,(0.2Ã¢Â€Â“20.7),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,30988.00,3223
+Los Angeles,2015–2016,Age groups,18–64 years,0.07,(5.6Ã¢Â€Â“8.1),,,,,,,,,,,10192374.00,703274
+Madera,2015–2016,Age groups,18–64 years,0.09,(2.7Ã¢Â€Â“16.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,154982.00,14568
+Marin,2015–2016,Age groups,18–64 years,0.07,(3.7Ã¢Â€Â“9.7),,,,,,,,,,,261663.00,17531
+Mariposa,2015–2016,Age groups,18–64 years,0.09,(2.7Ã¢Â€Â“15.4),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,18097.00,1629
+Mendocino,2015–2016,Age groups,18–64 years,0.10,(3.4Ã¢Â€Â“16.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,88379.00,8573
+Merced,2015–2016,Age groups,18–64 years,0.11,(2.4Ã¢Â€Â“20.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,270156.00,30528
+Modoc,2015–2016,Age groups,18–64 years,0.10,(0.2Ã¢Â€Â“20.7),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,9566.00,995
+Mono,2015–2016,Age groups,18–64 years,0.09,(2.7Ã¢Â€Â“15.4),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,13762.00,1239
+Monterey,2015–2016,Age groups,18–64 years,0.06,(2.2Ã¢Â€Â“9.9),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,435658.00,26575
+Napa,2015–2016,Age groups,18–64 years,0.12,(3.6Ã¢Â€Â“20.3),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,141625.00,16995
+Nevada,2015–2016,Age groups,18–64 years,0.07,(0.7Ã¢Â€Â“13.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,97946.00,6660
+Orange,2015–2016,Age groups,18–64 years,0.06,(2.4Ã¢Â€Â“8.8),,,,,,,,,,,3165203.00,177251
+Placer,2015–2016,Age groups,18–64 years,0.09,(3.2Ã¢Â€Â“15.3),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,371558.00,34555
+Plumas,2015–2016,Age groups,18–64 years,0.10,(0.2Ã¢Â€Â“20.7),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,19675.00,2046
+Riverside,2015–2016,Age groups,18–64 years,0.09,(5.9Ã¢Â€Â“12.7),,,,,,,,,,,2331040.00,216787
+Sacramento,2015–2016,Age groups,18–64 years,0.11,(7.2Ã¢Â€Â“14.5),,,,,,,,,,,1489308.00,162335
+San Benito,2015–2016,Age groups,18–64 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,57572.00,0
+San Bernardino,2015–2016,Age groups,18–64 years,0.10,(6.5Ã¢Â€Â“14.2),,,,,,,,,,,2127735.00,219157
+San Diego,2015–2016,Age groups,18–64 years,0.07,(5.2Ã¢Â€Â“9.4),,,,,,,,,,,3275546.00,239115
+San Francisco,2015–2016,Age groups,18–64 years,0.10,(4.2Ã¢Â€Â“14.8),,,,,,,,,,,862470.00,81935
+San Joaquin,2015–2016,Age groups,18–64 years,0.08,(2.4Ã¢Â€Â“14.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,728509.00,60466
+San Luis Obispo,2015–2016,Age groups,18–64 years,0.05,(1.8Ã¢Â€Â“8.9),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,276142.00,14912
+San Mateo,2015–2016,Age groups,18–64 years,0.10,(4.9Ã¢Â€Â“15.9),,,,,,,,,,,762327.00,79282
+Santa Barbara,2015–2016,Age groups,18–64 years,0.03,(0.5Ã¢Â€Â“5.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,445444.00,13363
+Santa Clara,2015–2016,Age groups,18–64 years,0.06,(3.3Ã¢Â€Â“8.3),,,,,,,,,,,1915407.00,111094
+Santa Cruz,2015–2016,Age groups,18–64 years,0.08,(3.9Ã¢Â€Â“11.3),,,,,,,,,,,274594.00,20869
+Shasta,2015–2016,Age groups,18–64 years,0.10,(3.8Ã¢Â€Â“16.3),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,178795.00,18058
+Sierra,2015–2016,Age groups,18–64 years,0.10,(0.2Ã¢Â€Â“20.7),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,3166.00,329
+Siskiyou,2015–2016,Age groups,18–64 years,0.10,(0.2Ã¢Â€Â“20.7),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,44563.00,4635
+Solano,2015–2016,Age groups,18–64 years,0.16,(5.3Ã¢Â€Â“26.8),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,429384.00,68701
+Sonoma,2015–2016,Age groups,18–64 years,0.09,(3.1Ã¢Â€Â“15.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,500487.00,45544
+Stanislaus,2015–2016,Age groups,18–64 years,0.11,(5.0Ã¢Â€Â“17.8),,,,,,,,,,,537957.00,61327
+Sutter,2015–2016,Age groups,18–64 years,0.07,(2.6Ã¢Â€Â“10.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,97701.00,6448
+Tehama,2015–2016,Age groups,18–64 years,0.07,(1.5Ã¢Â€Â“13.1),"Colusa, Glenn, and Tehama counties combined combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,63975.00,4670
+Trinity,2015–2016,Age groups,18–64 years,0.10,(0.2Ã¢Â€Â“20.7),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,13583.00,1413
+Tulare,2015–2016,Age groups,18–64 years,0.12,(4.7Ã¢Â€Â“19.9),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,465013.00,57197
+Tuolumne,2015–2016,Age groups,18–64 years,0.09,(2.7Ã¢Â€Â“15.4),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,54511.00,4906
+Ventura,2015–2016,Age groups,18–64 years,0.07,(2.6Ã¢Â€Â“11.4),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,852964.00,59707
+Yolo,2015–2016,Age groups,18–64 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,212747.00,0
+Yuba,2015–2016,Age groups,18–64 years,0.14,(6.6Ã¢Â€Â“22.0),,,,,,,,,,,75621.00,10814
+California,2015–2016,Age groups,18–64 years,0.09,(8.1Ã¢Â€Â“10.4),,,,,,,,,,,39071323.00,3594562
+Alameda,2015–2016,Age groups,18–64 years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,1619244.00,0
+Alpine,2015–2016,Age groups,18–64 years,0.13,(1.1Ã¢Â€Â“25.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,1165.00,155
+Amador,2015–2016,Age groups,65+ years,0.13,(1.1Ã¢Â€Â“25.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,37302.00,4961
+Butte,2015–2016,Age groups,65+ years,0.12,(2.4Ã¢Â€Â“20.9),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,224301.00,26019
+Calaveras,2015–2016,Age groups,65+ years,0.13,(1.1Ã¢Â€Â“25.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,44881.00,5969
+Colusa,2015–2016,Age groups,65+ years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,22312.00,0
+Contra Costa,2015–2016,Age groups,65+ years,0.09,(3.1Ã¢Â€Â“15.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,1116385.00,101591
+Del Norte,2015–2016,Age groups,65+ years,0.09,(2.2Ã¢Â€Â“15.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,27089.00,2357
+El Dorado,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,182917.00,0
+Fresno,2015–2016,Age groups,65+ years,0.14,(5.1Ã¢Â€Â“22.8),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,980980.00,136356
+Glenn,2015–2016,Age groups,65+ years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,29000.00,0
+Humboldt,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,134825.00,0
+Imperial,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,184760.00,0
+Inyo,2015–2016,Age groups,65+ years,0.13,(1.1Ã¢Â€Â“25.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,18697.00,2487
+Kern,2015–2016,Age groups,65+ years,0.14,(2.9Ã¢Â€Â“24.9),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,884436.00,122937
+Kings,2015–2016,Age groups,65+ years,0.11,(1.3Ã¢Â€Â“20.5),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,149813.00,16330
+Lake,2015–2016,Age groups,65+ years,0.11,(1.6Ã¢Â€Â“20.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,65023.00,7022
+Lassen,2015–2016,Age groups,65+ years,0.09,(2.2Ã¢Â€Â“15.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,30988.00,2696
+Los Angeles,2015–2016,Age groups,65+ years,0.08,(5.6Ã¢Â€Â“11.2),,,,,,,,,,,10192374.00,856159
+Madera,2015–2016,Age groups,65+ years,0.12,(4.0Ã¢Â€Â“20.4),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,154982.00,18908
+Marin,2015–2016,Age groups,65+ years,0.10,(2.9Ã¢Â€Â“16.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,261663.00,24858
+Mariposa,2015–2016,Age groups,65+ years,0.13,(1.1Ã¢Â€Â“25.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,18097.00,2407
+Mendocino,2015–2016,Age groups,65+ years,0.06,(1.6Ã¢Â€Â“9.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,88379.00,4949
+Merced,2015–2016,Age groups,65+ years,0.14,(2.5Ã¢Â€Â“25.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,270156.00,37552
+Modoc,2015–2016,Age groups,65+ years,0.09,(2.2Ã¢Â€Â“15.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,9566.00,832
+Mono,2015–2016,Age groups,65+ years,0.13,(1.1Ã¢Â€Â“25.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,13762.00,1830
+Monterey,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,435658.00,0
+Napa,2015–2016,Age groups,65+ years,0.05,(0.4Ã¢Â€Â“8.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,141625.00,6373
+Nevada,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,97946.00,0
+Orange,2015–2016,Age groups,65+ years,0.11,(4.9Ã¢Â€Â“16.8),,,,,,,,,,,3165203.00,341842
+Placer,2015–2016,Age groups,65+ years,0.07,(2.4Ã¢Â€Â“11.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,371558.00,24894
+Plumas,2015–2016,Age groups,65+ years,0.09,(2.2Ã¢Â€Â“15.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,19675.00,1712
+Riverside,2015–2016,Age groups,65+ years,0.05,(1.8Ã¢Â€Â“9.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,2331040.00,125876
+Sacramento,2015–2016,Age groups,65+ years,0.08,(2.9Ã¢Â€Â“13.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,1489308.00,119145
+San Benito,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,57572.00,0
+San Bernardino,2015–2016,Age groups,65+ years,0.09,(2.6Ã¢Â€Â“16.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,2127735.00,200007
+San Diego,2015–2016,Age groups,65+ years,0.07,(4.1Ã¢Â€Â“9.9),,,,,,,,,,,3275546.00,229288
+San Francisco,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,862470.00,0
+San Joaquin,2015–2016,Age groups,65+ years,0.10,(0.9Ã¢Â€Â“19.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,728509.00,72122
+San Luis Obispo,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,276142.00,0
+San Mateo,2015–2016,Age groups,65+ years,0.13,(0.9Ã¢Â€Â“25.2),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,762327.00,99865
+Santa Barbara,2015–2016,Age groups,65+ years,0.07,(0.7Ã¢Â€Â“12.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,445444.00,29399
+Santa Clara,2015–2016,Age groups,65+ years,0.08,(2.6Ã¢Â€Â“14.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,1915407.00,158979
+Santa Cruz,2015–2016,Age groups,65+ years,0.22,(6.4Ã¢Â€Â“38.3),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,274594.00,61509
+Shasta,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,178795.00,0
+Sierra,2015–2016,Age groups,65+ years,0.09,(2.2Ã¢Â€Â“15.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,3166.00,275
+Siskiyou,2015–2016,Age groups,65+ years,0.09,(2.2Ã¢Â€Â“15.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,44563.00,3877
+Solano,2015–2016,Age groups,65+ years,0.18,(2.5Ã¢Â€Â“33.7),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,429384.00,77719
+Sonoma,2015–2016,Age groups,65+ years,0.06,(0.3Ã¢Â€Â“12.6),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,500487.00,32031
+Stanislaus,2015–2016,Age groups,65+ years,0.21,(5.3Ã¢Â€Â“35.9),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,537957.00,110819
+Sutter,2015–2016,Age groups,65+ years,0.13,(3.7Ã¢Â€Â“22.8),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,97701.00,12897
+Tehama,2015–2016,Age groups,65+ years,,,"Colusa, Glenn, and Tehama counties combined combined for analysis",Prevalence not available due to unreliable estimate,,,,,,,,,63975.00,0
+Trinity,2015–2016,Age groups,65+ years,0.09,(2.2Ã¢Â€Â“15.3),"Del Norte, Lassen, Modoc, Plumas, Sierra, Siskiyou, and Trinity counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,13583.00,1182
+Tulare,2015–2016,Age groups,65+ years,0.14,(5.5Ã¢Â€Â“22.0),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,465013.00,64172
+Tuolumne,2015–2016,Age groups,65+ years,0.13,(1.1Ã¢Â€Â“25.6),"Alpine, Amador, Calaveras, Inyo, Mariposa, Mono, and Tuolumne counties combined for analysis",Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,54511.00,7250
+Ventura,2015–2016,Age groups,65+ years,0.10,(3.5Ã¢Â€Â“16.1),,Estimate is statistically unstable. Caution is recommended when reporting or relying on statistically unstable estimates.,,,,,,,,,852964.00,83590
+Yolo,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,212747.00,0
+Yuba,2015–2016,Age groups,65+ years,,,,Prevalence not available due to unreliable estimate,,,,,,,,,75621.00,0
