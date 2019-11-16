@@ -1,0 +1,650 @@
+YEAR,COUNTY,HOSPITAL,OSHPDID,Procedure/Condition,Risk Adjuested Mortality Rate,# of Deaths,# of Cases,Hospital Ratings,LONGITUDE,LATITUDE
+2014,AAAA,STATEWIDE,,Pneumonia,3.3,2209,57609,,.,.
+2014,Alameda,Alameda Hospital,106010735,Pneumonia,2.2,3,110,As Expected,-122.25362,37.762953
+2014,Alameda,Alta Bates Summit Medical Center ? Alta Bates Campus,106010739,Pneumonia,4.2,6,124,As Expected,-122.25784,37.85633
+2014,Alameda,Highland Hospital,106010846,Pneumonia,1.9,2,156,As Expected,-122.2312,37.79917
+2014,Alameda,Kaiser Foundation Hospital ? Oakland Campus,106010856,Pneumonia,1.7,2,71,As Expected,-122.25792,37.82425
+2014,Alameda,Kaiser Foundation Hospital ? Hayward,106010858,Pneumonia,2,4,122,As Expected,-122.09338,37.62593
+2014,Alameda,Alta Bates Summit Medical Center ? Summit Campus ? Hawthorne,106010937,Pneumonia,4.4,15,242,As Expected,-122.26257,37.82106
+2014,Alameda,Saint Rose Hospital,106010967,Pneumonia,1.3,1,107,As Expected,-122.08962,37.63291
+2014,Alameda,Washington Hospital ? Fremont,106010987,Pneumonia,3.6,10,289,As Expected,-121.98006,37.55847
+2014,Alameda,San Leandro Hospital,106013619,Pneumonia,3.7,3,86,As Expected,-122.14067,37.71364
+2014,Alameda,Valleycare Medical Center,106014050,Pneumonia,0.9,3,238,Better,-121.88095,37.69206
+2014,Alameda,Kaiser Foundation Hospital ? Fremont,106014132,Pneumonia,5.3,3,38,As Expected,-121.97483,37.55055
+2014,Alameda,Eden Medical Center,106014233,Pneumonia,2.8,5,141,As Expected,-122.0874055,37.6983769
+2014,Alameda,Kaiser Foundation Hospital ? Oakland/Richmond,106014326,Pneumonia,0,0,46,As Expected,-122.25791,37.82402
+2014,Alameda,Kaiser Foundation Hospital ? San Leandro,106014337,Pneumonia,1.5,2,75,As Expected,-122.16917,37.70611
+2014,Amador,Sutter Amador Hospital,106034002,Pneumonia,9.1,7,89,Worse,-120.77272,38.34743
+2014,Butte,Biggs Gridley Memorial Hospital,106040802,Pneumonia,2.1,1,128,As Expected,-121.69058,39.36705
+2014,Butte,Feather River Hospital,106040875,Pneumonia,0.6,2,165,Better,-121.57218,39.75641
+2014,Butte,Oroville Hospital,106040937,Pneumonia,0,0,30,As Expected,-121.5428,39.50485
+2014,Butte,Enloe Medical Center ? Esplanade,106040962,Pneumonia,5.4,23,452,As Expected,-121.84922,39.74224
+2014,Calaveras,Mark Twain Medical Center,106050932,Pneumonia,8.9,3,48,As Expected,-120.67105,38.19021
+2014,Colusa,Colusa Regional Medical Center,106060870,Pneumonia,0,0,40,As Expected,-122.00031,39.20727
+2014,Contra Costa,Doctors Medical Center ? San Pablo,106070904,Pneumonia,5,8,150,As Expected,-122.33866,37.95279
+2014,Contra Costa,Contra Costa Regional Medical Center,106070924,Pneumonia,0,0,152,As Expected,-122.13101,38.00646
+2014,Contra Costa,Sutter Delta Medical Center,106070934,Pneumonia,1.4,4,211,Better,-121.8054,37.98222
+2014,Contra Costa,John Muir Medical Center ? Walnut Creek Campus,106070988,Pneumonia,3.6,9,200,As Expected,-122.04183,37.91434
+2014,Contra Costa,Kaiser Foundation Hospital ? Walnut Creek,106070990,Pneumonia,2.6,9,196,As Expected,-122.05828,37.8923
+2014,Contra Costa,John Muir Medical Center ? Concord Campus,106071018,Pneumonia,2.9,4,141,As Expected,-122.03874,37.98615
+2014,Contra Costa,San Ramon Regional Medical Center,106074017,Pneumonia,3.5,4,114,As Expected,-121.96076,37.77713
+2014,Contra Costa,Kaiser Foundation Hospital ? Antioch,106074097,Pneumonia,2.4,5,129,As Expected,-121.776854,37.951975
+2014,Del Norte,Sutter Coast Hospital,106084001,Pneumonia,0.9,2,160,Better,-124.19514,41.77278
+2014,El Dorado,Barton Memorial Hospital,106090793,Pneumonia,0,0,74,As Expected,-119.99784,38.91224
+2014,El Dorado,Marshall Medical Center,106090933,Pneumonia,1.7,5,234,Better,-120.7909638,38.72557326
+2014,Fresno,Clovis Community Medical Center,106100005,Pneumonia,2,6,298,As Expected,-119.66072,36.83745
+2014,Fresno,Coalinga Regional Medical Center,106100697,Pneumonia,0,0,19,As Expected,-120.33501,36.15096
+2014,Fresno,Community Regional Medical Center ? Fresno,106100717,Pneumonia,5.4,31,689,As Expected,-119.78324,36.74253
+2014,Fresno,Adventist Medical Center ? Reedley,106100797,Pneumonia,3.2,1,43,As Expected,-119.45145,36.60789
+2014,Fresno,Saint Agnes Medical Center,106100899,Pneumonia,4.4,30,629,As Expected,-119.7649963,36.8370782
+2014,Fresno,Kaiser Foundation Hospital ? Fresno,106104062,Pneumonia,3.2,6,123,As Expected,-119.7832,36.84246
+2014,Fresno,Fresno Heart and Surgical Hospital,106105029,Pneumonia,0,0,12,As Expected,-119.78931,36.8611
+2014,Glenn,Glenn Medical Center,106110889,Pneumonia,0,0,7,As Expected,-122.20791,39.52055
+2014,Humboldt,Mad River Community Hospital,106121002,Pneumonia,3.8,2,71,As Expected,-124.09038,40.90351
+2014,Humboldt,Jerold Phelps Community Hospital,106121031,Pneumonia,0,0,3,As Expected,-123.79286,40.10195
+2014,Humboldt,Redwood Memorial Hospital,106121051,Pneumonia,13.2,5,35,Worse,-124.13549,40.58267
+2014,Humboldt,Saint Joseph Hospital ? Eureka,106121080,Pneumonia,3.5,3,95,As Expected,-124.14216,40.7832
+2014,Imperial,El Centro Regional Medical Center,106130699,Pneumonia,2.9,11,189,As Expected,-115.49824,32.78138
+2014,Imperial,Pioneers Memorial Healthcare District,106130760,Pneumonia,1.5,3,176,As Expected,-115.55183,32.96003
+2014,Inyo,Northern Inyo Hospital,106141273,Pneumonia,2.6,1,33,As Expected,-118.40756,37.36207
+2014,Inyo,Southern Inyo Hospital,106141338,Pneumonia,100,1,4,Worse,-118.05792,36.60867
+2014,Kern,Delano Regional Medical Center,106150706,Pneumonia,4.9,6,107,As Expected,-119.23706,35.76143
+2014,Kern,Bakersfield Memorial Hospital,106150722,Pneumonia,4.3,12,300,As Expected,-119.00658,35.39051
+2014,Kern,Kern Medical Center,106150736,Pneumonia,4.7,2,66,As Expected,-118.967222,35.380833
+2014,Kern,Kern Valley Healthcare District,106150737,Pneumonia,2.3,1,72,As Expected,-118.40509,35.63486
+2014,Kern,Mercy Hospital ? Bakersfield,106150761,Pneumonia,2,5,272,As Expected,-119.02715,35.37323
+2014,Kern,Good Samaritan Hospital ? Bakersfield,106150775,Pneumonia,0,0,59,As Expected,-119.03913,35.41216
+2014,Kern,Ridgecrest Regional Hospital,106150782,Pneumonia,7.1,3,94,As Expected,-117.66996,35.6404
+2014,Kern,San Joaquin Community Hospital,106150788,Pneumonia,3.3,14,413,As Expected,-119.018775,35.383064
+2014,Kern,Tehachapi Hospital,106150808,Pneumonia,0,0,14,As Expected,-118.4482,35.13004
+2014,Kern,Bakersfield Heart Hospital,106154101,Pneumonia,4.1,8,132,As Expected,-119.04314,35.38619
+2014,Kings,Adventist Medical Center,106164029,Pneumonia,8.5,23,355,Worse,-119.6683912,36.3256247
+2014,Lake,Saint Helena Hospital ? Clearlake,106171049,Pneumonia,2.5,2,103,As Expected,-122.6201,38.93556
+2014,Lake,Sutter Lakeside Hospital,106171395,Pneumonia,0,0,83,As Expected,-122.91003,39.10232
+2014,Lassen,Banner Lassen Medical Center,106184008,Pneumonia,8.3,3,57,As Expected,-120.64609,40.42306
+2014,Los Angeles,Alhambra Hospital Medical Center,106190017,Pneumonia,0.9,2,205,Better,-118.1449,34.08988
+2014,Los Angeles,Antelope Valley Hospital,106190034,Pneumonia,9.4,39,422,Worse,-118.15767,34.68928
+2014,Los Angeles,Saint Mary Medical Center ? Long Beach,106190053,Pneumonia,4.6,9,187,As Expected,-118.1866412,33.7802376
+2014,Los Angeles,Beverly Hospital,106190081,Pneumonia,1.7,4,228,As Expected,-118.10132,34.01614
+2014,Los Angeles,Southern California Hospital At Culver City,106190110,Pneumonia,1.3,5,257,Better,-118.39724,34.02328
+2014,Los Angeles,California Hospital Medical Center ? Los Angeles,106190125,Pneumonia,4.9,5,174,As Expected,-118.26551,34.03721
+2014,Los Angeles,Centinela Hospital Medical Center,106190148,Pneumonia,0.8,3,255,Better,-118.34788,33.94917
+2014,Los Angeles,Gardens Regional Hospital and Medical Center,106190159,Pneumonia,2.9,3,101,As Expected,-118.08169,33.83352
+2014,Los Angeles,City of Hope Helford Clinical Research Hospital,106190176,Pneumonia,14.7,17,135,Worse,-117.97152,34.13216
+2014,Los Angeles,Community and Mission Hospital of Huntington Park ? Slauson,106190197,Pneumonia,4.6,5,108,As Expected,-118.22466,33.98929
+2014,Los Angeles,Los Angeles Community Hospital,106190198,Pneumonia,1.8,3,144,As Expected,-118.1875,34.01897
+2014,Los Angeles,San Gabriel Valley Medical Center,106190200,Pneumonia,3.5,11,208,As Expected,-118.10503,34.1024
+2014,Los Angeles,Lakewood Regional Medical Center,106190240,Pneumonia,4.4,9,184,As Expected,-118.14837,33.86016
+2014,Los Angeles,PIH Hospital ? Downey,106190243,Pneumonia,2,6,196,As Expected,-118.13196,33.93515
+2014,Los Angeles,East Los Angeles Doctors Hospital,106190256,Pneumonia,2,2,68,As Expected,-118.18377,34.02383
+2014,Los Angeles,Encino Hospital Medical Center,106190280,Pneumonia,0,0,19,As Expected,-118.48662,34.15686
+2014,Los Angeles,Foothill Presbyterian Hospital ? Johnston Memorial,106190298,Pneumonia,2.8,4,144,As Expected,-117.87244,34.13384
+2014,Los Angeles,Pacific Alliance Medical Center,106190307,Pneumonia,2.8,3,129,As Expected,-118.23905,34.06464
+2014,Los Angeles,Garfield Medical Center,106190315,Pneumonia,2.1,10,299,Better,-118.12302,34.06826
+2014,Los Angeles,Glendale Adventist Medical Center,106190323,Pneumonia,2.8,21,440,As Expected,-118.23109,34.14951
+2014,Los Angeles,Glendora Community Hospital,106190328,Pneumonia,1.8,3,120,As Expected,-117.86609,34.12867
+2014,Los Angeles,Greater El Monte Community Hospital,106190352,Pneumonia,2.7,6,101,As Expected,-118.04257,34.04827
+2014,Los Angeles,Southern California Hospital at Hollywood,106190380,Pneumonia,0,0,84,Better,-118.32501,34.09628
+2014,Los Angeles,Hollywood Presbyterian Medical Center,106190382,Pneumonia,5.1,14,219,As Expected,-118.29163,34.09557
+2014,Los Angeles,Providence Holy Cross Medical Center,106190385,Pneumonia,2.4,11,318,As Expected,-118.45951,34.2791
+2014,Los Angeles,Good Samaritan Hospital ? Los Angeles,106190392,Pneumonia,2.6,6,170,As Expected,-118.26522,34.05324
+2014,Los Angeles,Huntington Memorial Hospital,106190400,Pneumonia,2.8,10,353,As Expected,-118.1518,34.13565
+2014,Los Angeles,Citrus Valley Medical Center ? Inter Community Campus,106190413,Pneumonia,3.1,8,195,As Expected,-117.89264,34.08993
+2014,Los Angeles,Torrance Memorial Medical Center,106190422,Pneumonia,2.5,16,434,As Expected,-118.34388,33.81258
+2014,Los Angeles,Kaiser Foundation Hospital ? Sunset,106190429,Pneumonia,1.8,2,88,As Expected,-118.29545,34.09823
+2014,Los Angeles,Kaiser Foundation Hospital ? South Bay,106190431,Pneumonia,3.5,5,135,As Expected,-118.29415,33.789
+2014,Los Angeles,Kaiser Foundation Hospital ? Panorama City,106190432,Pneumonia,4.3,13,246,As Expected,-118.43009,34.21975
+2014,Los Angeles,Kaiser Foundation Hospital ? West Los Angeles,106190434,Pneumonia,2.4,5,149,As Expected,-118.37568,34.03793
+2014,Los Angeles,Providence Little Company of Mary Medical Center ? Torrance,106190470,Pneumonia,2.3,10,348,As Expected,-118.35708,33.83767
+2014,Los Angeles,Community Hospital Long Beach,106190475,Pneumonia,4.7,5,109,As Expected,-118.14578,33.78871
+2014,Los Angeles,Marina Del Rey Hospital,106190500,Pneumonia,1.5,2,104,As Expected,-118.43971,33.98125
+2014,Los Angeles,Providence Tarzana Medical Center,106190517,Pneumonia,4.5,18,250,As Expected,-118.53136,34.16985
+2014,Los Angeles,Memorial Hospital of Gardena,106190521,Pneumonia,3,5,159,As Expected,-118.29493,33.89246
+2014,Los Angeles,Glendale Memorial Hospital and Medical Center,106190522,Pneumonia,3.8,16,290,As Expected,-118.25769,34.1284
+2014,Los Angeles,Mission Community Hospital ? Panorama Campus,106190524,Pneumonia,1,2,116,Better,-118.45639,34.22138
+2014,Los Angeles,Long Beach Memorial Medical Center,106190525,Pneumonia,4.3,16,332,As Expected,-118.1852,33.80801
+2014,Los Angeles,Methodist Hospital of Southern California,106190529,Pneumonia,4.1,20,279,As Expected,-118.03879,34.13603
+2014,Los Angeles,Olympia Medical Center,106190534,Pneumonia,1.2,1,49,As Expected,-118.36008,34.05754
+2014,Los Angeles,Monterey Park Hospital,106190547,Pneumonia,7.4,7,106,As Expected,-118.13665,34.05308
+2014,Los Angeles,Cedars Sinai Medical Center,106190555,Pneumonia,4.4,30,558,As Expected,-118.38061,34.07681
+2014,Los Angeles,Northridge Hospital Medical Center,106190568,Pneumonia,1,3,195,Better,-118.53186,34.22075
+2014,Los Angeles,Norwalk Community Hospital,106190570,Pneumonia,1.4,2,92,As Expected,-118.0644,33.91108
+2014,Los Angeles,College Medical Center,106190587,Pneumonia,4.9,3,45,As Expected,-118.19355,33.80759
+2014,Los Angeles,Pomona Valley Hospital Medical Center,106190630,Pneumonia,2.9,10,264,As Expected,-117.75234,34.07852
+2014,Los Angeles,Presbyterian Intercommunity Hospital,106190631,Pneumonia,1.8,7,342,Better,-118.04671,33.96775
+2014,Los Angeles,Citrus Valley Medical Center ? Queen of the Valley Campus,106190636,Pneumonia,5.7,12,224,As Expected,-117.94528,34.06242
+2014,Los Angeles,Silver Lake Medical Center ? Downtown Campus,106190661,Pneumonia,4.3,3,61,As Expected,-118.26324,34.06879
+2014,Los Angeles,San Dimas Community Hospital,106190673,Pneumonia,0,0,48,As Expected,-117.83218,34.09922
+2014,Los Angeles,Providence Little Company of Mary Medical Center ? San Pedro,106190680,Pneumonia,2.9,4,116,As Expected,-118.30557,33.73798
+2014,Los Angeles,Santa Monica ? UCLA Medical Center and Orthopedic Hospital,106190687,Pneumonia,2.4,10,298,As Expected,-118.48623,34.02755
+2014,Los Angeles,Pacifica Hospital of the Valley,106190696,Pneumonia,5.5,7,69,As Expected,-118.39555,34.24088
+2014,Los Angeles,Sherman Oaks Hospital,106190708,Pneumonia,0.4,1,108,Better,-118.4488,34.15995
+2014,Los Angeles,Saint Francis Medical Center,106190754,Pneumonia,3.4,10,246,As Expected,-118.20415,33.93085
+2014,Los Angeles,Saint John?s Health Center,106190756,Pneumonia,3.2,9,212,As Expected,-118.478687,34.0298085
+2014,Los Angeles,Providence Saint Joseph Medical Center,106190758,Pneumonia,3.6,22,350,As Expected,-118.32711,34.1559
+2014,Los Angeles,Saint Vincent Medical Center,106190762,Pneumonia,1.5,5,227,Better,-118.27302,34.06311
+2014,Los Angeles,Coast Plaza Hospital,106190766,Pneumonia,5.2,6,95,As Expected,-118.09906,33.91264
+2014,Los Angeles,Temple Community Hospital,106190784,Pneumonia,2.7,1,27,As Expected,-118.28366,34.07534
+2014,Los Angeles,Ronald Reagan UCLA Medical Center,106190796,Pneumonia,2,3,129,As Expected,-118.445,34.068889
+2014,Los Angeles,Valley Presbyterian Hospital,106190812,Pneumonia,4.1,10,156,As Expected,-118.46196,34.19399
+2014,Los Angeles,University of Southern California Verdugo Hills Hospital,106190818,Pneumonia,5.6,7,173,As Expected,-118.2152,34.20557
+2014,Los Angeles,West Hills Hospital and Medical Center,106190859,Pneumonia,3.7,10,174,As Expected,-118.6294,34.20365
+2014,Los Angeles,White Memorial Medical Center,106190878,Pneumonia,0.8,2,239,Better,-118.21739,34.051
+2014,Los Angeles,Whittier Hospital Medical Center,106190883,Pneumonia,3.1,4,151,As Expected,-118.00303,33.95379
+2014,Los Angeles,Henry Mayo Newhall Hospital,106190949,Pneumonia,1.9,9,328,Better,-118.55324,34.39637
+2014,Los Angeles,Los Angeles County/Harbor ? UCLA Medical Center,106191227,Pneumonia,2.9,4,140,As Expected,-118.29332,33.83149
+2014,Los Angeles,Los Angeles County/University of Southern California Medical Center,106191228,Pneumonia,4.6,11,467,As Expected,-118.21031,34.05982
+2014,Los Angeles,Los Angeles County/Olive View ? UCLA Medical Center,106191231,Pneumonia,2.7,2,149,As Expected,-118.45255,34.32418
+2014,Los Angeles,Kaiser Foundation Hospital ? Woodland Hills,106191450,Pneumonia,1.4,6,254,Better,-118.58829,34.17198
+2014,Los Angeles,Keck Hospital of University of Southern California,106194219,Pneumonia,0,0,56,As Expected,-118.20287,34.06284
+2014,Los Angeles,Kaiser Foundation Hospital ? Baldwin Park,106196035,Pneumonia,1.5,5,265,Better,-117.986,34.06348
+2014,Los Angeles,Kaiser Foundation Hospital ? Downey,106196403,Pneumonia,3.4,15,375,As Expected,-118.1290216,33.9171234
+2014,Los Angeles,Palmdale Regional Medical Center,106196405,Pneumonia,6.7,19,282,Worse,-118.1443461,34.5843754
+2014,Madera,Madera Community Hospital,106201281,Pneumonia,6,4,140,As Expected,-120.04561,36.94535
+2014,Marin,Kaiser Foundation Hospital ? San Rafael,106210992,Pneumonia,0,0,59,As Expected,-122.55376,38.0041
+2014,Marin,Marin General Hospital,106211006,Pneumonia,3.3,8,198,As Expected,-122.53715,37.94651
+2014,Marin,Novato Community Hospital,106214034,Pneumonia,0,0,51,As Expected,-122.55887,38.09749
+2014,Mariposa,John C. Fremont Healthcare District,106220733,Pneumonia,20.2,1,17,As Expected,-119.97714,37.50126
+2014,Mendocino,Frank R. Howard Memorial Hospital,106230949,Pneumonia,7.3,1,36,As Expected,-123.34973,39.40079
+2014,Mendocino,Mendocino Coast District Hospital,106231013,Pneumonia,9.1,3,57,As Expected,-123.80068,39.4326
+2014,Mendocino,Ukiah Valley Medical Center,106231396,Pneumonia,2.3,4,141,As Expected,-123.20363,39.1528
+2014,Merced,Memorial Hospital Los Banos,106240924,Pneumonia,1.8,1,37,As Expected,-120.86147,37.06273
+2014,Merced,Mercy Medical Center ? Merced,106240942,Pneumonia,2.2,12,413,Better,-120.4651815,37.3402309
+2014,Modoc,Modoc Medical Center,106250956,Pneumonia,41.6,1,11,As Expected,-120.54407,41.48001
+2014,Mono,Mammoth Hospital,106260011,Pneumonia,0,0,12,As Expected,-118.96408,37.64524
+2014,Monterey,Community Hospital of The Monterey Peninsula,106270744,Pneumonia,4.9,13,295,As Expected,-121.92488,36.59827
+2014,Monterey,George L. Mee Memorial Hospital,106270777,Pneumonia,0,0,26,As Expected,-121.1325,36.2071
+2014,Monterey,Salinas Valley Memorial Hospital,106270875,Pneumonia,5.3,15,177,As Expected,-121.6481,36.66022
+2014,Monterey,Natividad Medical Center,106274043,Pneumonia,5.9,4,82,As Expected,-121.6297,36.69686
+2014,Napa,Queen of the Valley Hospital ? Napa,106281047,Pneumonia,3.8,6,131,As Expected,-122.296,38.32363
+2014,Napa,Saint Helena Hospital,106281078,Pneumonia,2.1,2,57,As Expected,-122.473003,38.53937349
+2014,Nevada,Sierra Nevada Memorial Hospital,106291023,Pneumonia,0.8,2,199,Better,-121.04748,39.22932
+2014,Nevada,Tahoe Forest Hospital,106291053,Pneumonia,6.7,2,36,As Expected,-120.2014553,39.3245579
+2014,Orange,Orange Coast Memorial Medical Center,106300225,Pneumonia,2.9,7,205,As Expected,-117.95524,33.70162
+2014,Orange,AHMC Anaheim Regional Medical Center,106301098,Pneumonia,3.1,8,281,As Expected,-117.93248,33.84725
+2014,Orange,Chapman Medical Center,106301140,Pneumonia,0,0,41,As Expected,-117.82586,33.78785
+2014,Orange,College Hospital Costa Mesa,106301155,Pneumonia,0,0,4,As Expected,-117.91303,33.65249
+2014,Orange,Fountain Valley Regional Hospital and Medical Center ? Euclid,106301175,Pneumonia,5.1,25,395,As Expected,-117.93694,33.71546
+2014,Orange,Western Medical Center Anaheim,106301188,Pneumonia,11.3,3,47,As Expected,-117.90921,33.8209
+2014,Orange,Hoag Memorial Hospital Presbyterian,106301205,Pneumonia,1.2,5,333,Better,-117.92949,33.62526
+2014,Orange,Huntington Beach Hospital,106301209,Pneumonia,1.1,1,60,As Expected,-117.98895,33.70442
+2014,Orange,La Palma Intercommunity Hospital,106301234,Pneumonia,2.8,5,88,As Expected,-118.03737,33.8485
+2014,Orange,Los Alamitos Medical Center,106301248,Pneumonia,6.3,14,258,As Expected,-118.0674,33.80327
+2014,Orange,Coastal Communities Hospital,106301258,Pneumonia,2.1,1,67,As Expected,-117.88539,33.71112
+2014,Orange,Mission Hospital Regional Medical Center,106301262,Pneumonia,2.2,8,309,As Expected,-117.66768,33.56279
+2014,Orange,UC Irvine Medical Center,106301279,Pneumonia,1.9,2,103,As Expected,-117.89064,33.7889
+2014,Orange,Garden Grove Hospital and Medical Center,106301283,Pneumonia,2.1,2,76,As Expected,-117.9130315,33.7745089
+2014,Orange,Placentia Linda Hospital,106301297,Pneumonia,7,4,111,As Expected,-117.8431129,33.88704521
+2014,Orange,Saddleback Memorial Medical Center,106301317,Pneumonia,2,11,336,Better,-117.70837,33.60796
+2014,Orange,Mission Hospital Laguna Beach,106301337,Pneumonia,0,0,52,As Expected,-117.7422502,33.4997391
+2014,Orange,Saint Joseph Hospital ? Orange,106301340,Pneumonia,6.7,30,375,Worse,-117.86516,33.7823
+2014,Orange,Saint Jude Medical Center,106301342,Pneumonia,3,13,259,As Expected,-117.92851,33.89349
+2014,Orange,West Anaheim Medical Center,106301379,Pneumonia,3.2,8,138,As Expected,-117.99492,33.82482
+2014,Orange,Western Medical Center ? Santa Ana,106301566,Pneumonia,1.6,1,100,As Expected,-117.83398,33.75361
+2014,Orange,Kaiser Foundation Hospital ? Orange County ? Anaheim,106304409,Pneumonia,4.6,18,381,As Expected,-117.8439815,33.8544317
+2014,Placer,Sutter Auburn Faith Hospital,106310791,Pneumonia,4.5,6,123,As Expected,-121.0982,38.94452
+2014,Placer,Sutter Roseville Medical Center,106311000,Pneumonia,2,7,323,As Expected,-121.25055,38.76439
+2014,Placer,Kaiser Foundation Hospital ? Roseville,106314024,Pneumonia,3.9,8,126,As Expected,-121.25107,38.74636
+2014,Plumas,Eastern Plumas Hospital ? Portola Campus,106320859,Pneumonia,9.5,1,26,As Expected,-120.47088,39.8052
+2014,Plumas,Plumas District Hospital,106320986,Pneumonia,0,0,31,As Expected,-120.96244,39.93938
+2014,Plumas,Seneca Healthcare District,106321016,Pneumonia,0,0,18,As Expected,-121.23421,40.30518
+2014,Riverside,Corona Regional Medical Center ? Main,106331152,Pneumonia,0.5,2,222,Better,-117.5668015,33.8733354
+2014,Riverside,Desert Regional Medical Center,106331164,Pneumonia,6.2,18,369,As Expected,-116.54549,33.83932
+2014,Riverside,Eisenhower Medical Center,106331168,Pneumonia,3.1,21,557,As Expected,-116.40808,33.76418
+2014,Riverside,Hemet Valley Medical Center,106331194,Pneumonia,4.3,17,295,As Expected,-116.95958,33.75113
+2014,Riverside,John F. Kennedy Memorial Hospital,106331216,Pneumonia,4.2,6,187,As Expected,-116.23391,33.70677
+2014,Riverside,Palo Verde Hospital,106331288,Pneumonia,25.9,3,34,Worse,-114.5956,33.61315
+2014,Riverside,Parkview Community Hospital Medical Center,106331293,Pneumonia,3.2,9,252,As Expected,-117.43996,33.92573
+2014,Riverside,Riverside Community Hospital,106331312,Pneumonia,3.6,18,436,As Expected,-117.37997,33.97641
+2014,Riverside,San Gorgonio Memorial Hospital,106331326,Pneumonia,4,6,183,As Expected,-116.94678,33.9295
+2014,Riverside,Menifee Valley Medical Center,106334018,Pneumonia,1.4,2,123,As Expected,-117.15691,33.72146
+2014,Riverside,Kaiser Foundation Hospital ? Riverside,106334025,Pneumonia,2.9,5,124,As Expected,-117.47082,33.9063
+2014,Riverside,Kaiser Foundation Hospital ? Moreno Valley,106334048,Pneumonia,3.3,3,77,As Expected,-117.18094,33.89519
+2014,Riverside,Southwest Healthcare System ? Murrieta,106334068,Pneumonia,5.2,18,317,As Expected,-117.18488,33.55788
+2014,Riverside,Riverside County Regional Medical Center,106334487,Pneumonia,4.2,7,171,As Expected,-117.19525,33.91187
+2014,Riverside,Temecula Valley Hospital,106334564,Pneumonia,3.7,6,146,As Expected,-117.1048018,33.4795943
+2014,Riverside,Loma Linda University Medical Center ? Murrieta,106334589,Pneumonia,2.5,5,161,As Expected,-117.1624483,33.6122263
+2014,Sacramento,Kaiser Foundation Hospital ? Sacramento,106340913,Pneumonia,2.3,4,90,As Expected,-121.39232,38.60197
+2014,Sacramento,Mercy General Hospital,106340947,Pneumonia,4.8,10,185,As Expected,-121.45271,38.56955
+2014,Sacramento,Mercy San Juan Hospital,106340950,Pneumonia,1.3,5,327,Better,-121.31261,38.66818
+2014,Sacramento,Methodist Hospital of Sacramento,106340951,Pneumonia,1.6,3,203,As Expected,-121.41744,38.46416
+2014,Sacramento,UC Davis Medical Center,106341006,Pneumonia,3.1,8,301,As Expected,-121.45738,38.55438
+2014,Sacramento,Sutter General Hospital,106341051,Pneumonia,3.6,7,228,As Expected,-121.47008,38.57176
+2014,Sacramento,Sutter Memorial Hospital,106341052,Pneumonia,4.6,5,94,As Expected,-121.43948,38.57071
+2014,Sacramento,Kaiser Foundation Hospital ? South Sacramento,106342344,Pneumonia,3.2,6,124,As Expected,-121.42409,38.47144
+2014,Sacramento,Mercy Hospital ? Folsom,106344029,Pneumonia,4.1,6,96,As Expected,-121.1428,38.67223
+2014,San Benito,Hazel Hawkins Memorial Hospital,106350784,Pneumonia,11.9,8,86,Worse,-121.38609,36.835
+2014,San Bernardino,Bear Valley Community Hospital,106361110,Pneumonia,0,0,29,As Expected,-116.88988,34.24728
+2014,San Bernardino,Chino Valley Medical Center,106361144,Pneumonia,3,2,49,As Expected,-117.687,34.02626
+2014,San Bernardino,Montclair Hospital Medical Center,106361166,Pneumonia,0,0,61,As Expected,-117.69603,34.07774
+2014,San Bernardino,Kaiser Foundation Hospital ? Fontana,106361223,Pneumonia,2.4,21,494,Better,-117.43549,34.0725
+2014,San Bernardino,Loma Linda University Medical Center,106361246,Pneumonia,4.3,8,179,As Expected,-117.26146,34.05164
+2014,San Bernardino,Mountains Community Hospital,106361266,Pneumonia,21.3,3,28,Worse,-117.16716,34.26583
+2014,San Bernardino,Redlands Community Hospital,106361308,Pneumonia,3.3,15,320,As Expected,-117.2044,34.03699
+2014,San Bernardino,San Antonio Community Hospital,106361318,Pneumonia,2.5,12,392,As Expected,-117.63828,34.10056
+2014,San Bernardino,Community Hospital of San Bernardino,106361323,Pneumonia,4.2,5,136,As Expected,-117.32245,34.13138
+2014,San Bernardino,Saint Bernardine Medical Center,106361339,Pneumonia,4.1,20,355,As Expected,-117.27865,34.1341
+2014,San Bernardino,Saint Mary Medical Center ? Apple Valley,106361343,Pneumonia,2.2,10,390,As Expected,-117.26535,34.54053
+2014,San Bernardino,Victor Valley Global Medical Center,106361370,Pneumonia,2.8,4,139,As Expected,-117.2925622,34.5281768
+2014,San Bernardino,Colorado River Medical Center,106361458,Pneumonia,23.8,2,38,As Expected,-114.61818,34.8325
+2014,San Bernardino,Hi-Desert Medical Center,106362041,Pneumonia,4.4,4,128,As Expected,-116.27654,34.13323
+2014,San Bernardino,Desert Valley Hospital,106364144,Pneumonia,1.2,4,220,Better,-117.29778,34.47093
+2014,San Bernardino,Arrowhead Regional Medical Center,106364231,Pneumonia,7.2,12,239,Worse,-117.3527761,34.07163215
+2014,San Bernardino,Barstow Community Hospital,106364430,Pneumonia,0.9,1,79,As Expected,-117.0168841,34.8935263
+2014,San Diego,Alvarado Hospital,106370652,Pneumonia,0.4,1,178,Better,-117.05683,32.77708
+2014,San Diego,Sharp Coronado Hospital and Healthcare Center,106370689,Pneumonia,0,0,19,As Expected,-117.16808,32.69427
+2014,San Diego,Sharp Memorial Hospital,106370694,Pneumonia,4.9,26,464,As Expected,-117.15531,32.80016
+2014,San Diego,Fallbrook Hospital District,106370705,Pneumonia,3.5,1,57,As Expected,-117.24509,33.38026
+2014,San Diego,Grossmont Hospital,106370714,Pneumonia,4.8,25,569,As Expected,-117.00924,32.77963
+2014,San Diego,Kaiser Foundation Hospital ? San Diego,106370730,Pneumonia,4.2,19,414,As Expected,-117.09447,32.79287
+2014,San Diego,Scripps Mercy Hospital,106370744,Pneumonia,1.6,11,551,Better,-117.1609,32.75128
+2014,San Diego,Palomar Health Downtown Campus,106370755,Pneumonia,3.2,19,507,As Expected,-117.07585,33.12622
+2014,San Diego,Paradise Valley Hospital,106370759,Pneumonia,0,0,68,As Expected,-117.0830382,32.6863293
+2014,San Diego,Scripps Memorial Hospital ? La Jolla,106370771,Pneumonia,1.2,4,178,Better,-117.22279,32.88506
+2014,San Diego,Tri-City Medical Center ? Oceanside,106370780,Pneumonia,5.6,14,277,As Expected,-117.29027,33.18394
+2014,San Diego,UC San Diego Health System ? Hillcrest Medical Center,106370782,Pneumonia,2.7,8,297,As Expected,-117.16498,32.75387
+2014,San Diego,Sharp Chula Vista Medical Center,106370875,Pneumonia,2.8,12,311,As Expected,-117.02488,32.61909
+2014,San Diego,Pomerado Hospital,106370977,Pneumonia,3.1,8,185,As Expected,-117.05784,32.99563
+2014,San Diego,Scripps Green Hospital,106371256,Pneumonia,0,0,85,Better,-117.2419,32.89654
+2014,San Diego,Scripps Memorial Hospital ? Encinitas,106371394,Pneumonia,4.2,10,147,As Expected,-117.28495,33.0363
+2014,San Francisco,Kaiser Foundation Hospital ? San Francisco,106380857,Pneumonia,1.6,2,62,As Expected,-122.44289,37.78274
+2014,San Francisco,Laguna Honda Hospital and Rehabilitation Center,106380865,Pneumonia,0,0,17,As Expected,-122.45871,37.74761
+2014,San Francisco,California Pacific Medical Center ? Pacific Campus,106380929,Pneumonia,2.5,8,251,As Expected,-122.43102,37.79149
+2014,San Francisco,California Pacific Medical Center ? Davies Campus,106380933,Pneumonia,1.4,1,74,As Expected,-122.43465,37.7691
+2014,San Francisco,San Francisco General Hospital,106380939,Pneumonia,2.6,4,270,As Expected,-122.40637,37.75657
+2014,San Francisco,Saint Francis Memorial Hospital,106380960,Pneumonia,2.9,5,151,As Expected,-122.41695,37.78917
+2014,San Francisco,California Pacific Medical Center ? St. Luke?s Campus,106380964,Pneumonia,3,4,86,As Expected,-122.42052,37.74799
+2014,San Francisco,"Saint Mary?s Medical Center, San Francisco",106380965,Pneumonia,1.4,2,81,As Expected,-122.45441,37.77408
+2014,San Francisco,UC San Francisco Medical Center,106381154,Pneumonia,2.5,7,257,As Expected,-122.4576564,37.7635148
+2014,San Francisco,Chinese Hospital,106382715,Pneumonia,4.1,7,134,As Expected,-122.40926,37.79565
+2014,San Joaquin,Dameron Hospital,106390846,Pneumonia,3.5,8,176,As Expected,-121.30061,37.9613
+2014,San Joaquin,Lodi Memorial Hospital,106390923,Pneumonia,2.4,6,343,As Expected,-121.2859,38.12146
+2014,San Joaquin,San Joaquin General Hospital,106391010,Pneumonia,1.7,2,96,As Expected,-121.28918,37.88594
+2014,San Joaquin,Saint Joseph?s Medical Center of Stockton,106391042,Pneumonia,4.2,17,292,As Expected,-121.2891,37.97075
+2014,San Joaquin,Sutter Tracy Community Hospital,106391056,Pneumonia,2.5,2,93,As Expected,-121.43482,37.74366
+2014,San Joaquin,Doctors Hospital of Manteca,106392287,Pneumonia,4.3,5,124,As Expected,-121.19818,37.80118
+2014,San Joaquin,Kaiser Foundation Hospital ? Manteca,106394009,Pneumonia,2.5,4,91,As Expected,-121.24612,37.79751
+2014,San Luis Obispo,Marian Regional Medical Center ? Arroyo Grande,106400466,Pneumonia,3.2,2,66,As Expected,-120.59147,35.11369
+2014,San Luis Obispo,French Hospital Medical Center,106400480,Pneumonia,3.3,4,69,As Expected,-120.64977,35.27801
+2014,San Luis Obispo,Sierra Vista Regional Medical Center,106400524,Pneumonia,3.9,2,74,As Expected,-120.66576,35.29105
+2014,San Luis Obispo,Twin Cities Community Hospital,106400548,Pneumonia,3.9,5,145,As Expected,-120.71967,35.5543
+2014,San Mateo,San Mateo Medical Center,106410782,Pneumonia,5.2,4,116,As Expected,-122.29951,37.53017
+2014,San Mateo,Kaiser Foundation Hospital ? South San Francisco,106410806,Pneumonia,3.7,7,102,As Expected,-122.43837,37.65806
+2014,San Mateo,Seton Medical Center,106410817,Pneumonia,4.5,12,210,As Expected,-122.47283,37.68172
+2014,San Mateo,Peninsula Medical Center,106410852,Pneumonia,1.6,5,217,Better,-122.3832465,37.5944692
+2014,San Mateo,Sequoia Hospital,106410891,Pneumonia,3.9,5,110,As Expected,-122.25377,37.48129
+2014,San Mateo,Kaiser Foundation Hospital ? Redwood City,106414139,Pneumonia,6,10,85,As Expected,-122.22463,37.48967
+2014,Santa Barbara,Goleta Valley Cottage Hospital,106420483,Pneumonia,0,0,25,As Expected,-119.80929,34.43336
+2014,Santa Barbara,Lompoc Valley Medical Center,106420491,Pneumonia,3.3,3,84,As Expected,-120.4396497,34.639252
+2014,Santa Barbara,Marian Regional Medical Center,106420493,Pneumonia,3.8,9,147,As Expected,-120.41338,34.95198
+2014,Santa Barbara,Santa Barbara Cottage Hospital,106420514,Pneumonia,2.8,9,287,As Expected,-119.72318,34.42943
+2014,Santa Barbara,Santa Ynez Valley Cottage Hospital,106420522,Pneumonia,9,2,23,As Expected,-120.126198,34.602458
+2014,Santa Clara,Regional Medical of San Jose,106430705,Pneumonia,2.3,10,373,As Expected,-121.84837,37.36332
+2014,Santa Clara,El Camino Hospital,106430763,Pneumonia,4.5,14,329,As Expected,-122.07801,37.36779
+2014,Santa Clara,Good Samaritan Hospital ? San Jose,106430779,Pneumonia,5.1,15,240,As Expected,-121.9449,37.25116
+2014,Santa Clara,O?Connor Hospital,106430837,Pneumonia,5.7,16,214,As Expected,-121.93727,37.32714
+2014,Santa Clara,Santa Clara Valley Medical Center,106430883,Pneumonia,1.9,4,242,As Expected,-121.93202,37.31346
+2014,Santa Clara,Stanford Hospital,106430905,Pneumonia,2,5,297,As Expected,-122.17827,37.43342
+2014,Santa Clara,Kaiser Foundation Hospital ? San Jose,106431506,Pneumonia,4.7,7,103,As Expected,-121.80269,37.23924
+2014,Santa Clara,Saint Louise Regional Hospital,106434138,Pneumonia,3.3,5,115,As Expected,-121.57411,37.03731
+2014,Santa Clara,Kaiser Foundation Hospital ? Santa Clara,106434153,Pneumonia,1.7,5,144,Better,-121.995774,37.334597
+2014,Santa Cruz,Dominican Hospital,106440755,Pneumonia,2.8,6,234,As Expected,-121.98489,36.98806
+2014,Santa Cruz,Watsonville Community Hospital,106444013,Pneumonia,3.5,4,128,As Expected,-121.79173,36.92839
+2014,Shasta,Mayers Memorial Hospital,106450936,Pneumonia,0,0,17,As Expected,-121.42442,41.02423
+2014,Shasta,Shasta Regional Medical Center,106450940,Pneumonia,2.3,6,207,As Expected,-122.3862952,40.5855423
+2014,Shasta,Mercy Medical Center ? Redding,106450949,Pneumonia,4.3,18,299,As Expected,-122.39742,40.57204
+2014,Siskiyou,Mercy Medical Center Mt. Shasta,106470871,Pneumonia,8.1,2,55,As Expected,-122.323,41.31896
+2014,Siskiyou,Fairchild Medical Center,106474007,Pneumonia,6.5,3,111,As Expected,-122.64353,41.71865
+2014,Solano,Kaiser Foundation Hospital ? Rehabilitation Center Vallejo,106480989,Pneumonia,2.7,6,108,As Expected,-122.24761,38.12839
+2014,Solano,Sutter Solano Medical Center,106481094,Pneumonia,4.2,4,102,As Expected,-122.23912,38.13117
+2014,Solano,North Bay Medical Center,106481357,Pneumonia,3.4,11,276,As Expected,-122.05076,38.26097
+2014,Solano,Kaiser Foundation Hospital ? Vacaville,106484044,Pneumonia,1.7,3,122,As Expected,-121.9373177,38.3894968
+2014,Sonoma,Sutter Medical Center of Santa Rosa,106490919,Pneumonia,2.9,3,75,As Expected,-122.70739,38.46855
+2014,Sonoma,Healdsburg District Hospital,106490964,Pneumonia,6.7,2,36,As Expected,-122.86385,38.62764
+2014,Sonoma,Petaluma Valley Hospital,106491001,Pneumonia,2.8,3,88,As Expected,-122.63302,38.25323
+2014,Sonoma,Santa Rosa Memorial Hospital ? Montgomery,106491064,Pneumonia,3.3,9,231,As Expected,-122.70114,38.44304
+2014,Sonoma,Sonoma Valley Hospital,106491076,Pneumonia,0,0,22,As Expected,-122.46524,38.28841
+2014,Sonoma,Palm Drive Hospital,106491338,Pneumonia,5.9,1,15,As Expected,-122.82111,38.39836
+2014,Sonoma,Kaiser Foundation Hospital ? Santa Rosa,106494019,Pneumonia,2.8,6,117,As Expected,-122.73119,38.47087
+2014,Sonoma,Sutter Santa Rosa Regional Hospital,106494106,Pneumonia,4.1,1,17,As Expected,-122.7514,38.49636
+2014,Stanislaus,Doctors Medical Center,106500852,Pneumonia,4.2,18,592,As Expected,-120.99631,37.66439
+2014,Stanislaus,Emanuel Medical Center,106500867,Pneumonia,2.3,7,327,As Expected,-120.83966,37.51052
+2014,Stanislaus,Memorial Hospital Medical Center ? Modesto,106500939,Pneumonia,1.4,7,389,Better,-120.97546,37.66727
+2014,Stanislaus,Oak Valley District Hospital,106500967,Pneumonia,16.2,5,53,Worse,-120.86031,37.75782
+2014,Tehama,Saint Elizabeth Community Hospital,106521041,Pneumonia,6.9,7,114,As Expected,-122.21887,40.1495
+2014,Trinity,Trinity Hospital,106531059,Pneumonia,12.2,2,43,As Expected,-122.94037,40.73784
+2014,Tulare,Kaweah Delta Medical Center,106540734,Pneumonia,1.3,10,595,Better,-119.29345,36.32753
+2014,Tulare,Sierra View Medical Center,106540798,Pneumonia,14.9,28,284,Worse,-119.02727,36.06948
+2014,Tulare,Tulare Regional Medical Center,106540816,Pneumonia,8.1,17,163,Worse,-119.33775,36.22217
+2014,Tuolumne,Sonora Regional Medical Center ? Greenley,106554011,Pneumonia,1.5,3,165,As Expected,-120.36965,37.98811
+2014,Ventura,Community Memorial Hospital ? San Buenaventura,106560473,Pneumonia,4.9,12,236,As Expected,-119.258124,34.274589
+2014,Ventura,Ventura County Medical Center,106560481,Pneumonia,2.9,2,115,As Expected,-119.2517,34.27634
+2014,Ventura,Los Robles Hospital and Medical Center,106560492,Pneumonia,3.5,11,268,As Expected,-118.89297,34.20539
+2014,Ventura,Ojai Valley Community Hospital,106560501,Pneumonia,3.2,1,26,As Expected,-119.26311,34.44221
+2014,Ventura,Saint John?s Pleasant Valley Hospital,106560508,Pneumonia,4.7,6,123,As Expected,-119.018,34.24177
+2014,Ventura,Simi Valley Hospital and Healthcare Services ? Sycamore,106560525,Pneumonia,1.7,3,128,As Expected,-118.74405,34.28945
+2014,Ventura,Saint John?s Regional Medical Center,106560529,Pneumonia,4.8,18,259,As Expected,-119.15819,34.21687
+2014,Yolo,Woodland Memorial Hospital,106571086,Pneumonia,4,4,83,As Expected,-121.7933,38.66284
+2014,Yolo,Sutter Davis Hospital,106574010,Pneumonia,1.6,1,66,As Expected,-121.77244,38.56154
+2014,Yuba,Rideout Memorial Hospital,106580996,Pneumonia,4.2,20,407,As Expected,-121.594363,39.138222
+2015,AAAA,STATEWIDE,,Pneumonia,3.3,1547,46752,,.,.
+2015,Alameda,Alameda Hospital,106010735,Pneumonia,1.9,1,56,As Expected,-122.25362,37.762953
+2015,Alameda,Alta Bates Summit Medical Center ñ Alta Bates Campus,106010739,Pneumonia,2.4,5,111,As Expected,-122.25784,37.85633
+2015,Alameda,Highland Hospital,106010846,Pneumonia,2.4,2,121,As Expected,-122.2312,37.79917
+2015,Alameda,Alta Bates Summit Medical Center,106010937,Pneumonia,1.8,6,171,As Expected,-122.26257,37.82106
+2015,Alameda,Saint Rose Hospital,106010967,Pneumonia,0.7,1,125,As Expected,-122.08962,37.63291
+2015,Alameda,Washington Hospital ñ Fremont,106010987,Pneumonia,4.9,19,296,As Expected,-121.98006,37.55847
+2015,Alameda,San Leandro Hospital,106013619,Pneumonia,1.3,1,74,As Expected,-122.14067,37.71364
+2015,Alameda,Valleycare Medical Center,106014050,Pneumonia,0.6,2,216,Better,-121.88095,37.69206
+2015,Alameda,Kaiser Foundation Hospital ñ Fremont,106014132,Pneumonia,3,8,113,As Expected,-121.97483,37.55055
+2015,Alameda,Eden Medical Center,106014233,Pneumonia,0.8,2,123,Better,-122.0874055,37.6983769
+2015,Alameda,Kaiser Foundation Hospital ñ Oakland/Richmond,106014326,Pneumonia,1.4,3,105,As Expected,-122.25791,37.82402
+2015,Alameda,Kaiser Foundation Hospital ñ San Leandro,106014337,Pneumonia,3,12,179,As Expected,-122.16917,37.70611
+2015,Amador,Sutter Amador Hospital,106034002,Pneumonia,3.5,4,87,As Expected,-120.77272,38.34743
+2015,Butte,Orchard Hospital,106040802,Pneumonia,0,0,51,As Expected,-121.69058,39.36705
+2015,Butte,Feather River Hospital,106040875,Pneumonia,1.5,3,100,As Expected,-121.57218,39.75641
+2015,Butte,Oroville Hospital,106040937,Pneumonia,0,0,8,As Expected,-121.5428,39.50485
+2015,Butte,Enloe Medical Center ñ Esplanade,106040962,Pneumonia,3.1,15,306,As Expected,-121.84922,39.74224
+2015,Calaveras,Mark Twain Medical Center,106050932,Pneumonia,0,0,43,As Expected,-120.67105,38.19021
+2015,Colusa,Colusa Regional Medical Center,106060870,Pneumonia,0,0,31,As Expected,-122.00031,39.20727
+2015,Contra Costa,Doctors Medical Center ñ San Pablo,106070904,Pneumonia,1.6,1,29,As Expected,-122.33866,37.95279
+2015,Contra Costa,Contra Costa Regional Medical Center,106070924,Pneumonia,1.9,2,108,As Expected,-122.13101,38.00646
+2015,Contra Costa,Sutter Delta Medical Center,106070934,Pneumonia,0.8,2,165,Better,-121.8054,37.98222
+2015,Contra Costa,John Muir Medical Center ñ Walnut Creek Campus,106070988,Pneumonia,2.2,9,216,As Expected,-122.04183,37.91434
+2015,Contra Costa,Kaiser Foundation Hospital ñ Walnut Creek,106070990,Pneumonia,1.6,7,265,Better,-122.05828,37.8923
+2015,Contra Costa,John Muir Medical Center ñ Concord Campus,106071018,Pneumonia,2,4,175,As Expected,-122.03874,37.98615
+2015,Contra Costa,San Ramon Regional Medical Center,106074017,Pneumonia,1.3,2,115,As Expected,-121.96076,37.77713
+2015,Contra Costa,Kaiser Foundation Hospital ñ Antioch,106074097,Pneumonia,3.7,6,108,As Expected,-121.776854,37.951975
+2015,Del Norte,Sutter Coast Hospital,106084001,Pneumonia,0,0,73,Better,-124.19514,41.77278
+2015,El Dorado,Barton Memorial Hospital,106090793,Pneumonia,1.8,1,69,As Expected,-119.99784,38.91224
+2015,El Dorado,Marshall Medical Center,106090933,Pneumonia,1.7,6,210,As Expected,-120.7909638,38.72557326
+2015,Fresno,Clovis Community Medical Center,106100005,Pneumonia,1.8,6,226,As Expected,-119.66072,36.83745
+2015,Fresno,Coalinga Regional Medical Center,106100697,Pneumonia,0,0,14,As Expected,-120.33501,36.15096
+2015,Fresno,Community Regional Medical Center ñ Fresno,106100717,Pneumonia,3.5,18,486,As Expected,-119.78324,36.74253
+2015,Fresno,Adventist Medical Center ñ Reedley,106100797,Pneumonia,0,0,40,As Expected,-119.45145,36.60789
+2015,Fresno,Saint Agnes Medical Center,106100899,Pneumonia,2.7,16,473,As Expected,-119.7649963,36.8370782
+2015,Fresno,Kaiser Foundation Hospital ñ Fresno,106104062,Pneumonia,5.2,11,109,As Expected,-119.7832,36.84246
+2015,Fresno,Fresno Heart and Surgical Hospital,106105029,Pneumonia,0,0,14,As Expected,-119.78931,36.8611
+2015,Glenn,Glenn Medical Center,106110889,Pneumonia,0,0,9,As Expected,-122.20791,39.52055
+2015,Humboldt,Mad River Community Hospital,106121002,Pneumonia,1.4,1,68,As Expected,-124.09038,40.90351
+2015,Humboldt,Jerold Phelps Community Hospital,106121031,Pneumonia,0,0,6,As Expected,-123.79286,40.10195
+2015,Humboldt,Redwood Memorial Hospital,106121051,Pneumonia,13.9,3,29,As Expected,-124.13549,40.58267
+2015,Humboldt,Saint Joseph Hospital ñ Eureka,106121080,Pneumonia,3,3,85,As Expected,-124.14216,40.7832
+2015,Imperial,El Centro Regional Medical Center,106130699,Pneumonia,0.9,2,134,Better,-115.49824,32.78138
+2015,Imperial,Pioneers Memorial Healthcare District,106130760,Pneumonia,1.9,3,130,As Expected,-115.55183,32.96003
+2015,Inyo,Northern Inyo Hospital,106141273,Pneumonia,2.6,1,24,As Expected,-118.40756,37.36207
+2015,Kern,Delano Regional Medical Center,106150706,Pneumonia,0,0,73,As Expected,-119.23706,35.76143
+2015,Kern,Bakersfield Memorial Hospital,106150722,Pneumonia,3.9,9,217,As Expected,-119.00658,35.39051
+2015,Kern,Kern Medical Center,106150736,Pneumonia,8.5,3,50,As Expected,-118.967222,35.380833
+2015,Kern,Kern Valley Healthcare District,106150737,Pneumonia,2.7,1,76,As Expected,-118.40509,35.63486
+2015,Kern,Mercy Hospital ñ Bakersfield,106150761,Pneumonia,1.5,4,244,As Expected,-119.02715,35.37323
+2015,Kern,Good Samaritan Hospital ñ Bakersfield,106150775,Pneumonia,0,0,58,As Expected,-119.03913,35.41216
+2015,Kern,Ridgecrest Regional Hospital,106150782,Pneumonia,5.5,4,65,As Expected,-117.66996,35.6404
+2015,Kern,San Joaquin Community Hospital,106150788,Pneumonia,2.6,9,254,As Expected,-119.018775,35.383064
+2015,Kern,Tehachapi Hospital,106150808,Pneumonia,0,0,9,As Expected,-118.4482,35.13004
+2015,Kern,Bakersfield Heart Hospital,106154101,Pneumonia,1.7,2,109,As Expected,-119.04314,35.38619
+2015,Kings,Adventist Medical Center,106164029,Pneumonia,2.6,6,221,As Expected,-119.6683912,36.3256247
+2015,Lake,Saint Helena Hospital ñ Clearlake,106171049,Pneumonia,4,3,70,As Expected,-122.6201,38.93556
+2015,Lake,Sutter Lakeside Hospital,106171395,Pneumonia,5.2,3,66,As Expected,-122.91003,39.10232
+2015,Lassen,Banner Lassen Medical Center,106184008,Pneumonia,0,0,43,As Expected,-120.64609,40.42306
+2015,Los Angeles,Alhambra Hospital Medical Center,106190017,Pneumonia,2.5,10,190,As Expected,-118.1449,34.08988
+2015,Los Angeles,Antelope Valley Hospital,106190034,Pneumonia,5.9,19,312,Worse,-118.15767,34.68928
+2015,Los Angeles,Saint Mary Medical Center ñ Long Beach,106190053,Pneumonia,1.8,3,123,As Expected,-118.1866412,33.7802376
+2015,Los Angeles,Beverly Hospital,106190081,Pneumonia,1.3,4,186,Better,-118.10132,34.01614
+2015,Los Angeles,Southern California Hospital at Culver City,106190110,Pneumonia,1.1,3,143,Better,-118.39724,34.02328
+2015,Los Angeles,California Hospital Medical Center ñ Los Angeles,106190125,Pneumonia,1.1,1,132,As Expected,-118.26551,34.03721
+2015,Los Angeles,Centinela Hospital Medical Center,106190148,Pneumonia,0.3,1,191,Better,-118.34788,33.94917
+2015,Los Angeles,Gardens Regional Hospital and Medical Center,106190159,Pneumonia,1.5,2,75,As Expected,-118.08169,33.83352
+2015,Los Angeles,City of Hope Helford Clinical Research Hospital,106190176,Pneumonia,7.8,8,93,Worse,-117.97152,34.13216
+2015,Los Angeles,Community and Mission Hospital of Huntington Park ñ Slauson,106190197,Pneumonia,3.1,2,68,As Expected,-118.22466,33.98929
+2015,Los Angeles,Los Angeles Community Hospital,106190198,Pneumonia,1.9,3,95,As Expected,-118.1875,34.01897
+2015,Los Angeles,San Gabriel Valley Medical Center,106190200,Pneumonia,3.3,12,231,As Expected,-118.10503,34.1024
+2015,Los Angeles,Lakewood Regional Medical Center,106190240,Pneumonia,2.5,7,202,As Expected,-118.14837,33.86016
+2015,Los Angeles,PIH Hospital ñ Downey,106190243,Pneumonia,0.6,2,159,Better,-118.13196,33.93515
+2015,Los Angeles,East Los Angeles Doctors Hospital,106190256,Pneumonia,5.2,4,76,As Expected,-118.18377,34.02383
+2015,Los Angeles,Encino Hospital Medical Center,106190280,Pneumonia,0,0,32,As Expected,-118.48662,34.15686
+2015,Los Angeles,Foothill Presbyterian Hospital ñ Johnston Memorial,106190298,Pneumonia,1.1,2,145,As Expected,-117.87244,34.13384
+2015,Los Angeles,Pacific Alliance Medical Center,106190307,Pneumonia,1.8,2,95,As Expected,-118.23905,34.06464
+2015,Los Angeles,Garfield Medical Center,106190315,Pneumonia,4.2,19,282,As Expected,-118.12302,34.06826
+2015,Los Angeles,Glendale Adventist Medical Center,106190323,Pneumonia,2.1,17,403,Better,-118.23109,34.14951
+2015,Los Angeles,Glendora Community Hospital,106190328,Pneumonia,1.9,2,59,As Expected,-117.86609,34.12867
+2015,Los Angeles,Greater El Monte Community Hospital,106190352,Pneumonia,0,0,96,Better,-118.04257,34.04827
+2015,Los Angeles,Southern California Hospital at Hollywood,106190380,Pneumonia,1,1,82,As Expected,-118.32501,34.09628
+2015,Los Angeles,Hollywood Presbyterian Medical Center,106190382,Pneumonia,2.6,5,154,As Expected,-118.29163,34.09557
+2015,Los Angeles,Providence Holy Cross Medical Center,106190385,Pneumonia,0.9,5,297,Better,-118.45951,34.2791
+2015,Los Angeles,Good Samaritan Hospital ñ Los Angeles,106190392,Pneumonia,2.4,6,143,As Expected,-118.26522,34.05324
+2015,Los Angeles,Huntington Memorial Hospital,106190400,Pneumonia,2.5,12,314,As Expected,-118.1518,34.13565
+2015,Los Angeles,Citrus Valley Medical Center ñ Inter Community Campus,106190413,Pneumonia,1.6,3,113,As Expected,-117.89264,34.08993
+2015,Los Angeles,Torrance Memorial Medical Center,106190422,Pneumonia,2.4,16,367,As Expected,-118.34388,33.81258
+2015,Los Angeles,Kaiser Foundation Hospital ñ Sunset,106190429,Pneumonia,3,5,92,As Expected,-118.29545,34.09823
+2015,Los Angeles,Kaiser Foundation Hospital ñ South Bay,106190431,Pneumonia,2.1,3,100,As Expected,-118.29415,33.789
+2015,Los Angeles,Kaiser Foundation Hospital ñ Panorama City,106190432,Pneumonia,3.6,11,167,As Expected,-118.43009,34.21975
+2015,Los Angeles,Kaiser Foundation Hospital ñ West Los Angeles,106190434,Pneumonia,2.2,4,108,As Expected,-118.37568,34.03793
+2015,Los Angeles,Providence Little Company of Mary Medical Center ñ Torrance,106190470,Pneumonia,1.8,11,367,Better,-118.35708,33.83767
+2015,Los Angeles,Community Hospital Long Beach,106190475,Pneumonia,3,7,109,As Expected,-118.14578,33.78871
+2015,Los Angeles,Marina Del Rey Hospital,106190500,Pneumonia,1.8,2,81,As Expected,-118.43971,33.98125
+2015,Los Angeles,Providence Tarzana Medical Center,106190517,Pneumonia,1.2,4,181,Better,-118.53136,34.16985
+2015,Los Angeles,Memorial Hospital of Gardena,106190521,Pneumonia,3,4,93,As Expected,-118.29493,33.89246
+2015,Los Angeles,Glendale Memorial Hospital and Medical Center,106190522,Pneumonia,1.4,5,224,Better,-118.25769,34.1284
+2015,Los Angeles,Mission Community Hospital ñ Panorama Campus,106190524,Pneumonia,2.8,6,99,As Expected,-118.45639,34.22138
+2015,Los Angeles,Long Beach Memorial Medical Center,106190525,Pneumonia,3.2,9,266,As Expected,-118.1852,33.80801
+2015,Los Angeles,Methodist Hospital of Southern California,106190529,Pneumonia,1.9,13,277,Better,-118.03879,34.13603
+2015,Los Angeles,Olympia Medical Center,106190534,Pneumonia,2.3,5,104,As Expected,-118.36008,34.05754
+2015,Los Angeles,Monterey Park Hospital,106190547,Pneumonia,0,0,92,As Expected,-118.13665,34.05308
+2015,Los Angeles,Cedars Sinai Medical Center,106190555,Pneumonia,1.8,11,424,Better,-118.38061,34.07681
+2015,Los Angeles,Northridge Hospital Medical Center,106190568,Pneumonia,2.3,7,188,As Expected,-118.53186,34.22075
+2015,Los Angeles,Norwalk Community Hospital,106190570,Pneumonia,0.9,1,47,As Expected,-118.0644,33.91108
+2015,Los Angeles,College Medical Center,106190587,Pneumonia,5.1,3,41,As Expected,-118.19355,33.80759
+2015,Los Angeles,Pomona Valley Hospital Medical Center,106190630,Pneumonia,2.7,10,199,As Expected,-117.75234,34.07852
+2015,Los Angeles,Presbyterian Intercommunity Hospital,106190631,Pneumonia,1.5,7,293,Better,-118.04671,33.96775
+2015,Los Angeles,Citrus Valley Medical Center ñ Queen of the Valley Campus,106190636,Pneumonia,1.6,4,218,As Expected,-117.94528,34.06242
+2015,Los Angeles,Silver Lake Medical Center ñ Downtown Campus,106190661,Pneumonia,3.8,6,88,As Expected,-118.26324,34.06879
+2015,Los Angeles,San Dimas Community Hospital,106190673,Pneumonia,0,0,31,As Expected,-117.83218,34.09922
+2015,Los Angeles,Providence Little Company of Mary Medical Center ñ San Pedro,106190680,Pneumonia,0,0,103,Better,-118.30557,33.73798
+2015,Los Angeles,Santa Monica ñ UCLA Medical Center and Orthopedic Hospital,106190687,Pneumonia,0.5,2,214,Better,-118.48623,34.02755
+2015,Los Angeles,Pacifica Hospital of the Valley,106190696,Pneumonia,3.6,3,68,As Expected,-118.39555,34.24088
+2015,Los Angeles,Sherman Oaks Hospital,106190708,Pneumonia,0.6,2,101,Better,-118.4488,34.15995
+2015,Los Angeles,Saint Francis Medical Center,106190754,Pneumonia,1.4,3,162,As Expected,-118.20415,33.93085
+2015,Los Angeles,Providence Saint Johnís Health Center,106190756,Pneumonia,4.2,14,191,As Expected,-118.478687,34.0298085
+2015,Los Angeles,Providence Saint Joseph Medical Center,106190758,Pneumonia,2.2,11,260,As Expected,-118.32711,34.1559
+2015,Los Angeles,Saint Vincent Medical Center,106190762,Pneumonia,1.8,7,241,As Expected,-118.27302,34.06311
+2015,Los Angeles,Coast Plaza Hospital,106190766,Pneumonia,4.2,3,85,As Expected,-118.09906,33.91264
+2015,Los Angeles,Ronald Reagan UCLA Medical Center,106190796,Pneumonia,4.6,9,139,As Expected,-118.445,34.068889
+2015,Los Angeles,Valley Presbyterian Hospital,106190812,Pneumonia,0,0,128,Better,-118.46196,34.19399
+2015,Los Angeles,University of Southern California Verdugo Hills Hospital,106190818,Pneumonia,2,3,113,As Expected,-118.2152,34.20557
+2015,Los Angeles,"Doctors Hospital of West Covina, Inc.",106190857,Pneumonia,0,0,14,As Expected,-117.94505,34.07042
+2015,Los Angeles,West Hills Hospital and Medical Center,106190859,Pneumonia,1.5,4,144,As Expected,-118.6294,34.20365
+2015,Los Angeles,White Memorial Medical Center,106190878,Pneumonia,2.4,5,151,As Expected,-118.21739,34.051
+2015,Los Angeles,Whittier Hospital Medical Center,106190883,Pneumonia,4.4,8,143,As Expected,-118.00303,33.95379
+2015,Los Angeles,Henry Mayo Newhall Hospital,106190949,Pneumonia,0,0,256,Better,-118.55324,34.39637
+2015,Los Angeles,Los Angeles County/Harbor ñ UCLA Medical Center,106191227,Pneumonia,2,2,96,As Expected,-118.29332,33.83149
+2015,Los Angeles,Los Angeles County/University of Southern California Medical Center,106191228,Pneumonia,3.3,9,251,As Expected,-118.21031,34.05982
+2015,Los Angeles,Los Angeles County/Olive View ñ UCLA Medical Center,106191231,Pneumonia,0,0,98,As Expected,-118.45255,34.32418
+2015,Los Angeles,Kaiser Foundation Hospital ñ Woodland Hills,106191450,Pneumonia,1.4,7,231,Better,-118.58829,34.17198
+2015,Los Angeles,Keck Hospital of University of Southern California,106194219,Pneumonia,6.8,5,40,As Expected,-118.20287,34.06284
+2015,Los Angeles,Kaiser Foundation Hospital ñ Baldwin Park,106196035,Pneumonia,1.7,6,223,As Expected,-117.986,34.06348
+2015,Los Angeles,Kaiser Foundation Hospital ñ Downey,106196403,Pneumonia,3.8,15,303,As Expected,-118.1290216,33.9171234
+2015,Los Angeles,Palmdale Regional Medical Center,106196405,Pneumonia,5.7,14,222,As Expected,-118.1443461,34.5843754
+2015,Madera,Madera Community Hospital,106201281,Pneumonia,1.5,1,82,As Expected,-120.04561,36.94535
+2015,Marin,Kaiser Foundation Hospital ñ San Rafael,106210992,Pneumonia,1.8,3,97,As Expected,-122.55376,38.0041
+2015,Marin,Marin General Hospital,106211006,Pneumonia,1.5,4,167,As Expected,-122.53715,37.94651
+2015,Marin,Novato Community Hospital,106214034,Pneumonia,2,1,39,As Expected,-122.55887,38.09749
+2015,Mariposa,John C. Fremont Healthcare District,106220733,Pneumonia,0,0,11,As Expected,-119.97714,37.50126
+2015,Mendocino,Frank R. Howard Memorial Hospital,106230949,Pneumonia,0,0,36,As Expected,-123.34973,39.40079
+2015,Mendocino,Mendocino Coast District Hospital,106231013,Pneumonia,6,2,35,As Expected,-123.80068,39.4326
+2015,Mendocino,Ukiah Valley Medical Center,106231396,Pneumonia,1.3,2,74,As Expected,-123.20363,39.1528
+2015,Merced,Memorial Hospital Los Banos,106240924,Pneumonia,1.3,1,36,As Expected,-120.86147,37.06273
+2015,Merced,Mercy Medical Center ñ Merced,106240942,Pneumonia,1.7,10,426,Better,-120.4651815,37.3402309
+2015,Modoc,Modoc Medical Center,106250956,Pneumonia,30.6,1,8,As Expected,-120.54407,41.48001
+2015,Mono,Mammoth Hospital,106260011,Pneumonia,0,0,10,As Expected,-118.96408,37.64524
+2015,Monterey,Community Hospital of The Monterey Peninsula,106270744,Pneumonia,2.7,8,232,As Expected,-121.92488,36.59827
+2015,Monterey,George L. Mee Memorial Hospital,106270777,Pneumonia,0,0,22,As Expected,-121.1325,36.2071
+2015,Monterey,Salinas Valley Memorial Hospital,106270875,Pneumonia,3.9,7,121,As Expected,-121.6481,36.66022
+2015,Monterey,Natividad Medical Center,106274043,Pneumonia,3.3,1,71,As Expected,-121.6297,36.69686
+2015,Napa,Queen of the Valley Medical Center,106281047,Pneumonia,1.6,2,105,As Expected,-122.296,38.32363
+2015,Napa,Saint Helena Hospital,106281078,Pneumonia,3.1,2,39,As Expected,-122.473003,38.53937349
+2015,Nevada,Sierra Nevada Memorial Hospital,106291023,Pneumonia,1.6,3,159,As Expected,-121.04748,39.22932
+2015,Nevada,Tahoe Forest Hospital,106291053,Pneumonia,4.2,1,54,As Expected,-120.2014553,39.3245579
+2015,Orange,Orange Coast Memorial Medical Center,106300225,Pneumonia,1.4,4,186,As Expected,-117.95524,33.70162
+2015,Orange,AHMC Anaheim Regional Medical Center,106301098,Pneumonia,0.3,1,221,Better,-117.93248,33.84725
+2015,Orange,Chapman Global Medical Center,106301140,Pneumonia,0,0,32,As Expected,-117.82586,33.78785
+2015,Orange,Fountain Valley Regional Hospital and Medical Center ñ Euclid,106301175,Pneumonia,2.7,13,303,As Expected,-117.93694,33.71546
+2015,Orange,Anaheim Global Medical Center,106301188,Pneumonia,6.2,3,40,As Expected,-117.90921,33.8209
+2015,Orange,Hoag Memorial Hospital Presbyterian,106301205,Pneumonia,2.1,9,288,As Expected,-117.92949,33.62526
+2015,Orange,Huntington Beach Hospital,106301209,Pneumonia,2,2,63,As Expected,-117.98895,33.70442
+2015,Orange,La Palma Intercommunity Hospital,106301234,Pneumonia,1.2,2,89,As Expected,-118.03737,33.8485
+2015,Orange,Los Alamitos Medical Center,106301248,Pneumonia,5.1,18,219,As Expected,-118.0674,33.80327
+2015,Orange,South Coast Global Medical Center,106301258,Pneumonia,0,0,45,As Expected,-117.88539,33.71112
+2015,Orange,Mission Hospital Regional Medical Center,106301262,Pneumonia,1.1,4,205,Better,-117.66768,33.56279
+2015,Orange,UC Irvine Medical Center,106301279,Pneumonia,1.4,2,68,As Expected,-117.89064,33.7889
+2015,Orange,Garden Grove Hospital and Medical Center,106301283,Pneumonia,0,0,69,Better,-117.9130315,33.7745089
+2015,Orange,Placentia Linda Hospital,106301297,Pneumonia,1.6,2,97,As Expected,-117.8431129,33.88704521
+2015,Orange,Saddleback Memorial Medical Center,106301317,Pneumonia,0.5,2,232,Better,-117.70837,33.60796
+2015,Orange,Mission Hospital Laguna Beach,106301337,Pneumonia,3,1,34,As Expected,-117.7422502,33.4997391
+2015,Orange,Saint Joseph Hospital ñ Orange,106301340,Pneumonia,2.8,16,324,As Expected,-117.86516,33.7823
+2015,Orange,Saint Jude Medical Center,106301342,Pneumonia,2.4,9,237,As Expected,-117.92851,33.89349
+2015,Orange,West Anaheim Medical Center,106301379,Pneumonia,1.3,3,105,As Expected,-117.99492,33.82482
+2015,Orange,Orange County Global Medical Center,106301566,Pneumonia,4.2,5,77,As Expected,-117.83398,33.75361
+2015,Orange,Kaiser Foundation Hospital ñ Orange County ñ Anaheim,106304409,Pneumonia,0.8,3,276,Better,-117.8439815,33.8544317
+2015,Placer,Sutter Auburn Faith Hospital,106310791,Pneumonia,2.2,4,104,As Expected,-121.0982,38.94452
+2015,Placer,Sutter Roseville Medical Center,106311000,Pneumonia,2.1,9,308,As Expected,-121.25055,38.76439
+2015,Placer,Kaiser Foundation Hospital ñ Roseville,106314024,Pneumonia,0.8,2,149,Better,-121.25107,38.74636
+2015,Plumas,Eastern Plumas Hospital ñ Portola Campus,106320859,Pneumonia,43.3,2,18,Worse,-120.47088,39.8052
+2015,Plumas,Plumas District Hospital,106320986,Pneumonia,0,0,15,As Expected,-120.96244,39.93938
+2015,Plumas,Seneca District Hospital,106321016,Pneumonia,0,0,19,As Expected,-121.23421,40.30518
+2015,Riverside,Corona Regional Medical Center ñ Main,106331152,Pneumonia,2.6,13,213,As Expected,-117.5668015,33.8733354
+2015,Riverside,Desert Regional Medical Center,106331164,Pneumonia,2.6,9,287,As Expected,-116.54549,33.83932
+2015,Riverside,Eisenhower Medical Center,106331168,Pneumonia,2.7,19,458,As Expected,-116.40808,33.76418
+2015,Riverside,Hemet Valley Medical Center,106331194,Pneumonia,2,9,269,As Expected,-116.95958,33.75113
+2015,Riverside,John F. Kennedy Memorial Hospital,106331216,Pneumonia,0.6,1,97,Better,-116.23391,33.70677
+2015,Riverside,Palo Verde Hospital,106331288,Pneumonia,3.4,1,30,As Expected,-114.5956,33.61315
+2015,Riverside,Parkview Community Hospital Medical Center,106331293,Pneumonia,0.9,2,186,Better,-117.43996,33.92573
+2015,Riverside,Riverside Community Hospital,106331312,Pneumonia,2.9,15,376,As Expected,-117.37997,33.97641
+2015,Riverside,San Gorgonio Memorial Hospital,106331326,Pneumonia,4.9,7,175,As Expected,-116.94678,33.9295
+2015,Riverside,Menifee Valley Medical Center,106334018,Pneumonia,3.1,3,90,As Expected,-117.15691,33.72146
+2015,Riverside,Kaiser Foundation Hospital ñ Riverside,106334025,Pneumonia,2,4,122,As Expected,-117.47082,33.9063
+2015,Riverside,Kaiser Foundation Hospital ñ Moreno Valley,106334048,Pneumonia,2.8,3,60,As Expected,-117.18094,33.89519
+2015,Riverside,Southwest Healthcare System ñ Murrieta,106334068,Pneumonia,2,9,301,As Expected,-117.18488,33.55788
+2015,Riverside,Riverside County Regional Medical Center,106334487,Pneumonia,2.3,2,109,As Expected,-117.19525,33.91187
+2015,Riverside,Temecula Valley Hospital,106334564,Pneumonia,1.8,5,169,As Expected,-117.1048018,33.4795943
+2015,Riverside,Loma Linda University Medical Center ñ Murrieta,106334589,Pneumonia,2.1,5,169,As Expected,-117.1624483,33.6122263
+2015,Sacramento,Kaiser Foundation Hospital ñ Sacramento,106340913,Pneumonia,2.8,5,108,As Expected,-121.39232,38.60197
+2015,Sacramento,Mercy General Hospital,106340947,Pneumonia,2.1,7,188,As Expected,-121.45271,38.56955
+2015,Sacramento,Mercy San Juan Hospital,106340950,Pneumonia,1.3,5,256,Better,-121.31261,38.66818
+2015,Sacramento,Methodist Hospital of Sacramento,106340951,Pneumonia,1.6,3,135,As Expected,-121.41744,38.46416
+2015,Sacramento,UC Davis Medical Center,106341006,Pneumonia,1.6,4,189,As Expected,-121.45738,38.55438
+2015,Sacramento,"Sutter Medical Center, Sacramento",106341051,Pneumonia,2,5,213,As Expected,-121.47008,38.57176
+2015,Sacramento,Sutter Memorial Hospital,106341052,Pneumonia,1.5,2,90,As Expected,-121.43948,38.57071
+2015,Sacramento,Kaiser Foundation Hospital ñ South Sacramento,106342344,Pneumonia,1.8,3,107,As Expected,-121.42409,38.47144
+2015,Sacramento,Mercy Hospital of Folsom,106344029,Pneumonia,2.4,3,105,As Expected,-121.1428,38.67223
+2015,San Benito,Hazel Hawkins Memorial Hospital,106350784,Pneumonia,0,0,75,As Expected,-121.38609,36.835
+2015,San Bernardino,Bear Valley Community Hospital,106361110,Pneumonia,25.3,1,10,As Expected,-116.88988,34.24728
+2015,San Bernardino,Chino Valley Medical Center,106361144,Pneumonia,0,0,32,As Expected,-117.687,34.02626
+2015,San Bernardino,Montclair Hospital Medical Center,106361166,Pneumonia,0,0,28,As Expected,-117.69603,34.07774
+2015,San Bernardino,Kaiser Foundation Hospital ñ Fontana,106361223,Pneumonia,1.4,14,453,Better,-117.43549,34.0725
+2015,San Bernardino,Loma Linda University Medical Center,106361246,Pneumonia,2.4,6,179,As Expected,-117.26146,34.05164
+2015,San Bernardino,Mountains Community Hospital,106361266,Pneumonia,0,0,33,As Expected,-117.16716,34.26583
+2015,San Bernardino,Redlands Community Hospital,106361308,Pneumonia,1.9,6,184,As Expected,-117.2044,34.03699
+2015,San Bernardino,San Antonio Community Hospital,106361318,Pneumonia,1.9,10,368,Better,-117.63828,34.10056
+2015,San Bernardino,Community Hospital of San Bernardino,106361323,Pneumonia,3,3,107,As Expected,-117.32245,34.13138
+2015,San Bernardino,Saint Bernardine Medical Center,106361339,Pneumonia,2.5,11,267,As Expected,-117.27865,34.1341
+2015,San Bernardino,Saint Mary Medical Center ñ Apple Valley,106361343,Pneumonia,1.9,6,226,As Expected,-117.26535,34.54053
+2015,San Bernardino,Victor Valley Global Medical Center,106361370,Pneumonia,1.2,1,96,As Expected,-117.2925622,34.5281768
+2015,San Bernardino,Colorado River Medical Center,106361458,Pneumonia,0,0,22,As Expected,-114.61818,34.8325
+2015,San Bernardino,Hi-Desert Medical Center,106362041,Pneumonia,4.1,3,93,As Expected,-116.27654,34.13323
+2015,San Bernardino,Desert Valley Hospital,106364144,Pneumonia,0.6,2,171,Better,-117.29778,34.47093
+2015,San Bernardino,Arrowhead Regional Medical Center,106364231,Pneumonia,0,0,181,Better,-117.3527761,34.07163215
+2015,San Bernardino,Barstow Community Hospital,106364430,Pneumonia,1.3,1,61,As Expected,-117.0168841,34.8935263
+2015,San Diego,Alvarado Hospital,106370652,Pneumonia,2,2,75,As Expected,-117.05683,32.77708
+2015,San Diego,Sharp Coronado Hospital and Healthcare Center,106370689,Pneumonia,0,0,24,As Expected,-117.16808,32.69427
+2015,San Diego,Sharp Memorial Hospital,106370694,Pneumonia,3.4,23,405,As Expected,-117.15531,32.80016
+2015,San Diego,Grossmont Hospital,106370714,Pneumonia,2.5,15,417,As Expected,-117.00924,32.77963
+2015,San Diego,Kaiser Foundation Hospital ñ San Diego,106370730,Pneumonia,3.4,16,319,As Expected,-117.09447,32.79287
+2015,San Diego,Scripps Mercy Hospital,106370744,Pneumonia,0.8,6,460,Better,-117.1609,32.75128
+2015,San Diego,Palomar Health Downtown Campus,106370755,Pneumonia,2.6,15,469,As Expected,-117.07585,33.12622
+2015,San Diego,Paradise Valley Hospital,106370759,Pneumonia,0.9,1,68,As Expected,-117.0830382,32.6863293
+2015,San Diego,Scripps Memorial Hospital ñ La Jolla,106370771,Pneumonia,1.8,7,157,As Expected,-117.22279,32.88506
+2015,San Diego,Tri-City Medical Center ñ Oceanside,106370780,Pneumonia,4,10,211,As Expected,-117.29027,33.18394
+2015,San Diego,UC San Diego Health System ñ Hillcrest Medical Center,106370782,Pneumonia,2.1,6,236,As Expected,-117.16498,32.75387
+2015,San Diego,Sharp Chula Vista Medical Center,106370875,Pneumonia,2.2,10,242,As Expected,-117.02488,32.61909
+2015,San Diego,Pomerado Hospital,106370977,Pneumonia,1.1,3,135,Better,-117.05784,32.99563
+2015,San Diego,Scripps Green Hospital,106371256,Pneumonia,1.5,2,65,As Expected,-117.2419,32.89654
+2015,San Diego,Scripps Memorial Hospital ñ Encinitas,106371394,Pneumonia,1.8,5,133,As Expected,-117.28495,33.0363
+2015,San Francisco,Kaiser Foundation Hospital ñ San Francisco,106380857,Pneumonia,2.4,3,56,As Expected,-122.44289,37.78274
+2015,San Francisco,Laguna Honda Hospital and Rehabilitation Center,106380865,Pneumonia,4.9,1,10,As Expected,-122.45871,37.74761
+2015,San Francisco,California Pacific Medical Center ñ Pacific Campus,106380929,Pneumonia,2.4,8,211,As Expected,-122.43102,37.79149
+2015,San Francisco,California Pacific Medical Center ñ Davies Campus,106380933,Pneumonia,2,1,51,As Expected,-122.43465,37.7691
+2015,San Francisco,San Francisco General Hospital,106380939,Pneumonia,0.6,1,186,Better,-122.40637,37.75657
+2015,San Francisco,Saint Francis Memorial Hospital,106380960,Pneumonia,2.2,3,126,As Expected,-122.41695,37.78917
+2015,San Francisco,California Pacific Medical Center ñ St. Lukeís Campus,106380964,Pneumonia,0,0,78,As Expected,-122.42052,37.74799
+2015,San Francisco,"Saint Maryís Medical Center, San Francisco",106380965,Pneumonia,2.3,3,73,As Expected,-122.45441,37.77408
+2015,San Francisco,UC San Francisco Medical Center,106381154,Pneumonia,1.9,5,186,As Expected,-122.4576564,37.7635148
+2015,San Francisco,Chinese Hospital,106382715,Pneumonia,1.8,3,133,As Expected,-122.40926,37.79565
+2015,San Joaquin,Dameron Hospital,106390846,Pneumonia,5.7,11,143,As Expected,-121.30061,37.9613
+2015,San Joaquin,Lodi Memorial Hospital,106390923,Pneumonia,1.8,4,256,As Expected,-121.2859,38.12146
+2015,San Joaquin,San Joaquin General Hospital,106391010,Pneumonia,2.4,3,66,As Expected,-121.28918,37.88594
+2015,San Joaquin,Saint Josephís Medical Center of Stockton,106391042,Pneumonia,0,0,182,Better,-121.2891,37.97075
+2015,San Joaquin,Sutter Tracy Community Hospital,106391056,Pneumonia,0,0,82,As Expected,-121.43482,37.74366
+2015,San Joaquin,Doctors Hospital of Manteca,106392287,Pneumonia,3,3,115,As Expected,-121.19818,37.80118
+2015,San Joaquin,Kaiser Foundation Hospital ñ Manteca,106394009,Pneumonia,2,3,93,As Expected,-121.24612,37.79751
+2015,San Luis Obispo,Marian Regional Medical Center ñ Arroyo Grande,106400466,Pneumonia,3.5,4,68,As Expected,-120.59147,35.11369
+2015,San Luis Obispo,French Hospital Medical Center,106400480,Pneumonia,0.8,1,71,As Expected,-120.64977,35.27801
+2015,San Luis Obispo,Sierra Vista Regional Medical Center,106400524,Pneumonia,0,0,78,As Expected,-120.66576,35.29105
+2015,San Luis Obispo,Twin Cities Community Hospital,106400548,Pneumonia,5.9,9,131,As Expected,-120.71967,35.5543
+2015,San Mateo,San Mateo Medical Center,106410782,Pneumonia,2.8,2,105,As Expected,-122.29951,37.53017
+2015,San Mateo,Kaiser Foundation Hospital ñ South San Francisco,106410806,Pneumonia,1.1,2,83,As Expected,-122.43837,37.65806
+2015,San Mateo,Seton Medical Center,106410817,Pneumonia,2.6,9,167,As Expected,-122.47283,37.68172
+2015,San Mateo,Peninsula Medical Center,106410852,Pneumonia,0.6,2,181,Better,-122.3832465,37.5944692
+2015,San Mateo,Sequoia Hospital,106410891,Pneumonia,0,0,82,Better,-122.25377,37.48129
+2015,San Mateo,Kaiser Foundation Hospital ñ Redwood City,106414139,Pneumonia,2.2,4,88,As Expected,-122.22463,37.48967
+2015,Santa Barbara,Goleta Valley Cottage Hospital,106420483,Pneumonia,0,0,23,As Expected,-119.80929,34.43336
+2015,Santa Barbara,Lompoc Valley Medical Center,106420491,Pneumonia,5.9,5,78,As Expected,-120.4396497,34.639252
+2015,Santa Barbara,Marian Regional Medical Center,106420493,Pneumonia,2.5,3,83,As Expected,-120.41338,34.95198
+2015,Santa Barbara,Santa Barbara Cottage Hospital,106420514,Pneumonia,2.6,8,212,As Expected,-119.72318,34.42943
+2015,Santa Barbara,Santa Ynez Valley Cottage Hospital,106420522,Pneumonia,5.5,1,18,As Expected,-120.126198,34.602458
+2015,Santa Clara,Regional Medical of San Jose,106430705,Pneumonia,2.3,13,429,As Expected,-121.84837,37.36332
+2015,Santa Clara,El Camino Hospital,106430763,Pneumonia,4.1,16,299,As Expected,-122.07801,37.36779
+2015,Santa Clara,Good Samaritan Hospital ñ San Jose,106430779,Pneumonia,2.5,8,200,As Expected,-121.9449,37.25116
+2015,Santa Clara,OíConnor Hospital,106430837,Pneumonia,2.9,6,166,As Expected,-121.93727,37.32714
+2015,Santa Clara,Santa Clara Valley Medical Center,106430883,Pneumonia,2.8,5,174,As Expected,-121.93202,37.31346
+2015,Santa Clara,Stanford Hospital,106430905,Pneumonia,1.5,4,210,As Expected,-122.17827,37.43342
+2015,Santa Clara,Kaiser Foundation Hospital ñ San Jose,106431506,Pneumonia,1.1,2,100,As Expected,-121.80269,37.23924
+2015,Santa Clara,Saint Louise Regional Hospital,106434138,Pneumonia,4.4,5,103,As Expected,-121.57411,37.03731
+2015,Santa Clara,Kaiser Foundation Hospital ñ Santa Clara,106434153,Pneumonia,3,7,111,As Expected,-121.995774,37.334597
+2015,Santa Cruz,Dominican Hospital,106440755,Pneumonia,4,7,190,As Expected,-121.98489,36.98806
+2015,Santa Cruz,Watsonville Community Hospital,106444013,Pneumonia,4.8,6,91,As Expected,-121.79173,36.92839
+2015,Shasta,Mayers Memorial Hospital,106450936,Pneumonia,5.6,1,24,As Expected,-121.42442,41.02423
+2015,Shasta,Shasta Regional Medical Center,106450940,Pneumonia,1.9,5,143,As Expected,-122.3862952,40.5855423
+2015,Shasta,Mercy Medical Center ñ Redding,106450949,Pneumonia,1.5,8,248,Better,-122.39742,40.57204
+2015,Siskiyou,Mercy Medical Center Mt. Shasta,106470871,Pneumonia,0,0,36,As Expected,-122.323,41.31896
+2015,Siskiyou,Fairchild Medical Center,106474007,Pneumonia,2,2,75,As Expected,-122.64353,41.71865
+2015,Solano,Kaiser Foundation Hospital ñ Rehabilitation Center Vallejo,106480989,Pneumonia,1.6,3,95,As Expected,-122.24761,38.12839
+2015,Solano,Sutter Solano Medical Center,106481094,Pneumonia,2.2,2,102,As Expected,-122.23912,38.13117
+2015,Solano,North Bay Medical Center,106481357,Pneumonia,3.5,11,194,As Expected,-122.05076,38.26097
+2015,Solano,Kaiser Foundation Hospital ñ Vacaville,106484044,Pneumonia,1.4,3,108,As Expected,-121.9373177,38.3894968
+2015,Sonoma,Healdsburg District Hospital,106490964,Pneumonia,4.8,1,36,As Expected,-122.86385,38.62764
+2015,Sonoma,Petaluma Valley Hospital,106491001,Pneumonia,1.8,1,62,As Expected,-122.63302,38.25323
+2015,Sonoma,Santa Rosa Memorial Hospital ñ Montgomery,106491064,Pneumonia,2.9,7,191,As Expected,-122.70114,38.44304
+2015,Sonoma,Sonoma Valley Hospital,106491076,Pneumonia,0,0,14,As Expected,-122.46524,38.28841
+2015,Sonoma,Kaiser Foundation Hospital ñ Santa Rosa,106494019,Pneumonia,0.9,2,94,Better,-122.73119,38.47087
+2015,Sonoma,Sutter Santa Rosa Regional Hospital,106494106,Pneumonia,1.9,2,63,As Expected,-122.7514,38.49636
+2015,Stanislaus,Doctors Medical Center,106500852,Pneumonia,4.5,15,397,As Expected,-120.99631,37.66439
+2015,Stanislaus,Emanuel Medical Center,106500867,Pneumonia,3.6,15,335,As Expected,-120.83966,37.51052
+2015,Stanislaus,Memorial Hospital Medical Center ñ Modesto,106500939,Pneumonia,2,9,267,As Expected,-120.97546,37.66727
+2015,Stanislaus,Oak Valley District Hospital,106500967,Pneumonia,7.4,2,44,As Expected,-120.86031,37.75782
+2015,Tehama,Saint Elizabeth Community Hospital,106521041,Pneumonia,4.4,5,84,As Expected,-122.21887,40.1495
+2015,Trinity,Trinity Hospital,106531059,Pneumonia,0,0,30,As Expected,-122.94037,40.73784
+2015,Tulare,Kaweah Delta Medical Center,106540734,Pneumonia,1.9,16,510,Better,-119.29345,36.32753
+2015,Tulare,Sierra View Medical Center,106540798,Pneumonia,7,20,227,Worse,-119.02727,36.06948
+2015,Tulare,Tulare Regional Medical Center,106540816,Pneumonia,1.8,4,142,As Expected,-119.33775,36.22217
+2015,Tuolumne,Sonora Regional Medical Center ñ Greenley,106554011,Pneumonia,2,4,127,As Expected,-120.36965,37.98811
+2015,Ventura,Community Memorial Hospital ñ San Buenaventura,106560473,Pneumonia,0.5,1,126,Better,-119.258124,34.274589
+2015,Ventura,Ventura County Medical Center,106560481,Pneumonia,4.7,6,91,As Expected,-119.2517,34.27634
+2015,Ventura,Los Robles Hospital and Medical Center,106560492,Pneumonia,1.9,6,183,As Expected,-118.89297,34.20539
+2015,Ventura,Ojai Valley Community Hospital,106560501,Pneumonia,0,0,21,As Expected,-119.26311,34.44221
+2015,Ventura,Saint Johnís Pleasant Valley Hospital,106560508,Pneumonia,3.7,6,129,As Expected,-119.018,34.24177
+2015,Ventura,Simi Valley Hospital and Healthcare Services ñ Sycamore,106560525,Pneumonia,2.3,5,122,As Expected,-118.74405,34.28945
+2015,Ventura,Saint Johnís Regional Medical Center,106560529,Pneumonia,3,14,252,As Expected,-119.15819,34.21687
+2015,Yolo,Woodland Memorial Hospital,106571086,Pneumonia,9.2,6,68,Worse,-121.7933,38.66284
+2015,Yolo,Sutter Davis Hospital,106574010,Pneumonia,0,0,50,As Expected,-121.77244,38.56154
+2015,Yuba,Rideout Memorial Hospital,106580996,Pneumonia,4.1,17,346,As Expected,-121.594363,39.138222
