@@ -1,0 +1,38 @@
+dom,mth1,mth2,mth3,mth4,mth5,mth6,mth7,mth8,mth9,mth10,mth11,mth12 
+1,,,4.9,,,,,,,,, 
+2,,6.4,,,,,,,,,, 
+3,18.3,,,,,,,,,,, 
+4,,,7.6,,,,,,,,, 
+6,5.8,,,,,,,,,,, 
+8,,9.1,,,,,,,,,, 
+9,2.0,,,,,,,,,,, 
+10,,,7.1,,,,,,,,, 
+11,,1.2,,,,,,,,,, 
+12,13.5,,,,,,,,,,, 
+13,,,7.0,,,,,,,,, 
+14,,3.6,,,,,,,,,, 
+15,2.8,,,,,,,,,,, 
+16,,,6.9,,,,,,,,, 
+17,,6.0,,,,,,,,,, 
+18,1.8,,,,,,,,,,, 
+19,,,9.3,,,,,,,,, 
+21,9.7,,,,,,,,,,, 
+22,,,4.9,,,,,,,,, 
+24,6.8,,,,,,,,,,, 
+25,,,5.2,,,,,,,,, 
+27,9.6,,,,,,,,,,, 
+28,,,1.5,,,,,,,,, 
+30,13.3,,,,,,,,,,, 
+31,,,4.0,,,,,,,,,
+ 
+ Quality Flag Definition 
+0, Valid observation 
+1, The data supplier marked the observation as suspect - but it is still valid 
+2, The automated qa routine judged the observation questionable and invalid 
+3, The automated qa routine judged the observation invalid  
+4, The data supplier flagged the observation invalid  
+5, The observation was flagged invalid manually  
+
+Data extracted from mrgd database: 
+November 17, 2019 at 18:42:42
+  
