@@ -1,0 +1,244 @@
+{
+  "Header": [
+    {
+      "status": "Success",
+      "request_time": "2019-11-25T12:17:31-05:00",
+      "url": "https://aqs.epa.gov/data/api/list/countiesByState?email=test@aqs.api&key=test&state=06",
+      "rows": 58
+    }
+  ],
+  "Data": [
+    {
+      "code": "001",
+      "value_represented": "Alameda"
+    },
+    {
+      "code": "003",
+      "value_represented": "Alpine"
+    },
+    {
+      "code": "005",
+      "value_represented": "Amador"
+    },
+    {
+      "code": "007",
+      "value_represented": "Butte"
+    },
+    {
+      "code": "009",
+      "value_represented": "Calaveras"
+    },
+    {
+      "code": "011",
+      "value_represented": "Colusa"
+    },
+    {
+      "code": "013",
+      "value_represented": "Contra Costa"
+    },
+    {
+      "code": "015",
+      "value_represented": "Del Norte"
+    },
+    {
+      "code": "017",
+      "value_represented": "El Dorado"
+    },
+    {
+      "code": "019",
+      "value_represented": "Fresno"
+    },
+    {
+      "code": "021",
+      "value_represented": "Glenn"
+    },
+    {
+      "code": "023",
+      "value_represented": "Humboldt"
+    },
+    {
+      "code": "025",
+      "value_represented": "Imperial"
+    },
+    {
+      "code": "027",
+      "value_represented": "Inyo"
+    },
+    {
+      "code": "029",
+      "value_represented": "Kern"
+    },
+    {
+      "code": "031",
+      "value_represented": "Kings"
+    },
+    {
+      "code": "033",
+      "value_represented": "Lake"
+    },
+    {
+      "code": "035",
+      "value_represented": "Lassen"
+    },
+    {
+      "code": "037",
+      "value_represented": "Los Angeles"
+    },
+    {
+      "code": "039",
+      "value_represented": "Madera"
+    },
+    {
+      "code": "041",
+      "value_represented": "Marin"
+    },
+    {
+      "code": "043",
+      "value_represented": "Mariposa"
+    },
+    {
+      "code": "045",
+      "value_represented": "Mendocino"
+    },
+    {
+      "code": "047",
+      "value_represented": "Merced"
+    },
+    {
+      "code": "049",
+      "value_represented": "Modoc"
+    },
+    {
+      "code": "051",
+      "value_represented": "Mono"
+    },
+    {
+      "code": "053",
+      "value_represented": "Monterey"
+    },
+    {
+      "code": "055",
+      "value_represented": "Napa"
+    },
+    {
+      "code": "057",
+      "value_represented": "Nevada"
+    },
+    {
+      "code": "059",
+      "value_represented": "Orange"
+    },
+    {
+      "code": "061",
+      "value_represented": "Placer"
+    },
+    {
+      "code": "063",
+      "value_represented": "Plumas"
+    },
+    {
+      "code": "065",
+      "value_represented": "Riverside"
+    },
+    {
+      "code": "067",
+      "value_represented": "Sacramento"
+    },
+    {
+      "code": "069",
+      "value_represented": "San Benito"
+    },
+    {
+      "code": "071",
+      "value_represented": "San Bernardino"
+    },
+    {
+      "code": "073",
+      "value_represented": "San Diego"
+    },
+    {
+      "code": "075",
+      "value_represented": "San Francisco"
+    },
+    {
+      "code": "077",
+      "value_represented": "San Joaquin"
+    },
+    {
+      "code": "079",
+      "value_represented": "San Luis Obispo"
+    },
+    {
+      "code": "081",
+      "value_represented": "San Mateo"
+    },
+    {
+      "code": "083",
+      "value_represented": "Santa Barbara"
+    },
+    {
+      "code": "085",
+      "value_represented": "Santa Clara"
+    },
+    {
+      "code": "087",
+      "value_represented": "Santa Cruz"
+    },
+    {
+      "code": "089",
+      "value_represented": "Shasta"
+    },
+    {
+      "code": "091",
+      "value_represented": "Sierra"
+    },
+    {
+      "code": "093",
+      "value_represented": "Siskiyou"
+    },
+    {
+      "code": "095",
+      "value_represented": "Solano"
+    },
+    {
+      "code": "097",
+      "value_represented": "Sonoma"
+    },
+    {
+      "code": "099",
+      "value_represented": "Stanislaus"
+    },
+    {
+      "code": "101",
+      "value_represented": "Sutter"
+    },
+    {
+      "code": "103",
+      "value_represented": "Tehama"
+    },
+    {
+      "code": "105",
+      "value_represented": "Trinity"
+    },
+    {
+      "code": "107",
+      "value_represented": "Tulare"
+    },
+    {
+      "code": "109",
+      "value_represented": "Tuolumne"
+    },
+    {
+      "code": "111",
+      "value_represented": "Ventura"
+    },
+    {
+      "code": "113",
+      "value_represented": "Yolo"
+    },
+    {
+      "code": "115",
+      "value_represented": "Yuba"
+    }
+  ]
+}
